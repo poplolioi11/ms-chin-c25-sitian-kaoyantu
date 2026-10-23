@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+type: dataset
+message: 請引用此固定初錄版本，並另引歷史作者與Bodleian底本；未經獨立覆核。
+title: 《司天考驗圖》MS.Chin.c.25：影像初錄（未獨立覆核） / Si tian kao yan tu First-Pass Transcription
+authors:
+- name: 一卦 yigua.art / poplolioi11
+  website: https://yigua.art
+version: 0.1.0
+repository-artifact: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu
+url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu
+license-url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/blob/v0.1.0/LICENSE.md
+abstract: 30 canvases, AI-assisted first-pass transcription, no independent collation
+  or expert review. Source applicable rights CC BY-NC 4.0; original contributions
+  CC BY 4.0. Distinct layers, not alternative licences. DOI, if listed, was reserved
+  for preparation and is not a quality endorsement.
+doi: 10.5281/zenodo.23588495

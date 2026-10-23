@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "scope": "30-canvas source hashes, order, bounds, figure-label references, exact uncertainty locations, JSON/TXT/TEI roundtrip, official TEI P5 4.12.0 Relax NG; not textual accuracy",
+  "source_sha256_verified": 30,
+  "initial_transcription_canvases": 30,
+  "independent_review_canvases": 0,
+  "text_regions": 1414,
+  "figures": 36,
+  "uncertainty_records": 124,
+  "placeholder_codepoints": 124,
+  "confirmed_blank_canvases": [
+    2,
+    3,
+    4,
+    28,
+    29,
+    30
+  ],
+  "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+  "negative_tests": {
+    "missing-page": "rejected",
+    "page-order": "rejected",
+    "changed-source": "rejected",
+    "duplicate-id": "rejected",
+    "dropped-region": "rejected",
+    "changed-character": "rejected",
+    "changed-uncertainty-position": "rejected",
+    "external-entity": "rejected",
+    "changed-xml-source": "rejected",
+    "changed-uncertainty-extent": "rejected"
+  },
+  "cff_schema": "Official 1.2.0; complete Draft7 schema with format checker",
+  "cff_schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+  "schema_source": "https://www.tei-c.org/Vault/P5/4.12.0/xml/tei/custom/schema/relaxng/tei_all.rng",
+  "human_expert_review": "not-run",
+  "public_download_checks": "performed after publication; not a prepublication claim"
+}

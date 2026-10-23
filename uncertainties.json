@@ -1,0 +1,1348 @@
+[
+  {
+    "canvas_index": 1,
+    "label": "Upper cover",
+    "region_id": "c001-r001",
+    "position_1based_codepoint": 5,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 1,
+    "label": "Upper cover",
+    "region_id": "c001-r003",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r015",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "田畋"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r029",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天淵"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r040",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "八魁"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r048",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "八魁"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r114",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天江"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r130",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "燕"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r134",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r135",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "夫人"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r139",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "趙"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r145",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "上丞"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r159",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天紀"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r173",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "上丞"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r208",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天倉"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r210",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天溷"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r238",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "咸池"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r240",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "仙紐"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r298",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "天矛"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r357",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "五諸"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r365",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "常陳"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r376",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "此民"
+    ],
+    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r435",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "藍色館藏印淡褪，不能確定字數及完整內容",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 7,
+    "label": "fol. 2a",
+    "region_id": "c007-r008",
+    "position_1based_codepoint": 16,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 7,
+    "label": "fol. 2a",
+    "region_id": "c007-r067",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r003",
+    "position_1based_codepoint": 9,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r004",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "朱印淡褪，不能確定完整字數與印文",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r005",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r009",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r014",
+    "position_1based_codepoint": 13,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r005",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "朱印淡褪，不能確定完整字數與印文",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r008",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r005",
+    "position_1based_codepoint": 17,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r004",
+    "position_1based_codepoint": 9,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 31,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 13,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 11,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r010",
+    "position_1based_codepoint": 34,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r011",
+    "position_1based_codepoint": 21,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r010",
+    "position_1based_codepoint": 5,
+    "marker": "□",
+    "candidates": [],
+    "reason": "依本頁影像初讀仍不能確辨字形",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r002",
+    "position_1based_codepoint": 16,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r003",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r003",
+    "position_1based_codepoint": 11,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r003",
+    "position_1based_codepoint": 18,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 15,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 31,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r010",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r010",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r010",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r010",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r010",
+    "position_1based_codepoint": 16,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r013",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r013",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r013",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r013",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r005",
+    "position_1based_codepoint": 12,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r010",
+    "position_1based_codepoint": 32,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r013",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r013",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r013",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r013",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r004",
+    "position_1based_codepoint": 25,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r012",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r012",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r012",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r012",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r002",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r011",
+    "position_1based_codepoint": 8,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r014",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r014",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r014",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r014",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r008",
+    "position_1based_codepoint": 21,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r011",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r011",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r011",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r011",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r008",
+    "position_1based_codepoint": 17,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r010",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r010",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r010",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r010",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r013",
+    "position_1based_codepoint": 20,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r014",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r014",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r014",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r014",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r016",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r020",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r024",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r035",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "此處地名被濃墨重寫遮蓋，原文與總字數未能確定",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r047",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r048",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r050",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r069",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "紙張左側摺邊截去度數前部，缺失長度未定；僅末字十可見",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r076",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像字形未能確定；未按文義或他本補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r030",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "細字或重疊筆畫未確；未依地名補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r034",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "西",
+      "厄"
+    ],
+    "reason": "首字似西或厄，未確",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r037",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "末字小筆重疊，未確",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r047",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [
+      "羯"
+    ],
+    "reason": "末字筆畫與地界線相交，候選羯，未定",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r074",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "巴",
+      "星"
+    ],
+    "reason": "中間字小筆畫不清，候選巴或星，不以文義定讀",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r077",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "二",
+      "三"
+    ],
+    "reason": "前二字筆畫相接；第一字二或三未確，第二字候選佛或麻；末字依圖為齊",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r077",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "佛",
+      "麻"
+    ],
+    "reason": "前二字筆畫相接；第一字二或三未確，第二字候選佛或麻；末字依圖為齊",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r112",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [
+      "濟"
+    ],
+    "reason": "第三字濃墨與線紋重疊；候選濟",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r113",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "糸"
+    ],
+    "reason": "第二字形近糸，筆畫與經線重疊",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r125",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "右字複雜且墨色重疊，不能據現代地名補字",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r128",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "匿",
+      "遷"
+    ],
+    "reason": "第二字形近匿或遷，未確",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r140",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "臘"
+    ],
+    "reason": "中間字筆畫未確；候選臘",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r146",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "峰",
+      "峯"
+    ],
+    "reason": "峰字形山部位置未能確定，候選峰或峯",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r158",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "蘇",
+      "禮"
+    ],
+    "reason": "首字繁密且與地圖線紋相交，候選蘇或禮，未定",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r162",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "隱"
+    ],
+    "reason": "首字王旁馬部依圖為瑪；第二字在書縫近側細部不確，候選隱",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r195",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "刻度字墨色與原筆重疊，僅據所見保留，不以連續數列推補",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r196",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "刻度字墨色與原筆重疊，僅據所見保留，不以連續數列推補",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r207",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "亞泥與國之間一字筆畫未確",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r209",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
+    "status": "unresolved",
+    "extent": "three visible clipped glyph fragments; total label length unknown"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r209",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [],
+    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
+    "status": "unresolved",
+    "extent": "three visible clipped glyph fragments; total label length unknown"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r209",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [],
+    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
+    "status": "unresolved",
+    "extent": "three visible clipped glyph fragments; total label length unknown"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r210",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像右緣只餘一字左側部分",
+    "status": "unresolved",
+    "extent": "one visible clipped glyph fragment"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r212",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "蠻",
+      "蠅"
+    ],
+    "reason": "第二字蟲旁右部不清，候選蠻或蠅",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r213",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "影像最右緣分布多段字的左側殘筆；已檢視，原標籤總字數不能確定",
+    "status": "unresolved",
+    "extent": "multiple clipped glyph fragments in one vertical label; total length undetermined"
+  },
+  {
+    "canvas_index": 26,
+    "label": "fol. (10a)b",
+    "region_id": "c026-r009",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 26,
+    "label": "fol. (10a)b",
+    "region_id": "c026-r010",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 26,
+    "label": "fol. (10a)b",
+    "region_id": "c026-r011",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 26,
+    "label": "fol. (10a)b",
+    "region_id": "c026-r012",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "status": "unresolved",
+    "extent": "unknown"
+  }
+]
