@@ -35,11 +35,13 @@ JSON/TXT/TEI回讀、頁序、ID、來源雜湊、文字框範圍、疑字定位
 
 ## 引用、版本與訂正
 
-本版的 Zenodo 版本 DOI 尚未建立；請先以固定 GitHub v0.2.0 連結引用。以下全版本 DOI 目前仍指向舊版，不能用來代表本次二校。 [全版本DOI](https://doi.org/10.5281/zenodo.23588494) · [GitHub固定v0.2.0](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0)。
+本版已封存於 Zenodo：[版本 DOI 10.5281/zenodo.23723751](https://doi.org/10.5281/zenodo.23723751)。 [全版本DOI](https://doi.org/10.5281/zenodo.23588494) · [GitHub固定v0.2.0](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0)。
 
-Chu, Chen-Yu（曲宸宇）. (2026). 《司天考驗圖》MS.Chin.c.25：獨立 AI 二校（保留疑字）, v0.2.0.
+Chu, Chen-Yu（曲宸宇）. (2026). 《司天考驗圖》MS.Chin.c.25：獨立 AI 二校（保留疑字）, v0.2.0. https://doi.org/10.5281/zenodo.23723751
 
 研究引用請另列歷史作者、Bodleian底本與具體畫布／區塊。v0.1.0初錄、舊tag、檔案與[舊版DOI](https://doi.org/10.5281/zenodo.23588495)均保留。新版不回寫舊版。歡迎在[Issues](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/issues)附原頁證據訂正，見[CONTRIBUTING.md](CONTRIBUTING.md)。
+
+固定 v0.2.0 的 tag、ZIP 與 Zenodo 檔案在 DOI 建立前已製備，其中待辦狀態是當時快照；本頁為發布後的目前入口。`SHA256SUMS` 核對固定封存包，後續更新的 `main` README 與 CITATION.cff 另以 Git 提交追蹤。正文與固定包沒有回寫。
 
 ## English summary
 
