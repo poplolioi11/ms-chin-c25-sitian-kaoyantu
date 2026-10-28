@@ -4,83 +4,123 @@
     "label": "Upper cover",
     "region_id": "c001-r001",
     "position_1based_codepoint": 5,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "marker": "啚",
+    "candidates": [
+      "圖"
+    ],
+    "reason": "末字為省寫／異體，啚為隸定，與圖之草寫仍有解釋空間。",
     "status": "unresolved"
   },
   {
-    "canvas_index": 1,
-    "label": "Upper cover",
-    "region_id": "c001-r003",
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r022",
+    "position_1based_codepoint": 1,
+    "marker": "齊",
+    "candidates": [
+      "斧"
+    ],
+    "reason": "字形與星線相交，上部及下部細筆仍有歧，保留原錄與候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r023",
+    "position_1based_codepoint": 1,
+    "marker": "代",
+    "candidates": [
+      "伐"
+    ],
+    "reason": "弋／戈的額外撇筆與星線不能可靠分開。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r044",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [
+      "路",
+      "客"
+    ],
+    "reason": "小字足旁／宀旁仍未唯一判定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r044",
     "position_1based_codepoint": 4,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "關",
+      "內"
+    ],
+    "reason": "門部與冂部省寫仍有歧。",
     "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r015",
-    "position_1based_codepoint": 1,
+    "region_id": "c006-r044",
+    "position_1based_codepoint": 5,
     "marker": "□",
     "candidates": [
-      "田畋"
+      "梁",
+      "候"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "末字與星線交疊，尚不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r053",
+    "position_1based_codepoint": 1,
+    "marker": "鼈",
+    "candidates": [
+      "鱉"
+    ],
+    "reason": "下部黽／魚的細筆與星線相交，保留字形候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r063",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "原框中心有細短筆與星線相接，不能確定文字內容或字數；鄰近司命由r069另錄。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r029",
+    "region_id": "c006-r101",
     "position_1based_codepoint": 1,
-    "marker": "□",
+    "marker": "杓",
     "candidates": [
-      "天淵"
+      "拘"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "星圈與勺部相接，木／扌細筆仍有歧。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r040",
+    "region_id": "c006-r122",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "八魁"
+      "斬",
+      "漸臺",
+      "五車"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r048",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "八魁"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r114",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "天江"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "原框截取的小字與鄰字、星線交疊，字數與隸定未能唯一判斷。",
     "status": "unresolved",
     "extent": "unknown"
   },
@@ -91,11 +131,10 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "燕"
+      "帛"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "細字與星圈重疊，仍不足唯一隸定。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
@@ -103,179 +142,321 @@
     "region_id": "c006-r134",
     "position_1based_codepoint": 1,
     "marker": "□",
+    "candidates": [
+      "龜夾",
+      "龜俠"
+    ],
+    "reason": "兩個細字與星圈相連，未能可靠隸定或確定分組。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r158",
+    "position_1based_codepoint": 2,
+    "marker": "房",
+    "candidates": [
+      "廚"
+    ],
+    "reason": "小字戶／广部與內部細筆仍有歧。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r179",
+    "position_1based_codepoint": 1,
+    "marker": "大",
+    "candidates": [
+      "天"
+    ],
+    "reason": "上方一橫與星線相接，不能唯一判定天／大。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r181",
+    "position_1based_codepoint": 1,
+    "marker": "鉤",
+    "candidates": [
+      "鈎"
+    ],
+    "reason": "句／勾部省寫與星線交接，異體隸定仍有歧。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r226",
+    "position_1based_codepoint": 2,
+    "marker": "畢",
+    "candidates": [
+      "街"
+    ],
+    "reason": "小字繁筆受圖線干擾，畢／街仍保留候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r233",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "四輔",
+      "頭"
+    ],
+    "reason": "三黑點附近細字與星線相交，隸定和字數仍未能確定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r251",
+    "position_1based_codepoint": 2,
+    "marker": "潢",
+    "candidates": [
+      "棓"
+    ],
+    "reason": "兩次獨立稿本身在此處有棓／潢歧讀；原生大區圖較支持潢，仍保留候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r253",
+    "position_1based_codepoint": 1,
+    "marker": "太",
+    "candidates": [
+      "天"
+    ],
+    "reason": "點與星線相交，太／天仍有歧。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r255",
+    "position_1based_codepoint": 1,
+    "marker": "權",
+    "candidates": [
+      "樞",
+      "輔"
+    ],
+    "reason": "右部密畫與星圈相接，尚不能唯一判定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r257",
+    "position_1based_codepoint": 1,
+    "marker": "參",
+    "candidates": [
+      "朱"
+    ],
+    "reason": "上部省筆與圖線交接，仍有朱／參歧讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r260",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "內階",
+      "天牢",
+      "天床"
+    ],
+    "reason": "圈內密字與星線交疊，字形及分組未能唯一判定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r265",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "少宰"
+    ],
+    "reason": "提示位置為星線，鄰近文字分組與原錄少宰未能確定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r270",
+    "position_1based_codepoint": 1,
+    "marker": "天",
     "candidates": [],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "原提示截在兩字之間，完整字組以擴框讀取，與鄰標籤的界限仍保留疑問。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r273",
+    "position_1based_codepoint": 1,
+    "marker": "璇",
+    "candidates": [],
+    "reason": "單字與星圈相接，王旁及右部細筆仍未能唯一判定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r280",
+    "position_1based_codepoint": 1,
+    "marker": "天",
+    "candidates": [],
+    "reason": "理字可辨，旁邊天字的分組仍保留疑問。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r281",
+    "position_1based_codepoint": 5,
+    "marker": "□",
+    "candidates": [
+      "主"
+    ],
+    "reason": "旁側小註首字細筆不清，與大字標籤分行。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r311",
+    "position_1based_codepoint": 1,
+    "marker": "中",
+    "candidates": [
+      "少"
+    ],
+    "reason": "首字與折痕接近，中／少仍難唯一判讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r329",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "上將",
+      "大夫"
+    ],
+    "reason": "窄框只截細字部分，與鄰文接續未定。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r135",
+    "region_id": "c006-r332",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "夫人"
+      "次將",
+      "將"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "細字與星圈相接，與鄰文關係尚未唯一判定。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r139",
+    "region_id": "c006-r334",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "趙"
+      "謁者",
+      "長垣"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "原框與旁側文字接續未定，不能唯一對應名稱。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r145",
+    "region_id": "c006-r343",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "上丞"
+      "次相"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
+    "reason": "小字受線條和修改樣筆畫干擾，未能確判字組。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r159",
-    "position_1based_codepoint": 1,
-    "marker": "□",
+    "region_id": "c006-r351",
+    "position_1based_codepoint": 2,
+    "marker": "相",
     "candidates": [
-      "天紀"
+      "將"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "疊筆及星線相接，仍保留將候選。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r173",
+    "region_id": "c006-r434",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "上丞"
+      "形"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "紅篆印第一字未能可靠隸定；原錄候選另存。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r208",
-    "position_1based_codepoint": 1,
+    "region_id": "c006-r434",
+    "position_1based_codepoint": 2,
     "marker": "□",
     "candidates": [
-      "天倉"
+      "器"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "紅篆印第二字未能可靠隸定。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r210",
-    "position_1based_codepoint": 1,
+    "region_id": "c006-r434",
+    "position_1based_codepoint": 3,
     "marker": "□",
     "candidates": [
-      "天溷"
+      "先"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "紅篆印第三字未能可靠隸定。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
     "label": "fol. 1b",
-    "region_id": "c006-r238",
-    "position_1based_codepoint": 1,
+    "region_id": "c006-r434",
+    "position_1based_codepoint": 4,
     "marker": "□",
     "candidates": [
-      "咸池"
+      "生"
     ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r240",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "仙紐"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r298",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "天矛"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r357",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "五諸"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r365",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "常陳"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "label": "fol. 1b",
-    "region_id": "c006-r376",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "此民"
-    ],
-    "reason": "密集小字或草書初讀未確辨，保留整個標籤範圍；候選不是已確認轉錄",
-    "status": "unresolved",
-    "extent": "unknown"
+    "reason": "紅篆印第四字未能可靠隸定。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 6,
@@ -284,79 +465,465 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "藍色館藏印淡褪，不能確定字數及完整內容",
+    "reason": "淡藍館藏記號擦抹，字數及全串內容均不能可靠還原。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r439",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "女宿旁有數組細字旁註，無法可靠分句與定字數。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r440",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "司民"
+    ],
+    "reason": "兩星間細字受圖線干擾，候選仍未能採定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r442",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "腰"
+    ],
+    "reason": "身體部位小註上端另有字形，字數與隸定未定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "label": "fol. 1b",
+    "region_id": "c006-r444",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "旗",
+      "輔"
+    ],
+    "reason": "折痕旁另有單字，細筆和折痕相接，未能定讀。",
     "status": "unresolved",
     "extent": "unknown"
   },
   {
     "canvas_index": 7,
     "label": "fol. 2a",
-    "region_id": "c007-r008",
-    "position_1based_codepoint": 16,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "region_id": "c007-r011",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "篆印中部墨線黏連，尚不足唯一隸定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 7,
     "label": "fol. 2a",
-    "region_id": "c007-r067",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "region_id": "c007-r050",
+    "position_1based_codepoint": 1,
+    "marker": "大",
+    "candidates": [
+      "太"
+    ],
+    "reason": "大下與捺附近未見可確認附點；小字仍容有省筆。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 7,
+    "label": "fol. 2a",
+    "region_id": "c007-r057",
+    "position_1based_codepoint": 1,
+    "marker": "公",
+    "candidates": [
+      "少"
+    ],
+    "reason": "首字墨筆短且相接，公／少仍有辨形餘地。",
     "status": "unresolved"
   },
   {
     "canvas_index": 8,
     "label": "fol. 2b",
-    "region_id": "c008-r003",
-    "position_1based_codepoint": 9,
+    "region_id": "c008-r002",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "中段篆筆連合，不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r006",
+    "position_1based_codepoint": 19,
+    "marker": "東",
+    "candidates": [
+      "東",
+      "旁"
+    ],
+    "reason": "居後首字中部極度省連，尚有辨形餘地。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r008",
+    "position_1based_codepoint": 21,
+    "marker": "靈",
+    "candidates": [
+      "靈"
+    ],
+    "reason": "雨部與下部連筆，小字無法完全拆開；不能僅據星官名定字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r011",
+    "position_1based_codepoint": 19,
+    "marker": "帛",
+    "candidates": [
+      "席",
+      "東",
+      "帛"
+    ],
+    "reason": "原生高解析見上白形及下巾的穿豎，暫讀帛；筆畫不夠典型，保留兩稿候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r036",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "諸"
+    ],
+    "reason": "中間字左部在書縫中，殘筆不足隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r036",
+    "position_1based_codepoint": 3,
+    "marker": "侯",
+    "candidates": [
+      "侯"
+    ],
+    "reason": "左側折入，僅右側矢與局部人筆可見。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 8,
+    "label": "fol. 2b",
+    "region_id": "c008-r053",
+    "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "reason": "文字主要陷入折縫，無法確定字數及隸定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r003",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "印內中段筆線黏合，尚不能唯一隸定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 9,
     "label": "fol. 3a",
-    "region_id": "c009-r004",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "朱印淡褪，不能確定完整字數與印文",
-    "status": "unresolved",
-    "extent": "unknown"
+    "region_id": "c009-r007",
+    "position_1based_codepoint": 20,
+    "marker": "微",
+    "candidates": [
+      "微"
+    ],
+    "reason": "四个後第一字高度草寫，左側細筆與右部合連，仍不能唯一確認。",
+    "status": "unresolved"
   },
   {
-    "canvas_index": 10,
-    "label": "fol. 3b",
-    "region_id": "c010-r005",
-    "position_1based_codepoint": 1,
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r008",
+    "position_1based_codepoint": 23,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "垣",
+      "柜",
+      "柩"
+    ],
+    "reason": "重裁末字並比較同頁標題垣、r011木與土：左部短橫穿豎及下提可像土，右部彎折內短畫可像亘或匚；不能獨斷木旁，保留垣／柜／柩。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r010",
+    "position_1based_codepoint": 21,
+    "marker": "了",
+    "candidates": [
+      "了",
+      "列"
+    ],
+    "reason": "光後字上短橫與下曲筆，可能省寫，未能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r010",
+    "position_1based_codepoint": 22,
+    "marker": "象",
+    "candidates": [
+      "象"
+    ],
+    "reason": "中段草寫較密，仍保留辨形疑慮。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r010",
+    "position_1based_codepoint": 23,
+    "marker": "互",
+    "candidates": [
+      "互"
+    ],
+    "reason": "末字三段橫折可見，字形仍不典型。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r011",
+    "position_1based_codepoint": 7,
+    "marker": "雁",
+    "candidates": [
+      "雁"
+    ],
+    "reason": "厂內左側亻筆未明，不能完全定字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 9,
+    "label": "fol. 3a",
+    "region_id": "c009-r033",
+    "position_1based_codepoint": 1,
+    "marker": "宦",
+    "candidates": [
+      "官"
+    ],
+    "reason": "下部短橫合筆，宦／官仍有局部歧義。",
     "status": "unresolved"
   },
   {
     "canvas_index": 10,
     "label": "fol. 3b",
-    "region_id": "c010-r009",
+    "region_id": "c010-r003",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下篆字的口形與上部連筆不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r004",
+    "position_1based_codepoint": 15,
+    "marker": "隱",
+    "candidates": [
+      "沿"
+    ],
+    "reason": "左旁及右下心樣草筆不足以完全定隱。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r004",
+    "position_1based_codepoint": 16,
+    "marker": "之",
+    "candidates": [
+      "上"
+    ],
+    "reason": "短筆似之，不能完全排除上形。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r005",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "光",
+      "此"
+    ],
+    "reason": "第三字上部與下部長彎相接，仍不能定光或此。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r005",
+    "position_1based_codepoint": 18,
+    "marker": "双",
+    "candidates": [
+      "及",
+      "雙"
+    ],
+    "reason": "兩個又樣連筆可見，但小字右部省筆，保留異讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r005",
+    "position_1based_codepoint": 19,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "短曲符獨立於前字，可能重文符或之草寫，原樣待考。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r007",
+    "position_1based_codepoint": 2,
+    "marker": "尺",
+    "candidates": [
+      "足"
+    ],
+    "reason": "次字無完整口框，接續長撇捺近尺，仍保留足候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r008",
+    "position_1based_codepoint": 5,
+    "marker": "狀",
+    "candidates": [
+      "牡"
+    ],
+    "reason": "水中後字左右部件過度草寫，暫錄狀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r008",
+    "position_1based_codepoint": 16,
+    "marker": "亂",
+    "candidates": [
+      "珥",
+      "兵"
+    ],
+    "reason": "天下後字右部長彎明顯，但左部不足唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r010",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "客",
+      "寡",
+      "空"
+    ],
+    "reason": "欄首字上部與內件合筆，不能可靠定字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r010",
+    "position_1based_codepoint": 8,
+    "marker": "女",
+    "candidates": [
+      "之"
+    ],
+    "reason": "反後字呈女形，但短筆草寫仍可異讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r013",
+    "position_1based_codepoint": 7,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "三後短符仍可能是重文或之草形。",
     "status": "unresolved"
   },
   {
     "canvas_index": 10,
     "label": "fol. 3b",
     "region_id": "c010-r014",
+    "position_1based_codepoint": 4,
+    "marker": "頑",
+    "candidates": [
+      "頓"
+    ],
+    "reason": "首段精後頁旁字左件草寫，暫錄頑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 10,
+    "label": "fol. 3b",
+    "region_id": "c010-r015",
     "position_1based_codepoint": 13,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "marker": "揺",
+    "candidates": [
+      "搖"
+    ],
+    "reason": "右部上爪樣下凵草寫，以揺隸定保留異體可能。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r004",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下篆字內件連合，不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -365,19 +932,343 @@
     "region_id": "c011-r005",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "朱印淡褪，不能確定完整字數與印文",
-    "status": "unresolved",
-    "extent": "unknown"
+    "candidates": [
+      "形"
+    ],
+    "reason": "左上篆字為反向殘筆，疑對頁接觸或背頁透印。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r005",
+    "position_1based_codepoint": 2,
+    "marker": "□",
+    "candidates": [
+      "器"
+    ],
+    "reason": "左下篆字為反向殘筆，隸定不足。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r005",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [
+      "先"
+    ],
+    "reason": "右上圓圈及人足樣殘筆呈反向。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r005",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [
+      "生"
+    ],
+    "reason": "右下縱橫殘筆反向且淡薄。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 1,
+    "marker": "衆",
+    "candidates": [
+      "東"
+    ],
+    "reason": "首字草體中豎突出，衆或東仍未決。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 8,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "官後兩短筆，保留符形而不展開。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 9,
+    "marker": "□",
+    "candidates": [
+      "串",
+      "中",
+      "十"
+    ],
+    "reason": "官後短符與二前穿豎字似串，字界仍不確定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 10,
+    "marker": "二",
+    "candidates": [
+      "之"
+    ],
+    "reason": "十七前短折形，可能二的草寫或之。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 13,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "七後第一短曲符，可能之或重文。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r009",
+    "position_1based_codepoint": 14,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "七後第二組短點，可能重文或之。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r011",
+    "position_1based_codepoint": 5,
+    "marker": "氐",
+    "candidates": [
+      "氏"
+    ],
+    "reason": "犯後氏形底筆極短，氐底點不如上欄明顯。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r011",
+    "position_1based_codepoint": 6,
+    "marker": "暴",
+    "candidates": [
+      "暴"
+    ],
+    "reason": "日下橫與水樣散筆可見但連筆重，保留疑讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r011",
+    "position_1based_codepoint": 8,
+    "marker": "具",
+    "candidates": [
+      "具"
+    ],
+    "reason": "橫框及下兩點仍略合筆，暫錄具。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r012",
+    "position_1based_codepoint": 2,
+    "marker": "迎",
+    "candidates": [
+      "邊"
+    ],
+    "reason": "內件草寫雖偏迎，保留舊錄邊候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r014",
+    "position_1based_codepoint": 18,
+    "marker": "落",
+    "candidates": [
+      "洛",
+      "從"
+    ],
+    "reason": "日上字左旁彎折、右部各樣，草寫仍未唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r014",
+    "position_1based_codepoint": 20,
+    "marker": "從",
+    "candidates": [
+      "從"
+    ],
+    "reason": "日後字彳旁極簡，暫錄從待更清底本。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r015",
+    "position_1based_codepoint": 20,
+    "marker": "脹",
+    "candidates": [
+      "服",
+      "脫"
+    ],
+    "reason": "月旁右件長折壓縮，仍不唯一。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 11,
+    "label": "fol. 4a",
+    "region_id": "c011-r027",
+    "position_1based_codepoint": 4,
+    "marker": "軍",
+    "candidates": [
+      "車"
+    ],
+    "reason": "冖形短小且與車頂相近，仍保留車候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r003",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下篆字繁筆合併，仍不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r004",
+    "position_1based_codepoint": 23,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "末端短折符形似之，可能重文，未解。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r005",
+    "position_1based_codepoint": 20,
+    "marker": "尺",
+    "candidates": [
+      "尽",
+      "盡"
+    ],
+    "reason": "字下未見可確認點筆；可能尽的省寫或尺形訛字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r006",
+    "position_1based_codepoint": 3,
+    "marker": "孛",
+    "candidates": [
+      "字"
+    ],
+    "reason": "起後字上部短斜筆及宀下子形，暫讀孛但頂十不清楚。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r006",
+    "position_1based_codepoint": 15,
+    "marker": "尺",
+    "candidates": [
+      "尽",
+      "盡"
+    ],
+    "reason": "尺形無可辨下點，不按句意正規化為盡。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r007",
+    "position_1based_codepoint": 19,
+    "marker": "□",
+    "candidates": [
+      "橫",
+      "場",
+      "塔"
+    ],
+    "reason": "四後字左部近土／木、右部長斜筆，不能可靠隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r007",
+    "position_1based_codepoint": 38,
+    "marker": "室",
+    "candidates": [
+      "星"
+    ],
+    "reason": "末段字上宀下至的形態較近室，仍保留星候選。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 12,
     "label": "fol. 4b",
     "region_id": "c012-r008",
     "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "marker": "以",
+    "candidates": [
+      "之",
+      "〻"
+    ],
+    "reason": "原生裁片中所與列之間另有兩段相連的短折筆，確為另占字位；暫讀以，但草形仍可讀之或短符。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 12,
+    "label": "fol. 4b",
+    "region_id": "c012-r009",
+    "position_1based_codepoint": 2,
+    "marker": "六",
+    "candidates": [
+      "芒"
+    ],
+    "reason": "雖呈六形，草寫芒仍可能省筆；忠實層保存六並留候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r004",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下篆筆內部合併，不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -385,39 +1276,609 @@
     "label": "fol. 5a",
     "region_id": "c013-r005",
     "position_1based_codepoint": 17,
+    "marker": "万",
+    "candidates": [
+      "五",
+      "一"
+    ],
+    "reason": "數字樣短筆呈万形，暫照形錄；真實隸定未解。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r006",
+    "position_1based_codepoint": 20,
     "marker": "□",
+    "candidates": [
+      "氣",
+      "兵",
+      "尸"
+    ],
+    "reason": "白後字呈厂／尸樣長筆，未能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r007",
+    "position_1based_codepoint": 3,
+    "marker": "兵",
+    "candidates": [
+      "尼"
+    ],
+    "reason": "野後字草寫壓縮，暫錄兵但保留尼形候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r008",
+    "position_1based_codepoint": 7,
+    "marker": "拈",
+    "candidates": [
+      "招",
+      "杓"
+    ],
+    "reason": "手／木旁與右占／召仍有草筆歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r008",
+    "position_1based_codepoint": 10,
+    "marker": "建",
+    "candidates": [
+      "連"
+    ],
+    "reason": "內件有多橫穿豎，建與連仍可異讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r009",
+    "position_1based_codepoint": 2,
+    "marker": "確",
+    "candidates": [
+      "斛"
+    ],
+    "reason": "石旁較明而右部合筆，保留斛候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r009",
+    "position_1based_codepoint": 17,
+    "marker": "禽",
+    "candidates": [
+      "籥"
+    ],
+    "reason": "人頂及內禸形較近禽，仍不排除籥草體。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r009",
+    "position_1based_codepoint": 27,
+    "marker": "□",
+    "candidates": [
+      "雞",
+      "鴉",
+      "形"
+    ],
+    "reason": "末字右部鳥形與左偏旁草寫，不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r010",
+    "position_1based_codepoint": 11,
+    "marker": "之",
+    "candidates": [
+      "有",
+      "〻"
+    ],
+    "reason": "更後短形不足唯一分辨之、有或重文符。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r011",
+    "position_1based_codepoint": 24,
+    "marker": "□",
+    "candidates": [
+      "亡",
+      "寓",
+      "營"
+    ],
+    "reason": "流後字多層彎折，仍無可靠隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r011",
+    "position_1based_codepoint": 25,
+    "marker": "孛",
+    "candidates": [
+      "孛"
+    ],
+    "reason": "上土樣下子形合一字，暫以孛隸定，頂筆省寫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r012",
+    "position_1based_codepoint": 15,
+    "marker": "御",
+    "candidates": [
+      "蝕"
+    ],
+    "reason": "日後字彳旁與右部草寫未唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r013",
+    "position_1based_codepoint": 3,
+    "marker": "□",
+    "candidates": [
+      "白",
+      "孛"
+    ],
+    "reason": "成後上下連環筆，白或孛尚未決。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r013",
+    "position_1based_codepoint": 5,
+    "marker": "□",
+    "candidates": [
+      "彗",
+      "揚"
+    ],
+    "reason": "星後字左側與上部密筆，不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r013",
+    "position_1based_codepoint": 6,
+    "marker": "孛",
+    "candidates": [
+      "孛"
+    ],
+    "reason": "土子合構連續，按一字處理；上部頂筆略省。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r013",
+    "position_1based_codepoint": 11,
+    "marker": "群",
+    "candidates": [
+      "離"
+    ],
+    "reason": "貴前右羊縱筆較清，但左部仍有草寫歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r015",
+    "position_1based_codepoint": 25,
+    "marker": "禽",
+    "candidates": [
+      "籥"
+    ],
+    "reason": "天後字人頂內部密筆，較近禽但不排除籥省體。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r015",
+    "position_1based_codepoint": 26,
+    "marker": "君",
+    "candidates": [
+      "客"
+    ],
+    "reason": "星前字上長斜、下口框，君較近；宀是否省略不定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r015",
+    "position_1based_codepoint": 28,
+    "marker": "□",
+    "candidates": [
+      "彗",
+      "揚"
+    ],
+    "reason": "星後草體繁筆未能確定彗。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r015",
+    "position_1based_codepoint": 29,
+    "marker": "孛",
+    "candidates": [
+      "孛"
+    ],
+    "reason": "上土樣下子合成一字，頂部省筆仍留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r025",
+    "position_1based_codepoint": 2,
+    "marker": "梁",
+    "candidates": [
+      "巢"
+    ],
+    "reason": "上部連筆近三豎，下木較明；仍保留巢形可能。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 13,
+    "label": "fol. 5a",
+    "region_id": "c013-r027",
+    "position_1based_codepoint": 2,
+    "marker": "禽",
+    "candidates": [
+      "籥"
+    ],
+    "reason": "人頂及下部合筆，竹龠草體仍可提出。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r003",
+    "position_1based_codepoint": 1,
+    "marker": "形",
     "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "reason": "本次看原生印文，右上左右分形與彡狀曲筆可與初錄形相容，尚無足夠篆形證據定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r003",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [],
+    "reason": "右下上方曲折、下方口狀框可見，但不足唯一隸定為器；保留初錄字並標疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r003",
+    "position_1based_codepoint": 3,
+    "marker": "先",
+    "candidates": [],
+    "reason": "左上圓首人形可見，先的古篆對應未能可靠核定，不能由先生慣稱補字。",
     "status": "unresolved"
   },
   {
     "canvas_index": 14,
     "label": "fol. 5b",
     "region_id": "c014-r004",
-    "position_1based_codepoint": 9,
+    "position_1based_codepoint": 11,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "弦",
+      "有",
+      "然"
+    ],
+    "reason": "雖後字左有曲折、右細筆互疊，無法可靠分出弓玄或其他結構；初錄弦不足以定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r004",
+    "position_1based_codepoint": 21,
+    "marker": "脚",
+    "candidates": [
+      "腳"
+    ],
+    "reason": "月旁右側去／卻部連筆較窄，暫保留初錄脚並標出異體歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r004",
+    "position_1based_codepoint": 26,
+    "marker": "是",
+    "candidates": [
+      "号"
+    ],
+    "reason": "黑後字上口形、下折筆可作是或号；保留初錄是但未解。",
     "status": "unresolved"
   },
   {
     "canvas_index": 14,
     "label": "fol. 5b",
     "region_id": "c014-r005",
-    "position_1based_codepoint": 31,
+    "position_1based_codepoint": 8,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "立",
+      "今"
+    ],
+    "reason": "畔後一字上部合筆、下部斜折，不足確定；不能用文意補立。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 9,
+    "marker": "近",
+    "candidates": [
+      "边"
+    ],
+    "reason": "辶內的斤／力細筆未全分開，暫錄近。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 29,
+    "marker": "十",
+    "candidates": [
+      "如"
+    ],
+    "reason": "星後十形筆畫是否為如的省寫未確定，照所見十暫錄。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 35,
+    "marker": "似",
+    "candidates": [
+      "欲"
+    ],
+    "reason": "東後字左似亻，右連筆仍可能為欲的省寫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 45,
+    "marker": "□",
+    "candidates": [
+      "畔",
+      "許"
+    ],
+    "reason": "河後字左旁與右干形交錯，未能隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r005",
+    "position_1based_codepoint": 46,
+    "marker": "欲",
+    "candidates": [
+      "何"
+    ],
+    "reason": "向前字右方斜筆可見，但欲／何等讀法尚不足以唯一確定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 14,
     "label": "fol. 5b",
     "region_id": "c014-r006",
-    "position_1based_codepoint": 13,
-    "marker": "□",
+    "position_1based_codepoint": 6,
+    "marker": "牛",
+    "candidates": [
+      "斗"
+    ],
+    "reason": "本次接續看原生，交叉豎與上撇較近牛；仍保留斗的草寫候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 16,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "犯後為上下短筆，可能草寫之或重文短符，暫以〻記其形。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 18,
+    "marker": "失",
+    "candidates": [
+      "哭",
+      "災"
+    ],
+    "reason": "兵後字上部濃墨不見兩口，暫錄失；哭與災均不能唯一確認。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 22,
+    "marker": "芒",
+    "candidates": [
+      "亡"
+    ],
+    "reason": "上方艹細點不完整，芒／亡留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 26,
+    "marker": "彗",
+    "candidates": [
+      "東"
+    ],
+    "reason": "災後字上部多橫、下部彐形似彗，沒有充分田框支持東，但仍留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 27,
+    "marker": "孛",
+    "candidates": [
+      "狄"
+    ],
+    "reason": "該字可分十冖子形，孛較可取；細筆仍與前獨立讀法狄有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 29,
+    "marker": "近",
+    "candidates": [
+      "边"
+    ],
+    "reason": "辶內細筆未完全分清，近／边留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r006",
+    "position_1based_codepoint": 39,
+    "marker": "方",
+    "candidates": [
+      "左"
+    ],
+    "reason": "此處上點橫及下曲筆較近方，工部不能清楚分出；保留左候選，不因同頁其他左旗而統一。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r008",
+    "position_1based_codepoint": 33,
+    "marker": "安",
+    "candidates": [
+      "双"
+    ],
+    "reason": "下後字上橫與下交叉筆不易分成宀女或兩又，保留初錄安並留双候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r008",
+    "position_1based_codepoint": 41,
+    "marker": "晉",
+    "candidates": [
+      "畢"
+    ],
+    "reason": "西後可見上下兩組筆畫，暫分晉伸；晉的中部受連寫影響，初錄畢亦不足完全排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r008",
+    "position_1based_codepoint": 42,
+    "marker": "伸",
+    "candidates": [
+      "申"
+    ],
+    "reason": "第二組左旁是否獨立亻未清，伸／申留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 3,
+    "marker": "替",
+    "candidates": [
+      "挨"
+    ],
+    "reason": "輪後字正落折縫，右部可作替殘形亦可為挨，未決。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 4,
+    "marker": "十",
+    "candidates": [
+      "了"
+    ],
+    "reason": "該筆上橫與下折受折縫遮斷，十／了未決。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 7,
+    "marker": "魏",
     "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "reason": "國後字可見鬼部般曲筆，暫沿初錄魏，左部不可完整核。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 9,
+    "marker": "□",
+    "candidates": [
+      "四星"
+    ],
+    "reason": "魏西後折縫只留間斷殘筆，字數與讀法均未定；不逐空臆填。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 10,
+    "marker": "畔",
+    "candidates": [
+      "畢陽"
+    ],
+    "reason": "該段可暫分畔獨，初錄畢陽亦有相似殘筆；左旁被折縫遮斷。",
     "status": "unresolved"
   },
   {
@@ -425,69 +1886,437 @@
     "label": "fol. 5b",
     "region_id": "c014-r009",
     "position_1based_codepoint": 11,
+    "marker": "獨",
+    "candidates": [
+      "陽"
+    ],
+    "reason": "獨／陽右部細筆難分，保留暫讀但標疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 12,
     "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "candidates": [
+      "其",
+      "羨星〃"
+    ],
+    "reason": "此段折縫中殘筆無法定字與字數。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 14,
+    "marker": "□",
+    "candidates": [
+      "星",
+      "垣"
+    ],
+    "reason": "四與西間有殘筆，不能定其完整文字與長度。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 17,
+    "marker": "□",
+    "candidates": [
+      "鄭是齊隣",
+      "則"
+    ],
+    "reason": "西一後連寫與折縫重疊，無法可靠分字，保留單一未定長片段。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 18,
+    "marker": "旁",
+    "candidates": [
+      "隣"
+    ],
+    "reason": "此段旁與相鄰字界仍疑，僅保留可見暫讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 26,
+    "marker": "居",
+    "candidates": [
+      "君"
+    ],
+    "reason": "上部尸／尹相似，居與君留疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r009",
+    "position_1based_codepoint": 38,
+    "marker": "□",
+    "candidates": [
+      "河匝",
+      "俯臣"
+    ],
+    "reason": "黑星後兩組殘筆不能可靠隸定，實際字數未定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r010",
+    "position_1based_codepoint": 30,
+    "marker": "牛",
+    "candidates": [
+      "半"
+    ],
+    "reason": "該字可分牛的撇橫豎，但也可能是半的連寫；原文保留牛，不按語句補換。",
     "status": "unresolved"
   },
   {
     "canvas_index": 14,
     "label": "fol. 5b",
     "region_id": "c014-r010",
-    "position_1based_codepoint": 34,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "position_1based_codepoint": 15,
+    "marker": "各",
+    "candidates": [
+      "名"
+    ],
+    "reason": "本次再看上部夂／夕相近，沿前裁決各但保留名候選。",
     "status": "unresolved"
   },
   {
     "canvas_index": 14,
     "label": "fol. 5b",
     "region_id": "c014-r011",
-    "position_1based_codepoint": 21,
+    "position_1based_codepoint": 13,
+    "marker": "則",
+    "candidates": [
+      "凶"
+    ],
+    "reason": "本次再看動後字右側長刂筆較明，暫取則；左部仍省寫，保留凶候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r011",
+    "position_1based_codepoint": 15,
+    "marker": "紛",
+    "candidates": [
+      "將"
+    ],
+    "reason": "左側細點似糹、右似分，紛較合字形；筆畫窄而仍留將候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r011",
+    "position_1based_codepoint": 29,
+    "marker": "入",
+    "candidates": [
+      "有"
+    ],
+    "reason": "氣後字兩斜筆合圈，暫沿初錄入，仍不能完全排除有的連寫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 14,
+    "label": "fol. 5b",
+    "region_id": "c014-r021",
+    "position_1based_codepoint": 5,
+    "marker": "果",
+    "candidates": [
+      "梁",
+      "其"
+    ],
+    "reason": "田木較合本次所見，惟上框細筆仍不足完全排除梁的省寫或初錄其。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r004",
+    "position_1based_codepoint": 1,
+    "marker": "形",
+    "candidates": [
+      "形"
+    ],
+    "reason": "右上曲折左右分形，不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r004",
+    "position_1based_codepoint": 2,
+    "marker": "器",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下曲筆及口狀部件可見，不能據慣稱定為器。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r004",
+    "position_1based_codepoint": 3,
+    "marker": "先",
+    "candidates": [
+      "先"
+    ],
+    "reason": "左上圓首下人形可見，但其古篆隸定仍未確定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r005",
+    "position_1based_codepoint": 25,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "双後上下短畫可能重文號或草寫之，暫記〻。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r005",
+    "position_1based_codepoint": 32,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "團後上下短畫較連續，重文號／之未能確定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r006",
+    "position_1based_codepoint": 20,
+    "marker": "蝕",
+    "candidates": [
+      "犯"
+    ],
+    "reason": "食旁及右部連寫不清，蝕較合可見結構但未能排除前稿候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r006",
+    "position_1based_codepoint": 28,
     "marker": "□",
+    "candidates": [
+      "之",
+      "〻"
+    ],
+    "reason": "則下細長折筆不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r006",
+    "position_1based_codepoint": 31,
+    "marker": "災",
+    "candidates": [
+      "失"
+    ],
+    "reason": "字上三短筆、下交叉可作災，仍保留失候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r008",
+    "position_1based_codepoint": 6,
+    "marker": "先",
     "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "reason": "先的下部連寫，舊稿與獨立稿相合仍不能完全定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r008",
+    "position_1based_codepoint": 17,
+    "marker": "三",
+    "candidates": [],
+    "reason": "此處三、四各有墨跡，數字不按星數改寫；三的短橫稍不清。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r008",
+    "position_1based_codepoint": 29,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "府後雙短畫可能重文或草寫之。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r008",
+    "position_1based_codepoint": 34,
+    "marker": "黃",
+    "candidates": [
+      "芒"
+    ],
+    "reason": "草頭下部連筆，黃與芒候選未能完全裁定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r009",
+    "position_1based_codepoint": 12,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "墓後上下短畫未展開。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r009",
+    "position_1based_codepoint": 30,
+    "marker": "紙",
+    "candidates": [
+      "斛"
+    ],
+    "reason": "左部細筆與右氏形疑作紙，但不能定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r009",
+    "position_1based_codepoint": 34,
+    "marker": "著",
+    "candidates": [
+      "五若"
+    ],
+    "reason": "上下草頭及者形可作著，仍不能完全排除前稿對筆組的別讀。",
     "status": "unresolved"
   },
   {
     "canvas_index": 15,
     "label": "fol. 6a",
     "region_id": "c015-r010",
-    "position_1based_codepoint": 5,
-    "marker": "□",
-    "candidates": [],
-    "reason": "依本頁影像初讀仍不能確辨字形",
+    "position_1based_codepoint": 6,
+    "marker": "大",
+    "candidates": [
+      "火"
+    ],
+    "reason": "首字像大但上筆與火省寫仍可能混淆。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r010",
+    "position_1based_codepoint": 15,
+    "marker": "之",
+    "candidates": [
+      "〻"
+    ],
+    "reason": "之字連寫仍可能為合筆重文標記。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r011",
+    "position_1based_codepoint": 10,
+    "marker": "壽",
+    "candidates": [
+      "多"
+    ],
+    "reason": "人後字多橫與下曲，壽／多仍疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r011",
+    "position_1based_codepoint": 11,
+    "marker": "屋",
+    "candidates": [
+      "善"
+    ],
+    "reason": "此字上包下橫近屋，善亦未能排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r011",
+    "position_1based_codepoint": 12,
+    "marker": "顛",
+    "candidates": [
+      "毀"
+    ],
+    "reason": "末字右有頁形筆勢較近顛，細筆未完全分離。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 15,
+    "label": "fol. 6a",
+    "region_id": "c015-r028",
+    "position_1based_codepoint": 1,
+    "marker": "攻",
+    "candidates": [
+      "坟"
+    ],
+    "reason": "左工／土及右攵／文的手寫差別仍未唯一確定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 16,
     "label": "fol. 6b",
     "region_id": "c016-r002",
-    "position_1based_codepoint": 16,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "position_1based_codepoint": 8,
+    "marker": "遶",
+    "candidates": [
+      "度"
+    ],
+    "reason": "辶／廴及內部纏筆支持遶的候讀，但細筆未盡清。",
     "status": "unresolved"
   },
   {
     "canvas_index": 16,
     "label": "fol. 6b",
     "region_id": "c016-r003",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 16,
-    "label": "fol. 6b",
-    "region_id": "c016-r003",
-    "position_1based_codepoint": 11,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "position_1based_codepoint": 8,
+    "marker": "群",
+    "candidates": [
+      "羣"
+    ],
+    "reason": "君羊的上下／左右連寫不完全清楚，群／羣異體留疑。",
     "status": "unresolved"
   },
   {
@@ -495,29 +2324,181 @@
     "label": "fol. 6b",
     "region_id": "c016-r003",
     "position_1based_codepoint": 18,
-    "marker": "□",
+    "marker": "認",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "言旁及右部細筆接在裁片交界，暫取認但未唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r003",
+    "position_1based_codepoint": 37,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "門後上下短畫以〻記形，不展開。",
     "status": "unresolved"
   },
   {
     "canvas_index": 16,
     "label": "fol. 6b",
     "region_id": "c016-r004",
-    "position_1based_codepoint": 15,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "position_1based_codepoint": 5,
+    "marker": "下",
+    "candidates": [
+      "一"
+    ],
+    "reason": "西後橫與下短筆的歸屬仍疑，暫錄下。",
     "status": "unresolved"
   },
   {
     "canvas_index": 16,
     "label": "fol. 6b",
     "region_id": "c016-r004",
+    "position_1based_codepoint": 16,
+    "marker": "吏",
+    "candidates": [],
+    "reason": "末吏的中部橫框較弱，保留疑讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 17,
+    "marker": "螣",
+    "candidates": [
+      "騰"
+    ],
+    "reason": "右下近虫而非馬，正文連筆仍有異體歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 32,
+    "marker": "疫",
+    "candidates": [],
+    "reason": "疒與右殳部筆畫細弱，暫錄疫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 37,
+    "marker": "疫",
+    "candidates": [],
+    "reason": "此字右殳可見、左疒較弱，暫錄疫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r004",
+    "position_1based_codepoint": 41,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "守後上下短畫不展開。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r005",
+    "position_1based_codepoint": 25,
+    "marker": "革",
+    "candidates": [
+      "卷"
+    ],
+    "reason": "中部交疊及下曲筆可讀革，卷仍未能完全排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r006",
+    "position_1based_codepoint": 11,
+    "marker": "螣",
+    "candidates": [
+      "騰"
+    ],
+    "reason": "月旁右下細筆似虫，馬／虫省寫仍有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r008",
+    "position_1based_codepoint": 14,
+    "marker": "□",
+    "candidates": [
+      "門",
+      "似"
+    ],
+    "reason": "看後字兩側折筆，內部細筆不足，不能依歌句定門或似。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r008",
+    "position_1based_codepoint": 19,
+    "marker": "口",
+    "candidates": [],
+    "reason": "四方前為小口框，保留字面而不按句意替換。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r008",
+    "position_1based_codepoint": 25,
+    "marker": "廐",
+    "candidates": [
+      "廄",
+      "厩"
+    ],
+    "reason": "廣部點畫可見，但內部旣／殳省筆尚有異體歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r009",
+    "position_1based_codepoint": 27,
+    "marker": "少",
+    "candidates": [
+      "火"
+    ],
+    "reason": "水後字的少／火連筆仍未完全分清。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r009",
+    "position_1based_codepoint": 29,
+    "marker": "之",
+    "candidates": [
+      "〻"
+    ],
+    "reason": "連續折筆較近之，仍留合筆重文號候選。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r009",
     "position_1based_codepoint": 31,
-    "marker": "□",
+    "marker": "潦",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "右尞底細筆不清，保留疑讀。",
     "status": "unresolved"
   },
   {
@@ -526,8 +2507,10 @@
     "region_id": "c016-r010",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "形"
+    ],
+    "reason": "右上曲折左右分形，不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -536,8 +2519,10 @@
     "region_id": "c016-r010",
     "position_1based_codepoint": 2,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下曲筆及口狀部件可見，不能據慣稱定為器。",
     "status": "unresolved"
   },
   {
@@ -546,28 +2531,162 @@
     "region_id": "c016-r010",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "先"
+    ],
+    "reason": "左上圓首下人形可見，但其古篆隸定仍未確定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 16,
     "label": "fol. 6b",
-    "region_id": "c016-r010",
-    "position_1based_codepoint": 4,
-    "marker": "□",
+    "region_id": "c016-r011",
+    "position_1based_codepoint": 2,
+    "marker": "廐",
+    "candidates": [
+      "廄",
+      "厩"
+    ],
+    "reason": "內部旣／殳與廣／厂的細筆仍存異體歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 16,
+    "label": "fol. 6b",
+    "region_id": "c016-r029",
+    "position_1based_codepoint": 1,
+    "marker": "鐵",
+    "candidates": [
+      "鐡",
+      "鉞"
+    ],
+    "reason": "上字內口及下橫筆支持較繁結構，但鐵／鐡／鉞的細筆不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r003",
+    "position_1based_codepoint": 8,
+    "marker": "一",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "十上另有橫筆，與前鞋字末筆的歸屬仍有輕微歧義，保留並註疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r003",
+    "position_1based_codepoint": 34,
+    "marker": "之",
+    "candidates": [
+      "〻"
+    ],
+    "reason": "末折筆可能草寫之或連合的重文標記。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r005",
+    "position_1based_codepoint": 1,
+    "marker": "近",
+    "candidates": [
+      "邊"
+    ],
+    "reason": "辶內部較簡，近較合墨跡，但邊省寫仍未全排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r006",
+    "position_1based_codepoint": 1,
+    "marker": "暗",
+    "candidates": [
+      "將"
+    ],
+    "reason": "首字右部濃墨，暗的隸定仍待覆核；不因文意取將。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r007",
+    "position_1based_codepoint": 5,
+    "marker": "多",
+    "candidates": [],
+    "reason": "則後長曲筆及小口形可能為多的連寫，尚不足唯一釋讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r009",
+    "position_1based_codepoint": 4,
+    "marker": "勾",
+    "candidates": [],
+    "reason": "勾的內部省筆較小，依可見字形暫錄。",
     "status": "unresolved"
   },
   {
     "canvas_index": 17,
     "label": "fol. 7a",
     "region_id": "c017-r010",
-    "position_1based_codepoint": 16,
-    "marker": "□",
+    "position_1based_codepoint": 12,
+    "marker": "候",
+    "candidates": [
+      "侯"
+    ],
+    "reason": "亻旁與中豎交疊，候／侯仍有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r010",
+    "position_1based_codepoint": 17,
+    "marker": "多",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "見下曲折字暫讀多，兩夕細筆仍不全清。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r011",
+    "position_1based_codepoint": 8,
+    "marker": "遠",
+    "candidates": [
+      "連"
+    ],
+    "reason": "辶內部的袁／車連筆仍疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r011",
+    "position_1based_codepoint": 10,
+    "marker": "□",
+    "candidates": [
+      "廛",
+      "厘",
+      "塵"
+    ],
+    "reason": "此字上包下里土狀筆勢可見，與廛／厘／塵均有細部差別，不能唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 17,
+    "label": "fol. 7a",
+    "region_id": "c017-r011",
+    "position_1based_codepoint": 11,
+    "marker": "耗",
+    "candidates": [
+      "耕"
+    ],
+    "reason": "左耒右下曲筆近耗，井／毛之分仍疑。",
     "status": "unresolved"
   },
   {
@@ -576,8 +2695,10 @@
     "region_id": "c017-r013",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "形"
+    ],
+    "reason": "右上曲折左右分形，不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -586,8 +2707,10 @@
     "region_id": "c017-r013",
     "position_1based_codepoint": 2,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下曲筆及口狀部件可見，不能據慣稱定為器。",
     "status": "unresolved"
   },
   {
@@ -596,18 +2719,44 @@
     "region_id": "c017-r013",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "先"
+    ],
+    "reason": "左上圓首下人形可見，但其古篆隸定仍未確定。",
     "status": "unresolved"
   },
   {
-    "canvas_index": 17,
-    "label": "fol. 7a",
-    "region_id": "c017-r013",
-    "position_1based_codepoint": 4,
-    "marker": "□",
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r002",
+    "position_1based_codepoint": 3,
+    "marker": "鼎",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "鼎下部連筆較省，暫保留原錄，未唯一確認異體。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r002",
+    "position_1based_codepoint": 6,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "上點下豎也可能為草寫之；重文標記與文字未定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r003",
+    "position_1based_codepoint": 6,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "兩小筆可為重文號或草寫之，保留形態未展開。",
     "status": "unresolved"
   },
   {
@@ -615,9 +2764,84 @@
     "label": "fol. 7b",
     "region_id": "c018-r005",
     "position_1based_codepoint": 12,
-    "marker": "□",
+    "marker": "尺",
+    "candidates": [
+      "尽",
+      "盡"
+    ],
+    "reason": "尺形可能是尽／盡的草省寫，隸定仍未決；不能只按國儲發的語意補定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r008",
+    "position_1based_codepoint": 21,
+    "marker": "精",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "精的青部較連寫，暫保留可見米旁及青形。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r008",
+    "position_1based_codepoint": 29,
+    "marker": "〻",
+    "candidates": [
+      "之"
+    ],
+    "reason": "營後上下兩短筆，重文號／之仍疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r009",
+    "position_1based_codepoint": 11,
+    "marker": "□",
+    "candidates": [
+      "〻",
+      "八",
+      "之"
+    ],
+    "reason": "舌後短斜筆已見，但不足唯一隸定，未假設完整八或雙短畫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r009",
+    "position_1based_codepoint": 18,
+    "marker": "礪",
+    "candidates": [
+      "砺"
+    ],
+    "reason": "右部較繁，暫錄礪；厲／厉的省筆仍有異體歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r009",
+    "position_1based_codepoint": 29,
+    "marker": "旄",
+    "candidates": [],
+    "reason": "即後字右毛形可見，左方連筆較弱，旄暫讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r010",
+    "position_1based_codepoint": 27,
+    "marker": "尺",
+    "candidates": [
+      "尽",
+      "盡",
+      "辰"
+    ],
+    "reason": "上尸下展筆呈尺形，但可能為尽／盡草寫，初錄辰亦未全排除。",
     "status": "unresolved"
   },
   {
@@ -626,8 +2850,58 @@
     "region_id": "c018-r010",
     "position_1based_codepoint": 32,
     "marker": "□",
+    "candidates": [
+      "与",
+      "女"
+    ],
+    "reason": "躍後橫斜交筆及下曲不足確定為与或女，未據占辭補字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r011",
+    "position_1based_codepoint": 8,
+    "marker": "字",
+    "candidates": [
+      "孛"
+    ],
+    "reason": "彗後字見宀子形但上方是否含十細筆不清，字／孛未決。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r011",
+    "position_1based_codepoint": 15,
+    "marker": "孛",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "星後上部複合細筆較密，暫錄孛但尚未唯一隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r011",
+    "position_1based_codepoint": 30,
+    "marker": "之",
+    "candidates": [
+      "〻"
+    ],
+    "reason": "點折為連筆，較近之，仍可能合寫的重文標記。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 18,
+    "label": "fol. 7b",
+    "region_id": "c018-r012",
+    "position_1based_codepoint": 10,
+    "marker": "岁",
+    "candidates": [
+      "歲",
+      "多"
+    ],
+    "reason": "上部三短豎近山，下夕形，暫取岁；是否為歲的草寫或多的變形仍須覆核。",
     "status": "unresolved"
   },
   {
@@ -636,8 +2910,10 @@
     "region_id": "c018-r013",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "形"
+    ],
+    "reason": "右上曲折左右分形，不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -646,8 +2922,10 @@
     "region_id": "c018-r013",
     "position_1based_codepoint": 2,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "器"
+    ],
+    "reason": "右下曲筆及口狀部件可見，不能據慣稱定為器。",
     "status": "unresolved"
   },
   {
@@ -656,18 +2934,22 @@
     "region_id": "c018-r013",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "先"
+    ],
+    "reason": "左上圓首下人形可見，但其古篆隸定仍未確定。",
     "status": "unresolved"
   },
   {
-    "canvas_index": 18,
-    "label": "fol. 7b",
-    "region_id": "c018-r013",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r004",
+    "position_1based_codepoint": 6,
+    "marker": "生",
+    "candidates": [
+      "出"
+    ],
+    "reason": "三橫豎筆較支持生，但上方連接可能影響生／出判讀。",
     "status": "unresolved"
   },
   {
@@ -676,8 +2958,76 @@
     "region_id": "c019-r004",
     "position_1based_codepoint": 25,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "禽",
+      "烏"
+    ],
+    "reason": "上有分開人形斜筆，下有鳥狀彎折，仍不能可靠隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r004",
+    "position_1based_codepoint": 43,
+    "marker": "圓",
+    "candidates": [
+      "團"
+    ],
+    "reason": "行末囗內部筆畫重疊，保留圓／團之疑。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r005",
+    "position_1based_codepoint": 32,
+    "marker": "□",
+    "candidates": [
+      "星",
+      "落"
+    ],
+    "reason": "續核原生局部，首部與下部連寫，缺乏可確證的草頭和水旁；原裁決落的理由不足，保留星／落疑讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r007",
+    "position_1based_codepoint": 47,
+    "marker": "□",
+    "candidates": [
+      "泓",
+      "洪"
+    ],
+    "reason": "末字左氵可辨，右部弓／共仍未確釋。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r010",
+    "position_1based_codepoint": 7,
+    "marker": "蕋",
+    "candidates": [
+      "蕊",
+      "莊"
+    ],
+    "reason": "草頭下細筆交疊，較似止部重疊，仍保留隸定疑問。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 19,
+    "label": "fol. 8a",
+    "region_id": "c019-r011",
+    "position_1based_codepoint": 7,
+    "marker": "□",
+    "candidates": [
+      "鶴",
+      "鶬",
+      "鴉"
+    ],
+    "reason": "鳥旁可見但左部折畫不足分辨，不能僅循初錄鴉字。",
     "status": "unresolved"
   },
   {
@@ -687,37 +3037,20 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
+    "reason": "朱印篆體筆畫可見，無法可靠隸定及確定逐字界線。",
+    "status": "unresolved",
+    "extent": "unknown"
   },
   {
     "canvas_index": 19,
     "label": "fol. 8a",
-    "region_id": "c019-r012",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 19,
-    "label": "fol. 8a",
-    "region_id": "c019-r012",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 19,
-    "label": "fol. 8a",
-    "region_id": "c019-r012",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "region_id": "c019-r032",
+    "position_1based_codepoint": 1,
+    "marker": "厠",
+    "candidates": [
+      "側"
+    ],
+    "reason": "左上有長橫似厂，下部則清楚；厂／亻連寫仍略有歧義。",
     "status": "unresolved"
   },
   {
@@ -725,169 +3058,319 @@
     "label": "fol. 8b",
     "region_id": "c020-r002",
     "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "marker": "捉",
+    "candidates": [
+      "根"
+    ],
+    "reason": "首字右部連寫，足／艮仍不能完全排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r003",
+    "position_1based_codepoint": 7,
+    "marker": "襟",
+    "candidates": [
+      "褋"
+    ],
+    "reason": "衤旁可見，右側木與示的連寫仍有隸定歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r006",
+    "position_1based_codepoint": 16,
+    "marker": "國",
+    "candidates": [
+      "圓",
+      "囯"
+    ],
+    "reason": "方框內筆畫簡省，不能確定標準隸定；未以文意改字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r008",
+    "position_1based_codepoint": 44,
+    "marker": "覔",
+    "candidates": [
+      "覓"
+    ],
+    "reason": "見上部細筆省寫，覔／覓隸定仍有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r009",
+    "position_1based_codepoint": 30,
+    "marker": "圍",
+    "candidates": [
+      "團"
+    ],
+    "reason": "囗內韋形連寫，不完全排除團的草寫。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r010",
+    "position_1based_codepoint": 18,
+    "marker": "芒",
+    "candidates": [
+      "蒙"
+    ],
+    "reason": "第一個芒上、下筆連接較繁，暫錄芒並保留蒙候選。",
     "status": "unresolved"
   },
   {
     "canvas_index": 20,
     "label": "fol. 8b",
     "region_id": "c020-r011",
-    "position_1based_codepoint": 8,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "position_1based_codepoint": 9,
+    "marker": "孔",
+    "candidates": [
+      "亂"
+    ],
+    "reason": "子形與右鉤可見，仍可能是亂的強省寫。",
     "status": "unresolved"
   },
   {
     "canvas_index": 20,
     "label": "fol. 8b",
-    "region_id": "c020-r014",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "region_id": "c020-r011",
+    "position_1based_codepoint": 42,
+    "marker": "交",
+    "candidates": [
+      "狄"
+    ],
+    "reason": "交叉撇捺可見，左部未見明確犬旁，交／狄未定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 20,
     "label": "fol. 8b",
-    "region_id": "c020-r014",
-    "position_1based_codepoint": 2,
+    "region_id": "c020-r013",
+    "position_1based_codepoint": 19,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "盜",
+      "多"
+    ],
+    "reason": "首字墨線緊縮，未見可確證的完整皿部。",
     "status": "unresolved"
   },
   {
     "canvas_index": 20,
     "label": "fol. 8b",
-    "region_id": "c020-r014",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 20,
-    "label": "fol. 8b",
-    "region_id": "c020-r014",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 21,
-    "label": "fol. 9a",
-    "region_id": "c021-r008",
-    "position_1based_codepoint": 21,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 21,
-    "label": "fol. 9a",
-    "region_id": "c021-r011",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 21,
-    "label": "fol. 9a",
-    "region_id": "c021-r011",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 21,
-    "label": "fol. 9a",
-    "region_id": "c021-r011",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 21,
-    "label": "fol. 9a",
-    "region_id": "c021-r011",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 22,
-    "label": "fol. 9b",
-    "region_id": "c022-r008",
-    "position_1based_codepoint": 17,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 22,
-    "label": "fol. 9b",
-    "region_id": "c022-r010",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 22,
-    "label": "fol. 9b",
-    "region_id": "c022-r010",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 22,
-    "label": "fol. 9b",
-    "region_id": "c022-r010",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 22,
-    "label": "fol. 9b",
-    "region_id": "c022-r010",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 23,
-    "label": "fol. 10a",
-    "region_id": "c023-r013",
+    "region_id": "c020-r013",
     "position_1based_codepoint": 20,
     "marker": "□",
+    "candidates": [
+      "賊",
+      "災"
+    ],
+    "reason": "第二字有分叉筆，賊／災均待覆核。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 20,
+    "label": "fol. 8b",
+    "region_id": "c020-r014",
+    "position_1based_codepoint": 1,
+    "marker": "□",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "reason": "印篆未能可靠隸定，字數亦未作確定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r004",
+    "position_1based_codepoint": 9,
+    "marker": "間",
+    "candidates": [
+      "個"
+    ],
+    "reason": "左邊連筆可能是亻與框交疊，間／個仍保留疑問。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r005",
+    "position_1based_codepoint": 16,
+    "marker": "外",
+    "candidates": [
+      "夷"
+    ],
+    "reason": "連筆使夕與卜分界不清，夷候選未完全排除。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 21,
+    "label": "fol. 9a",
+    "region_id": "c021-r011",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "印篆未能可靠隸定，字數亦未作確定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r003",
+    "position_1based_codepoint": 21,
+    "marker": "壽",
+    "candidates": [
+      "舍"
+    ],
+    "reason": "下部圈鉤連筆，壽／舍尚難完全分清，不由常見術語定字。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r009",
+    "position_1based_codepoint": 7,
+    "marker": "滂",
+    "candidates": [
+      "勞"
+    ],
+    "reason": "左側豎筆與右上部連寫，滂／勞隸定仍有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r009",
+    "position_1based_codepoint": 8,
+    "marker": "魚",
+    "candidates": [
+      "男"
+    ],
+    "reason": "上方似有刀頭，下部連寫如力，魚／男未定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r009",
+    "position_1based_codepoint": 11,
+    "marker": "道",
+    "candidates": [
+      "造",
+      "逆"
+    ],
+    "reason": "辶可見，內部省寫不足分清首／告／屰。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 22,
+    "label": "fol. 9b",
+    "region_id": "c022-r010",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [],
+    "reason": "印篆未能可靠隸定，字數亦未作確定。",
+    "status": "unresolved",
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r006",
+    "position_1based_codepoint": 26,
+    "marker": "□",
+    "candidates": [
+      "次",
+      "跂",
+      "認"
+    ],
+    "reason": "左部似言或足的省筆，右側似欠／支，有限放大仍未定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r007",
+    "position_1based_codepoint": 14,
+    "marker": "□",
+    "candidates": [
+      "舍",
+      "壽",
+      "彗"
+    ],
+    "reason": "上部多橫下部圈鉤，不能可靠隸定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r007",
+    "position_1based_codepoint": 25,
+    "marker": "□",
+    "candidates": [
+      "伐",
+      "沙"
+    ],
+    "reason": "左側省寫及右部斜筆不足確認。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r007",
+    "position_1based_codepoint": 26,
+    "marker": "戎",
+    "candidates": [
+      "戊"
+    ],
+    "reason": "戈內短橫略淡，戎／戊仍有歧義。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r008",
+    "position_1based_codepoint": 6,
+    "marker": "□",
+    "candidates": [
+      "蠻",
+      "蛮",
+      "雲"
+    ],
+    "reason": "上部似雨亦似䜌省寫，末部不夠分辨虫／云。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r011",
+    "position_1based_codepoint": 24,
+    "marker": "日",
+    "candidates": [
+      "目"
+    ],
+    "reason": "細框內橫畫較淡，日／目仍不能完全分開。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 23,
+    "label": "fol. 10a",
+    "region_id": "c023-r012",
+    "position_1based_codepoint": 20,
+    "marker": "畜",
+    "candidates": [
+      "多"
+    ],
+    "reason": "上部交疊、下部圈形連寫，畜／多未能完全排除。",
     "status": "unresolved"
   },
   {
@@ -897,38 +3380,20 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
+    "reason": "印篆未能可靠隸定，字數亦未作確定。",
+    "status": "unresolved",
+    "extent": "unknown"
   },
   {
     "canvas_index": 23,
     "label": "fol. 10a",
-    "region_id": "c023-r014",
-    "position_1based_codepoint": 2,
+    "region_id": "c023-r024",
+    "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 23,
-    "label": "fol. 10a",
-    "region_id": "c023-r014",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 23,
-    "label": "fol. 10a",
-    "region_id": "c023-r014",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
+    "reason": "本頁右下獨立淡朱色印痕無可連續隸定文字，字數不明。",
+    "status": "unresolved",
+    "extent": "unknown"
   },
   {
     "canvas_index": 24,
@@ -936,28 +3401,11 @@
     "region_id": "c024-r016",
     "position_1based_codepoint": 2,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 24,
-    "label": "fol. 10b",
-    "region_id": "c024-r020",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 24,
-    "label": "fol. 10b",
-    "region_id": "c024-r024",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "莘",
+      "芹"
+    ],
+    "reason": "艹下筆畫與圖線重疊，尚不能唯一隸定。",
     "status": "unresolved"
   },
   {
@@ -966,30 +3414,12 @@
     "region_id": "c024-r035",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "此處地名被濃墨重寫遮蓋，原文與總字數未能確定",
+    "candidates": [
+      "有東江"
+    ],
+    "reason": "墨筆重疊，整段字數與讀法均未定。",
     "status": "unresolved",
     "extent": "unknown"
-  },
-  {
-    "canvas_index": 24,
-    "label": "fol. 10b",
-    "region_id": "c024-r047",
-    "position_1based_codepoint": 4,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 24,
-    "label": "fol. 10b",
-    "region_id": "c024-r048",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
-    "status": "unresolved"
   },
   {
     "canvas_index": 24,
@@ -997,29 +3427,98 @@
     "region_id": "c024-r050",
     "position_1based_codepoint": 4,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "蟬",
+      "墻"
+    ],
+    "reason": "末字重畫，尚不能可靠隸定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 24,
     "label": "fol. 10b",
-    "region_id": "c024-r069",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "紙張左側摺邊截去度數前部，缺失長度未定；僅末字十可見",
-    "status": "unresolved",
-    "extent": "unknown"
+    "region_id": "c024-r077",
+    "position_1based_codepoint": 2,
+    "marker": "島",
+    "candidates": [
+      "鳥"
+    ],
+    "reason": "鳥／島省筆與山部界限未能確定。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 24,
     "label": "fol. 10b",
-    "region_id": "c024-r076",
+    "region_id": "c024-r081",
+    "position_1based_codepoint": 2,
+    "marker": "蠟",
+    "candidates": [],
+    "reason": "虫旁可見，巤部與水紋相交，讀蠟仍保留疑問。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r086",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "影像字形未能確定；未按文義或他本補字",
+    "candidates": [
+      "龍",
+      "齊"
+    ],
+    "reason": "字形與海岸線相交，尚未定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 24,
+    "label": "fol. 10b",
+    "region_id": "c024-r086",
+    "position_1based_codepoint": 4,
+    "marker": "□",
+    "candidates": [
+      "安",
+      "它",
+      "亞"
+    ],
+    "reason": "字形與海岸線相交，尚未定讀。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r016",
+    "position_1based_codepoint": 1,
+    "marker": "烏",
+    "candidates": [
+      "鳥"
+    ],
+    "reason": "首字的眼筆與抹墨難分。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r016",
+    "position_1based_codepoint": 3,
+    "marker": "候",
+    "candidates": [
+      "淚",
+      "涙"
+    ],
+    "reason": "亻／氵旁及右部省寫有歧。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r028",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "瑗",
+      "坡"
+    ],
+    "reason": "首字左部王形較強，右部未定。",
     "status": "unresolved"
   },
   {
@@ -1028,82 +3527,48 @@
     "region_id": "c025-r030",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "細字或重疊筆畫未確；未依地名補字",
+    "candidates": [
+      "穰",
+      "穫"
+    ],
+    "reason": "密畫省寫，尚不能可靠隸定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 25,
     "label": "fol. (10a)a",
-    "region_id": "c025-r034",
+    "region_id": "c025-r036",
+    "position_1based_codepoint": 1,
+    "marker": "羅",
+    "candidates": [
+      "邏"
+    ],
+    "reason": "下方長筆可能是辶或與圖線相交。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r039",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "西",
-      "厄"
+      "翁",
+      "匈"
     ],
-    "reason": "首字似西或厄，未確",
+    "reason": "上公下羽似翁，仍保留原錄候選。",
     "status": "unresolved"
   },
   {
     "canvas_index": 25,
     "label": "fol. (10a)a",
-    "region_id": "c025-r037",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "末字小筆重疊，未確",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r047",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [
-      "羯"
-    ],
-    "reason": "末字筆畫與地界線相交，候選羯，未定",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r074",
+    "region_id": "c025-r063",
     "position_1based_codepoint": 2,
-    "marker": "□",
+    "marker": "魯",
     "candidates": [
-      "巴",
-      "星"
+      "睿"
     ],
-    "reason": "中間字小筆畫不清，候選巴或星，不以文義定讀",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r077",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [
-      "二",
-      "三"
-    ],
-    "reason": "前二字筆畫相接；第一字二或三未確，第二字候選佛或麻；末字依圖為齊",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r077",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [
-      "佛",
-      "麻"
-    ],
-    "reason": "前二字筆畫相接；第一字二或三未確，第二字候選佛或麻；末字依圖為齊",
+    "reason": "省寫上部與眼形密畫未能唯一判定。",
     "status": "unresolved"
   },
   {
@@ -1113,82 +3578,76 @@
     "position_1based_codepoint": 3,
     "marker": "□",
     "candidates": [
-      "濟"
+      "第",
+      "弟"
     ],
-    "reason": "第三字濃墨與線紋重疊；候選濟",
+    "reason": "重畫筆跡未能唯一判定。",
     "status": "unresolved"
   },
   {
     "canvas_index": 25,
     "label": "fol. (10a)a",
-    "region_id": "c025-r113",
+    "region_id": "c025-r120",
     "position_1based_codepoint": 2,
-    "marker": "□",
+    "marker": "愕",
     "candidates": [
-      "糸"
+      "憎",
+      "慄",
+      "慓"
     ],
-    "reason": "第二字形近糸，筆畫與經線重疊",
+    "reason": "忄右部密畫，未定讀法。",
     "status": "unresolved"
   },
   {
     "canvas_index": 25,
     "label": "fol. (10a)a",
-    "region_id": "c025-r125",
+    "region_id": "c025-r121",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "右字複雜且墨色重疊，不能據現代地名補字",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r128",
-    "position_1based_codepoint": 2,
-    "marker": "□",
     "candidates": [
-      "匿",
-      "遷"
+      "喪",
+      "曼",
+      "襄"
     ],
-    "reason": "第二字形近匿或遷，未確",
+    "reason": "首字密畫受圖線干擾。",
     "status": "unresolved"
   },
   {
     "canvas_index": 25,
     "label": "fol. (10a)a",
     "region_id": "c025-r140",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [
-      "臘"
-    ],
-    "reason": "中間字筆畫未確；候選臘",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r146",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [
-      "峰",
-      "峯"
-    ],
-    "reason": "峰字形山部位置未能確定，候選峰或峯",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r158",
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [
-      "蘇",
-      "禮"
+      "濟",
+      "淅",
+      "浙"
     ],
-    "reason": "首字繁密且與地圖線紋相交，候選蘇或禮，未定",
+    "reason": "氵右部密畫與地圖線交疊，尚不能唯一辨。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r153",
+    "position_1based_codepoint": 1,
+    "marker": "□",
+    "candidates": [
+      "蠟"
+    ],
+    "reason": "僅見裁邊字形，候選仍不足採定。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r162",
+    "position_1based_codepoint": 1,
+    "marker": "瑪",
+    "candidates": [
+      "萬"
+    ],
+    "reason": "濃墨及寫形尚有歧讀。",
     "status": "unresolved"
   },
   {
@@ -1198,9 +3657,20 @@
     "position_1based_codepoint": 2,
     "marker": "□",
     "candidates": [
-      "隱"
+      "匿",
+      "嶼"
     ],
-    "reason": "首字王旁馬部依圖為瑪；第二字在書縫近側細部不確，候選隱",
+    "reason": "末字結構與圖線交疊，未能唯一辨。",
+    "status": "unresolved"
+  },
+  {
+    "canvas_index": 25,
+    "label": "fol. (10a)a",
+    "region_id": "c025-r194",
+    "position_1based_codepoint": 1,
+    "marker": "百",
+    "candidates": [],
+    "reason": "濃墨抹改，前後是否尚有被抹字不能確定。",
     "status": "unresolved"
   },
   {
@@ -1209,9 +3679,12 @@
     "region_id": "c025-r195",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "刻度字墨色與原筆重疊，僅據所見保留，不以連續數列推補",
-    "status": "unresolved"
+    "candidates": [
+      "百"
+    ],
+    "reason": "原值經塗改，文字長度不確定。",
+    "status": "unresolved",
+    "extent": "unknown"
   },
   {
     "canvas_index": 25,
@@ -1219,19 +3692,13 @@
     "region_id": "c025-r196",
     "position_1based_codepoint": 3,
     "marker": "□",
-    "candidates": [],
-    "reason": "刻度字墨色與原筆重疊，僅據所見保留，不以連續數列推補",
-    "status": "unresolved"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r207",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "亞泥與國之間一字筆畫未確",
-    "status": "unresolved"
+    "candidates": [
+      "一十",
+      "七十"
+    ],
+    "reason": "被濃墨覆改的末段不能確定字數。",
+    "status": "unresolved",
+    "extent": "unknown"
   },
   {
     "canvas_index": 25,
@@ -1239,43 +3706,12 @@
     "region_id": "c025-r209",
     "position_1based_codepoint": 1,
     "marker": "□",
-    "candidates": [],
-    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
+    "candidates": [
+      "多兒美"
+    ],
+    "reason": "邊緣裁斷三字只見部分筆畫，整串候選不拆作單字答案。",
     "status": "unresolved",
-    "extent": "three visible clipped glyph fragments; total label length unknown"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r209",
-    "position_1based_codepoint": 2,
-    "marker": "□",
-    "candidates": [],
-    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
-    "status": "unresolved",
-    "extent": "three visible clipped glyph fragments; total label length unknown"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r209",
-    "position_1based_codepoint": 3,
-    "marker": "□",
-    "candidates": [],
-    "reason": "頁邊裁切，只餘三個字的局部筆畫，不能辨識",
-    "status": "unresolved",
-    "extent": "three visible clipped glyph fragments; total label length unknown"
-  },
-  {
-    "canvas_index": 25,
-    "label": "fol. (10a)a",
-    "region_id": "c025-r210",
-    "position_1based_codepoint": 1,
-    "marker": "□",
-    "candidates": [],
-    "reason": "影像右緣只餘一字左側部分",
-    "status": "unresolved",
-    "extent": "one visible clipped glyph fragment"
+    "extent": "unknown"
   },
   {
     "canvas_index": 25,
@@ -1284,10 +3720,9 @@
     "position_1based_codepoint": 2,
     "marker": "□",
     "candidates": [
-      "蠻",
-      "蠅"
+      "蠟"
     ],
-    "reason": "第二字蟲旁右部不清，候選蠻或蠅",
+    "reason": "虫旁與下部受圖線干擾，保留候選。",
     "status": "unresolved"
   },
   {
@@ -1297,9 +3732,21 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "影像最右緣分布多段字的左側殘筆；已檢視，原標籤總字數不能確定",
+    "reason": "裁邊碎字字數未定。",
     "status": "unresolved",
-    "extent": "multiple clipped glyph fragments in one vertical label; total length undetermined"
+    "extent": "unknown"
+  },
+  {
+    "canvas_index": 26,
+    "label": "fol. (10a)b",
+    "region_id": "c026-r007",
+    "position_1based_codepoint": 3,
+    "marker": "氐",
+    "candidates": [
+      "氏"
+    ],
+    "reason": "底點與末筆的界限不能完全判定；不單憑宿名正字定讀。",
+    "status": "unresolved"
   },
   {
     "canvas_index": 26,
@@ -1308,7 +3755,7 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "reason": "原生影像可見篆筆，但尚不能可靠隸定字數與印文。",
     "status": "unresolved",
     "extent": "unknown"
   },
@@ -1319,7 +3766,7 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "reason": "原生影像可見篆筆，但尚不能可靠隸定字數與印文。",
     "status": "unresolved",
     "extent": "unknown"
   },
@@ -1330,7 +3777,7 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "reason": "原生影像可見篆筆，但尚不能可靠隸定字數與印文。",
     "status": "unresolved",
     "extent": "unknown"
   },
@@ -1341,7 +3788,7 @@
     "position_1based_codepoint": 1,
     "marker": "□",
     "candidates": [],
-    "reason": "紅色篆印未能辨識，印文總字數尚不能確定；以一個缺字符代表此印的未定長文字",
+    "reason": "原生影像可見篆筆，但尚不能可靠隸定字數與印文。",
     "status": "unresolved",
     "extent": "unknown"
   }

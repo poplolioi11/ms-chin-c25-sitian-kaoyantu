@@ -1,0 +1,247 @@
+{
+  "version": "0.2.0",
+  "quality_status": "independent AI collation complete; unresolved readings retained; no human expert review",
+  "source_version": "0.1.0",
+  "source_transcription_sha256": "e6b56847d362976a2a9daa63ff3a8dcf4159847ca355639d398a65ef140a1ea5",
+  "scope_canvases": 30,
+  "scope": "all declared text layers and page layout; no geometry reconstruction",
+  "pages": [
+    {
+      "canvas": "c001",
+      "initial_regions": 4,
+      "reviewed_regions": 4,
+      "confirmed_blank": false,
+      "unresolved_records": 1
+    },
+    {
+      "canvas": "c002",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c003",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c004",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c005",
+      "initial_regions": 6,
+      "reviewed_regions": 6,
+      "confirmed_blank": false,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c006",
+      "initial_regions": 435,
+      "reviewed_regions": 430,
+      "confirmed_blank": false,
+      "unresolved_records": 41
+    },
+    {
+      "canvas": "c007",
+      "initial_regions": 70,
+      "reviewed_regions": 70,
+      "confirmed_blank": false,
+      "unresolved_records": 3
+    },
+    {
+      "canvas": "c008",
+      "initial_regions": 52,
+      "reviewed_regions": 53,
+      "confirmed_blank": false,
+      "unresolved_records": 7
+    },
+    {
+      "canvas": "c009",
+      "initial_regions": 53,
+      "reviewed_regions": 52,
+      "confirmed_blank": false,
+      "unresolved_records": 8
+    },
+    {
+      "canvas": "c010",
+      "initial_regions": 37,
+      "reviewed_regions": 37,
+      "confirmed_blank": false,
+      "unresolved_records": 14
+    },
+    {
+      "canvas": "c011",
+      "initial_regions": 36,
+      "reviewed_regions": 36,
+      "confirmed_blank": false,
+      "unresolved_records": 19
+    },
+    {
+      "canvas": "c012",
+      "initial_regions": 27,
+      "reviewed_regions": 27,
+      "confirmed_blank": false,
+      "unresolved_records": 9
+    },
+    {
+      "canvas": "c013",
+      "initial_regions": 33,
+      "reviewed_regions": 33,
+      "confirmed_blank": false,
+      "unresolved_records": 23
+    },
+    {
+      "canvas": "c014",
+      "initial_regions": 46,
+      "reviewed_regions": 46,
+      "confirmed_blank": false,
+      "unresolved_records": 41
+    },
+    {
+      "canvas": "c015",
+      "initial_regions": 31,
+      "reviewed_regions": 31,
+      "confirmed_blank": false,
+      "unresolved_records": 21
+    },
+    {
+      "canvas": "c016",
+      "initial_regions": 29,
+      "reviewed_regions": 29,
+      "confirmed_blank": false,
+      "unresolved_records": 23
+    },
+    {
+      "canvas": "c017",
+      "initial_regions": 29,
+      "reviewed_regions": 29,
+      "confirmed_blank": false,
+      "unresolved_records": 14
+    },
+    {
+      "canvas": "c018",
+      "initial_regions": 29,
+      "reviewed_regions": 29,
+      "confirmed_blank": false,
+      "unresolved_records": 18
+    },
+    {
+      "canvas": "c019",
+      "initial_regions": 39,
+      "reviewed_regions": 39,
+      "confirmed_blank": false,
+      "unresolved_records": 9
+    },
+    {
+      "canvas": "c020",
+      "initial_regions": 41,
+      "reviewed_regions": 41,
+      "confirmed_blank": false,
+      "unresolved_records": 11
+    },
+    {
+      "canvas": "c021",
+      "initial_regions": 20,
+      "reviewed_regions": 20,
+      "confirmed_blank": false,
+      "unresolved_records": 3
+    },
+    {
+      "canvas": "c022",
+      "initial_regions": 24,
+      "reviewed_regions": 24,
+      "confirmed_blank": false,
+      "unresolved_records": 5
+    },
+    {
+      "canvas": "c023",
+      "initial_regions": 23,
+      "reviewed_regions": 24,
+      "confirmed_blank": false,
+      "unresolved_records": 9
+    },
+    {
+      "canvas": "c024",
+      "initial_regions": 111,
+      "reviewed_regions": 111,
+      "confirmed_blank": false,
+      "unresolved_records": 7
+    },
+    {
+      "canvas": "c025",
+      "initial_regions": 213,
+      "reviewed_regions": 213,
+      "confirmed_blank": false,
+      "unresolved_records": 20
+    },
+    {
+      "canvas": "c026",
+      "initial_regions": 25,
+      "reviewed_regions": 25,
+      "confirmed_blank": false,
+      "unresolved_records": 5
+    },
+    {
+      "canvas": "c027",
+      "initial_regions": 1,
+      "reviewed_regions": 1,
+      "confirmed_blank": false,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c028",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c029",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    },
+    {
+      "canvas": "c030",
+      "initial_regions": 0,
+      "reviewed_regions": 0,
+      "confirmed_blank": true,
+      "unresolved_records": 0
+    }
+  ],
+  "counts": {
+    "kept": 1059,
+    "changed": 335,
+    "removed": 20,
+    "added": 16,
+    "initial_units_adjudicated": 1414,
+    "final_text_regions": 1410,
+    "uncertainty_records": 311,
+    "placeholder_codepoints": 101
+  },
+  "models_requested": [
+    "gpt-6-astra ultra",
+    "gemini-3.8-flash-high"
+  ],
+  "actual_serving_model_receipt": {
+    "native_collaboration": "not independently reported",
+    "ai_coop_gemini": "gemini-3.8-flash-high"
+  },
+  "expert_review": "not-run",
+  "accuracy_evaluation": "not-run",
+  "limitations": [
+    "獨立 AI 校讀不等於人類雙校、專家審定或準確率認證。",
+    "疑字、裁邊、濃墨及未定長片段明示保留；重要引文應對照原圖。",
+    "星官詞例、步天歌通行本只用於提出疑問，不據以代換底本文字。",
+    "文字框是近似來源定位，沒有星點／連線幾何。",
+    "來源影像及私人處理程式、提示、完整問答不納入公開包。"
+  ]
+}

@@ -1,16 +1,35 @@
 cff-version: 1.2.0
 type: dataset
-message: 請引用此固定初錄版本，並另引歷史作者與Bodleian底本；未經獨立覆核。
-title: 《司天考驗圖》MS.Chin.c.25：影像初錄（未獨立覆核） / Si tian kao yan tu First-Pass Transcription
+message: 請引用本固定二校版本，並另引歷史作者與Bodleian底本；獨立AI校讀保留疑字，未經人類專家審定。
+title: '《司天考驗圖》MS.Chin.c.25：獨立 AI 二校（保留疑字） / Si tian kao yan tu: independently collated
+  AI transcription'
 authors:
-- name: 一卦 yigua.art / poplolioi11
-  website: https://yigua.art
-version: 0.1.0
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+version: 0.2.0
+date-released: '2026-10-28'
 repository-artifact: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu
-url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu
-license-url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/blob/v0.1.0/LICENSE.md
-abstract: 30 canvases, AI-assisted first-pass transcription, no independent collation
-  or expert review. Source applicable rights CC BY-NC 4.0; original contributions
-  CC BY 4.0. Distinct layers, not alternative licences. DOI, if listed, was reserved
-  for preparation and is not a quality endorsement.
-doi: 10.5281/zenodo.23588495
+url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0
+license-url: https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/blob/v0.2.0/LICENSE.md
+keywords:
+- 司天考驗圖
+- 吳維鍔
+- 天文史
+- 星圖
+- 歷史地圖
+- history of astronomy
+- history of science
+- Chinese star charts
+- historical cartography
+- world maps
+- solar and lunar eclipses
+- Chinese manuscripts
+- Qing dynasty
+- MS.Chin.c.25
+- digital humanities
+- TEI XML
+abstract: All 30 canvases independently read and adjudicated with unresolved readings
+  retained. AI collation; no human expert review or measured accuracy claim. Geometry
+  not reconstructed. Source applicable rights CC BY-NC 4.0; original documentation
+  and arrangement separately CC BY 4.0.

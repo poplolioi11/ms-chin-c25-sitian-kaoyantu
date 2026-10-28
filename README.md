@@ -1,47 +1,46 @@
-# 《司天考驗圖》MS.Chin.c.25：影像初錄
+# 《司天考驗圖》MS.Chin.c.25：獨立 AI 二校
 
-**v0.1.0，未獨立覆核。** 一卦 yigua.art / poplolioi11 整理。本次為非商業研究及學術資料庫利用；來源適用權利保留 CC BY-NC 4.0，整理者自有原創說明／編排採 CC BY 4.0，詳見 [LICENSE.md](LICENSE.md)。
+**v0.2.0，保留疑字；未經人類專家審定。** 整理者：曲宸宇（Chu, Chen-Yu；GitHub：poplolioi11；[ORCID](https://orcid.org/0009-0003-9738-6914)）。
 
-30/30 幅完成指定文字層的第一遍影像轉錄，包含空白面判定、題名／款識、圖說、全天星圖、分宿圖、兩幅世界地圖、日月食圖、印章及館藏記號。**完整指指定範圍已逐面初錄，不是每字已辨明或全圖幾何重建；全部尚未獨立校讀或人類專家覆核。** 不作文字準確率或同儕審查主張。
+本版對全書30幅的指定文字層與全頁版面作另一次獨立影像讀字、比較及回圖裁決，涵蓋題名、款識、星圖標籤、圖說韻文與占辭、兩幅世界地圖、日月食圖、印記、館藏記號及空白面。可用於名稱索引、來源定位及後續校勘；正式引用韻文、占辭或疑字，請核對原圖與疑字記錄。這不是人類雙校、專家定本或準確率認證。
 
-## 底本與來源
+## 底本與範圍
 
-清吳維鍔《司天考驗圖》不分卷，清抄本，1 冊 28×34 公分。Bodleian Libraries, University of Oxford，**MS.Chin.c.25**。館方抄本定年 1800–1899 不當成成書／出版年；精確作者生卒與首次刊行年未核。歷史作者與現代資料整理者分開。
+清吳維鍔《司天考驗圖》，Bodleian Libraries, University of Oxford，**MS.Chin.c.25**。館方抄本編目年代1800–1899不當作成書或出版年。30個IIIF畫布按館方原序保存，不能當作30葉；空白面為c002、c003、c004、c028、c029、c030。
 
-Source credit: **MS.Chin.c.25. Photo: © Bodleian Libraries, University of Oxford.**
+[Digital Bodleian官方影像](https://digital.bodleian.ox.ac.uk/objects/d547c5a0-f642-4dbe-92f4-6766edac9943/) · [官方manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/d547c5a0-f642-4dbe-92f4-6766edac9943.json) · [正式書目](https://east-asian.bodleian.ox.ac.uk/catalog/volume_594)
 
-- [Digital Bodleian 官方物件](https://digital.bodleian.ox.ac.uk/objects/d547c5a0-f642-4dbe-92f4-6766edac9943/)
-- [官方 manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/d547c5a0-f642-4dbe-92f4-6766edac9943.json)／[館藏目錄](https://east-asian.bodleian.ox.ac.uk/catalog/volume_594)
-- [館方來源授權 CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)／[利用條款](https://digital.bodleian.ox.ac.uk/terms/)（2026-10-23 查核）
+Source credit: **MS.Chin.c.25. Photo: © Bodleian Libraries, University of Oxford.** 影像不隨本包散布。來源適用權利保留[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)；整理者自有說明與原創編排另採[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，兩者分層適用，詳[LICENSE.md](LICENSE.md)。
 
-原 manifest 的 30 幅順序與館方葉標保留，包括 `fol. (10a)a`、`fol. (10a)b` 插葉。不把畫布數當葉數或文字頁數；空白面為 c002, c003, c004, c028, c029, c030。背面透字不重複計成該面正文。逐幅來源與工作圖 hash 見 [source-index.json](source-index.json)，詳情見 [PROVENANCE.md](PROVENANCE.md)。
+## 本版內容
 
-## 檔案與資料結構
+本版有1410個文字區塊、311筆定位疑讀，正文中有101個`□`。疑讀記錄也可能標在已錄出的字上；一個`□`可代表字數未定的片段，不能將這些數量當成缺字數、錯誤率或準確率。圖形仍是36個現代描述，星點、連線、海岸線與經緯網幾何未重建。
 
-- [transcription.txt](transcription.txt)：可直接閱讀；方括號導覽、角色及定位為現代新增，非原書正文。
-- [transcription.json](transcription.json)：依畫布、文字區塊與圖形記錄來源、原文、座標、疑字與限制。
-- [transcription.tei.xml](transcription.tei.xml)：與 JSON 文字區塊原文一致的 TEI P5；surface/zone 保留來源與座標，ab 保留文字並連到 figure，figDesc 是現代描述。來源、圖形及疑字（含 extent）以對應 note 保存；完整資料仍以配套 JSON 為準。
-- [uncertainties.json](uncertainties.json)：124 筆定位疑字，正文中的 `□` 共 124 個；字數未詳文段另記 extent，不能把占位數直接當缺字數或錯誤率。
-- [source-index.json](source-index.json)、[SHA256SUMS](SHA256SUMS)、[CITATION.cff](CITATION.cff)、[VALIDATION.json](VALIDATION.json)：來源、校驗、引用與驗證範圍。
+相較固定v0.1.0，335個既有區塊文字有變動、移除20個誤框／重複單位、新增16個來源單位。這些是區塊級變動數，包含分組與原寫字形訂正，不等於錯字數。逐項見[corrections.json](corrections.json)、[region-mapping.json](region-mapping.json)與[COLLATION.md](COLLATION.md)。
 
-共 1414 個文字區塊與 36 個現代圖形描述。`bbox=[x,y,width,height]` 是實際工作影像像素；文字位置從 1 起算 Unicode 碼點。正文直欄按原版式，圖內標籤按空間位置另列，不虛構連續語句。圖形幾何、星點、海岸線及經緯網線未重建。
+- [TXT](transcription.txt)：直接閱讀。方括號導覽與角色標籤是現代新增，非原文。
+- [JSON](transcription.json)：主資料，保存來源、原文、角色、近似文字框、疑字及覆核狀態。
+- [TEI P5 XML](transcription.tei.xml)：與JSON逐區塊文字一致；surface/zone、ab、figure與疑字note保留來源對應。完整資料以配套JSON為準。
+- [疑字](uncertainties.json)、[來源與官方高解析影像區域](source-index.json)、[覆核摘要](collation-report.json)、[格式驗證](VALIDATION.json)、[校驗值](SHA256SUMS)、[引用](CITATION.cff)。
 
-不自動加標點、統一異體或簡繁轉換。不用通行本、地理常識或模型記憶代填原頁。這仍可能有漏讀、錯讀或版式誤判；關鍵引文與研究統計應回到原圖核對。AI 輔助初錄的模型／方法與覆核界線詳 PROVENANCE；未提供私人處理程式、提示、工作影像或完整 AI 工作紀錄，不宣稱全流程可重跑。
+`bbox=[x,y,width,height]`用固定工作影像的實際像素；文字位置從1起算Unicode碼點。文字框是近似定位或讀取鄰域，可能包含鄰字，不是精密字界、星點座標或量測資料。圖中名稱按位置另錄，不拼成虛構連續語句。
 
-## 驗證與覆核
+## 覆核與限制
 
-已核 30 幅來源位元組 hash、頁序／ID、座標範圍、圖形標籤對應、逐一疑字位置、JSON/TXT/TEI 文字回讀一致性及官方 TEI P5 4.12.0 Relax NG。另做改字、掉區塊、換序、錯來源、疑字錯位、重複ID與外部entity的拒絕測試；CFF依完整官方1.2.0 schema驗證。
+獨立讀字先於兩稿比較；有差異、疑字與列明高風險項再回圖裁決。星官術語及《步天歌》詞例用於提出疑問，不能取代底本筆形。不自動補標點、統一異體、正規化地名、修正底本本身可能的訛寫；來源不可唯一辨讀時，保留候選與理由。
 
-未執行獨立影像盲校、人類專家覆核、逐字準確率量測、完整異文校勘、ODD或Schematron。格式及 hash 只驗所聲明的一致性，不證明讀字正確、學術認證或法律認證。
+本輪使用Codex影像工作者（要求gpt-6-astra、ultra；實際逐次服務模型未獨立回報）及AI Coop的Gemini影像工作（回報gemini-3.8-flash-high）。程式只處理確定規則的比對、編碼、雜湊與一致性檢查。沒有做人類專家審定、同儕審查、人工參考逐字準確率量測或完整異本校勘。詳[PROVENANCE.md](PROVENANCE.md)。
 
-## 引用與訂正
+JSON/TXT/TEI回讀、頁序、ID、來源雜湊、文字框範圍、疑字定位、官方TEI Relax NG及完整CFF 1.2.0 schema另作驗證。這些驗證不證明文字無誤。專用程式、提示、裁片及完整協作紀錄私人保存，未提供由原圖完全重跑辨字的方法。
 
-版本 DOI：[10.5281/zenodo.23588495](https://doi.org/10.5281/zenodo.23588495)（製備時已預留；正式發布／登記以平台公開紀錄為準）。
+## 引用、版本與訂正
 
-請分開引用：① 吳維鍔《司天考驗圖》與相應葉／區塊；② Bodleian MS.Chin.c.25 官方影像；③ 一卦 yigua.art / poplolioi11（2026），本資料 v0.1.0（影像初錄，未獨立覆核）。固定發行版：https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.1.0 。
+本版的 Zenodo 版本 DOI 尚未建立；請先以固定 GitHub v0.2.0 連結引用。以下全版本 DOI 目前仍指向舊版，不能用來代表本次二校。 [全版本DOI](https://doi.org/10.5281/zenodo.23588494) · [GitHub固定v0.2.0](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0)。
 
-Issues 歡迎附原頁證據的訂正，方式見 [CONTRIBUTING.md](CONTRIBUTING.md)。改字另發版本，保留原版本與變更，不默換封存檔。CFF及DOI不會追蹤所有使用或引用。
+Chu, Chen-Yu（曲宸宇）. (2026). 《司天考驗圖》MS.Chin.c.25：獨立 AI 二校（保留疑字）, v0.2.0.
+
+研究引用請另列歷史作者、Bodleian底本與具體畫布／區塊。v0.1.0初錄、舊tag、檔案與[舊版DOI](https://doi.org/10.5281/zenodo.23588495)均保留。新版不回寫舊版。歡迎在[Issues](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/issues)附原頁證據訂正，見[CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## English summary
 
-An AI-assisted first-pass transcription of *Si tian kao yan tu*, attributed to Wu Wei'e, from Bodleian MS.Chin.c.25. All 30 canvases were inspected for the specified text layer, including chart and map labels, paratext and blank surfaces. Uncertainties remain; there has been no independent collation or human expert review. Geometry is not reconstructed. JSON, TXT and TEI retain page/region source alignment. Source applicable rights remain CC BY-NC 4.0 for noncommercial scholarly use; original documentation and arrangement are CC BY 4.0. These are distinct rights layers, not a choice of licences for the whole package. Scans and private processing materials are excluded. Please cite the historical author, source manuscript and this versioned dataset separately.
+An independently collated AI transcription of *Si tian kao yan tu*, attributed to Wu Wei'e, Bodleian MS.Chin.c.25. All declared text layers and page layouts across 30 canvases were reviewed, including star-chart and world-map labels, captions, prognostications, eclipse diagrams and paratext. Unresolved readings are explicitly retained. There has been no human expert review or measured character-accuracy evaluation. This is a provisional source-aligned research aid; verify quotations against the manuscript images. Geometry is not reconstructed. Source applicable rights remain CC BY-NC 4.0; original documentation and arrangement are separately CC BY 4.0. Scans and private processing materials are excluded.

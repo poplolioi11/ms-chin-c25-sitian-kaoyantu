@@ -1,0 +1,5196 @@
+[
+  {
+    "canvas": "c001",
+    "id": "c001-r001",
+    "action": "replace",
+    "before": "司天考驗□",
+    "after": "司天考驗啚",
+    "source_bbox": [
+      447,
+      414,
+      152,
+      566
+    ],
+    "reason": "末字上為十形，下呈回／口形，無外圍囗；以啚記錄所見寫形。通稱書名仍作圖。"
+  },
+  {
+    "canvas": "c001",
+    "id": "c001-r003",
+    "action": "replace",
+    "before": "544□",
+    "after": "544 d",
+    "source_bbox": [
+      709,
+      169,
+      194,
+      84
+    ],
+    "reason": "放大可見末位西文字母上升筆與下方閉環，讀小寫d；數字與字母間留空格。"
+  },
+  {
+    "canvas": "c005",
+    "id": "c005-r005",
+    "action": "replace",
+    "before": "吳維鍔",
+    "after": "吳維鍔印",
+    "source_bbox": [
+      770,
+      1290,
+      164,
+      168
+    ],
+    "reason": "原印四格為吳、維、鍔、印，補錄初稿漏掉的印字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r005",
+    "action": "replace",
+    "before": "吳越分揚",
+    "after": "吳越分楊",
+    "source_bbox": [
+      855,
+      452,
+      164,
+      98
+    ],
+    "reason": "末字左部木的撇捺可見，讀楊，保留原書揚州作楊的寫形。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r012",
+    "action": "replace",
+    "before": "十五度",
+    "after": "廿五度",
+    "source_bbox": [
+      1001,
+      485,
+      80,
+      48
+    ],
+    "reason": "首字兩豎連橫作廿，非十；後五度可見。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r013",
+    "action": "replace",
+    "before": "壁",
+    "after": "危",
+    "source_bbox": [
+      1658,
+      485,
+      39,
+      37
+    ],
+    "reason": "圓圈內原字為危，原稿壁誤讀。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r015",
+    "action": "replace",
+    "before": "□",
+    "after": "敗臼",
+    "source_bbox": [
+      1361,
+      458,
+      116,
+      99
+    ],
+    "reason": "原生擴框可見敗臼二字；原提示只框到臼與鄰線。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r029",
+    "action": "replace",
+    "before": "□",
+    "after": "天海",
+    "source_bbox": [
+      1488,
+      575,
+      27,
+      47
+    ],
+    "reason": "天、海兩字完整可見。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r030",
+    "action": "replace",
+    "before": "十度",
+    "after": "十二度",
+    "source_bbox": [
+      818,
+      578,
+      46,
+      52
+    ],
+    "reason": "沿外圈方向可見十二度，原稿漏二。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r040",
+    "action": "replace",
+    "before": "□",
+    "after": "八魁",
+    "source_bbox": [
+      1749,
+      571,
+      105,
+      108
+    ],
+    "reason": "魁上方可見八的兩撇，補全八魁；擴框保留上下文。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r044",
+    "action": "replace",
+    "before": "主道路關梁",
+    "after": "主道□□□",
+    "source_bbox": [
+      1034,
+      626,
+      39,
+      94
+    ],
+    "reason": "主道可讀；後三字兩稿各有歧讀，四方向原生圖仍不足裁定，不以常見天文占語補入。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r048",
+    "action": "remove",
+    "before": "□",
+    "after": null,
+    "source_bbox": [
+      1583,
+      649,
+      36,
+      35
+    ],
+    "reason": "原框僅有星圈和連線；無獨立文字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r063",
+    "action": "replace",
+    "before": "司祿",
+    "after": "□",
+    "source_bbox": [
+      1380,
+      731,
+      22,
+      32
+    ],
+    "reason": "原提示錯落在小筆／星線，擴框所見司命由r069記錄；本處保留未定長疑讀，不重複抄司命。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r066",
+    "action": "replace",
+    "before": "天籥",
+    "after": "天泉",
+    "source_bbox": [
+      830,
+      741,
+      39,
+      50
+    ],
+    "reason": "第二字上白下水的泉形可見，按原筆形轉錄，不因常見星官名替換。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r068",
+    "action": "remove",
+    "before": "雲雨",
+    "after": null,
+    "source_bbox": [
+      1623,
+      747,
+      38,
+      39
+    ],
+    "reason": "與r059同一壘壁陣標籤，舊框把星線及標籤片段另算一項，合併到r059。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r074",
+    "action": "replace",
+    "before": "頓頑",
+    "after": "司危\n司祿",
+    "source_bbox": [
+      1284,
+      748,
+      112,
+      120
+    ],
+    "reason": "相鄰兩組標籤為司危、司祿，並非頓頑；以換行區分兩組，不接成句。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r078",
+    "action": "replace",
+    "before": "扶筐",
+    "after": "離珠",
+    "source_bbox": [
+      1169,
+      792,
+      31,
+      56
+    ],
+    "reason": "離與珠字形可見，非扶筐。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r082",
+    "action": "remove",
+    "before": "天籥",
+    "after": null,
+    "source_bbox": [
+      1048,
+      811,
+      30,
+      39
+    ],
+    "reason": "框中心為星圈與連線，僅鄰標籤殘筆，不是獨立天籥。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r083",
+    "action": "replace",
+    "before": "雷",
+    "after": "電",
+    "source_bbox": [
+      1569,
+      814,
+      22,
+      28
+    ],
+    "reason": "旋轉後可見下部申形尾筆伸彎，讀電，非田形雷。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r084",
+    "action": "replace",
+    "before": "漸臺",
+    "after": "左旗",
+    "source_bbox": [
+      1016,
+      816,
+      36,
+      41
+    ],
+    "reason": "左旗兩字，與另處右旗相區分。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r094",
+    "action": "replace",
+    "before": "左旗",
+    "after": "右旗",
+    "source_bbox": [
+      1112,
+      873,
+      55,
+      41
+    ],
+    "reason": "右旗的右字口形可見，非左。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r095",
+    "action": "replace",
+    "before": "織女",
+    "after": "敗瓜",
+    "source_bbox": [
+      1210,
+      873,
+      30,
+      45
+    ],
+    "reason": "可見敗、瓜兩字，初稿織女錯接。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r100",
+    "action": "replace",
+    "before": "奎",
+    "after": "壁",
+    "source_bbox": [
+      2117,
+      882,
+      37,
+      39
+    ],
+    "reason": "圈內壁字與外圈魯分徐相鄰；非奎。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r108",
+    "action": "replace",
+    "before": "騰蛇",
+    "after": "鈎陳",
+    "source_bbox": [
+      1490,
+      909,
+      40,
+      33
+    ],
+    "reason": "四方向看圖可見金旁鈎與阝旁陳，原稿騰蛇是錯接。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r114",
+    "action": "replace",
+    "before": "□",
+    "after": "天江",
+    "source_bbox": [
+      764,
+      957,
+      58,
+      44
+    ],
+    "reason": "天江兩字可讀，補原缺文。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r116",
+    "action": "replace",
+    "before": "十六度",
+    "after": "六度",
+    "source_bbox": [
+      518,
+      969,
+      46,
+      81
+    ],
+    "reason": "外圈原文字為六度，不見可獨立的十字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r121",
+    "action": "replace",
+    "before": "媵",
+    "after": "指",
+    "source_bbox": [
+      651,
+      1017,
+      31,
+      25
+    ],
+    "reason": "扌旁與旨形可見，讀指；鄰近身體部位小標記分開記錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r122",
+    "action": "replace",
+    "before": "五車",
+    "after": "□",
+    "source_bbox": [
+      1163,
+      1018,
+      22,
+      26
+    ],
+    "reason": "撤回暫擬漸臺：另處r145有漸臺，而此處氵與後字仍不清，不能由熟知名稱補足。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r123",
+    "action": "replace",
+    "before": "車肆",
+    "after": "市樓",
+    "source_bbox": [
+      830,
+      986,
+      109,
+      105
+    ],
+    "reason": "星點旁可見市樓兩字；以擴框涵蓋真正文字，原框只截到星形。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r126",
+    "action": "replace",
+    "before": "河中",
+    "after": "中山",
+    "source_bbox": [
+      1123,
+      1023,
+      28,
+      34
+    ],
+    "reason": "中山兩字可見，非河中。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r128",
+    "action": "replace",
+    "before": "宗星",
+    "after": "宗",
+    "source_bbox": [
+      830,
+      1029,
+      33,
+      21
+    ],
+    "reason": "原稿末星為猜補，圖中只見宗字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r131",
+    "action": "replace",
+    "before": "河間",
+    "after": "九河",
+    "source_bbox": [
+      1105,
+      1038,
+      28,
+      35
+    ],
+    "reason": "九的彎筆與河字氵可見，非河間。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r132",
+    "action": "replace",
+    "before": "嬪",
+    "after": "頷",
+    "source_bbox": [
+      654,
+      1041,
+      31,
+      24
+    ],
+    "reason": "頁旁及含形可見，讀頷，非嬪。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r135",
+    "action": "replace",
+    "before": "□",
+    "after": "天人",
+    "source_bbox": [
+      656,
+      1059,
+      32,
+      32
+    ],
+    "reason": "天、人兩字可讀，原稿缺文。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r136",
+    "action": "remove",
+    "before": "帛度",
+    "after": null,
+    "source_bbox": [
+      885,
+      1062,
+      34,
+      27
+    ],
+    "reason": "此處市為r123市樓中的同一墨跡片段；不重複編為帛度或市。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r137",
+    "action": "replace",
+    "before": "奎",
+    "after": "婁",
+    "source_bbox": [
+      1766,
+      1062,
+      32,
+      35
+    ],
+    "reason": "圈內婁的密畫及下女形可見，非奎。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r139",
+    "action": "replace",
+    "before": "□",
+    "after": "趙",
+    "source_bbox": [
+      1089,
+      1068,
+      22,
+      24
+    ],
+    "reason": "走旁及肖形可見，讀趙。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r140",
+    "action": "replace",
+    "before": "天槍",
+    "after": "織女",
+    "source_bbox": [
+      1192,
+      1078,
+      27,
+      40
+    ],
+    "reason": "糹旁織與女字可見，非天槍。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r141",
+    "action": "remove",
+    "before": "魏",
+    "after": null,
+    "source_bbox": [
+      1079,
+      1090,
+      24,
+      25
+    ],
+    "reason": "中心是星點連線；魏為鄰近r143，不另算文字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r143",
+    "action": "replace",
+    "before": "晉",
+    "after": "魏",
+    "source_bbox": [
+      1032,
+      1092,
+      26,
+      26
+    ],
+    "reason": "委旁與鬼部可見，讀魏，非晉。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r145",
+    "action": "replace",
+    "before": "□",
+    "after": "漸臺",
+    "source_bbox": [
+      1227,
+      1059,
+      94,
+      105
+    ],
+    "reason": "氵旁漸與臺兩字在星點旁可辨，補原缺文。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r148",
+    "action": "replace",
+    "before": "貫索",
+    "after": "宦者",
+    "source_bbox": [
+      992,
+      1104,
+      40,
+      31
+    ],
+    "reason": "宀下臣形與者字可見，讀宦者，非貫索。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r150",
+    "action": "replace",
+    "before": "屠肆",
+    "after": "車肆",
+    "source_bbox": [
+      832,
+      1108,
+      31,
+      43
+    ],
+    "reason": "首字車形及右肆字可見，不從屠肆。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r158",
+    "action": "replace",
+    "before": "太子",
+    "after": "天房",
+    "source_bbox": [
+      607,
+      1136,
+      31,
+      27
+    ],
+    "reason": "首字天可見，後字房的隸定仍保留疑問；不以熟知星官名補改。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r159",
+    "action": "remove",
+    "before": "□",
+    "after": null,
+    "source_bbox": [
+      1018,
+      1137,
+      32,
+      39
+    ],
+    "reason": "原框中心空白，兩側只有已記鄰字殘筆，不建立獨立標籤。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r168",
+    "action": "replace",
+    "before": "少輔",
+    "after": "輔",
+    "source_bbox": [
+      1249,
+      1164,
+      27,
+      21
+    ],
+    "reason": "本處只見輔單字，初稿少為多補。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r171",
+    "action": "replace",
+    "before": "上輔",
+    "after": "相",
+    "source_bbox": [
+      1285,
+      1180,
+      29,
+      26
+    ],
+    "reason": "木旁目形，讀相，非上輔。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r173",
+    "action": "replace",
+    "before": "□",
+    "after": "上丞",
+    "source_bbox": [
+      1460,
+      1185,
+      26,
+      25
+    ],
+    "reason": "上與丞形可見，補缺。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r191",
+    "action": "replace",
+    "before": "西咸",
+    "after": "天蔵",
+    "source_bbox": [
+      737,
+      1240,
+      48,
+      34
+    ],
+    "reason": "天與蔵形可見，按此寫形記錄，不改作藏。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r193",
+    "action": "replace",
+    "before": "御女",
+    "after": "四輔",
+    "source_bbox": [
+      1282,
+      1241,
+      29,
+      27
+    ],
+    "reason": "四及輔兩字，與圈內星線區分，原稿御女誤讀。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r197",
+    "action": "remove",
+    "before": "天棓",
+    "after": null,
+    "source_bbox": [
+      1165,
+      1248,
+      25,
+      24
+    ],
+    "reason": "擴框所讀上宰與既有r203同一墨跡；初稿天棓錯接，保留r203並移除重複框。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r204",
+    "action": "replace",
+    "before": "天將軍",
+    "after": "積",
+    "source_bbox": [
+      1593,
+      1258,
+      33,
+      42
+    ],
+    "reason": "此處積字可讀；不因鄰近下方水形自行併到別處積水。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r208",
+    "action": "replace",
+    "before": "□",
+    "after": "卷舌",
+    "source_bbox": [
+      1729,
+      1270,
+      30,
+      26
+    ],
+    "reason": "卷舌二字可辨，補缺。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r209",
+    "action": "replace",
+    "before": "杠",
+    "after": "戈",
+    "source_bbox": [
+      1487,
+      1275,
+      25,
+      26
+    ],
+    "reason": "單字為戈形，不見木旁工部，非杠。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r210",
+    "action": "replace",
+    "before": "□",
+    "after": "天讒",
+    "source_bbox": [
+      1678,
+      1277,
+      37,
+      24
+    ],
+    "reason": "天、讒兩字的主體可見，補缺。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r219",
+    "action": "replace",
+    "before": "鉤陳",
+    "after": "大理",
+    "source_bbox": [
+      1217,
+      1288,
+      93,
+      89
+    ],
+    "reason": "擴框可見大理兩字，原框上偏；與圈內鉤陳非同一標籤。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r220",
+    "action": "replace",
+    "before": "少丞",
+    "after": "三公",
+    "source_bbox": [
+      1479,
+      1288,
+      113,
+      91
+    ],
+    "reason": "此處三公兩字，非少丞；與r228同墨跡合併。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r221",
+    "action": "replace",
+    "before": "天樞",
+    "after": "太尊",
+    "source_bbox": [
+      1328,
+      1328,
+      22,
+      21
+    ],
+    "reason": "太的點及尊形可見，非天樞。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r226",
+    "action": "replace",
+    "before": "天街",
+    "after": "天畢",
+    "source_bbox": [
+      1730,
+      1333,
+      50,
+      22
+    ],
+    "reason": "依影像暫讀天畢，不依熟知星官名改成天街。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r228",
+    "action": "remove",
+    "before": "三師",
+    "after": null,
+    "source_bbox": [
+      1530,
+      1344,
+      30,
+      24
+    ],
+    "reason": "與r220同一三公墨跡，不另編為三師或再次三公。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r233",
+    "action": "replace",
+    "before": "四輔",
+    "after": "□",
+    "source_bbox": [
+      1372,
+      1356,
+      30,
+      27
+    ],
+    "reason": "不接到西側天床；以未定長缺文保留此處。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r238",
+    "action": "replace",
+    "before": "□",
+    "after": "礪石",
+    "source_bbox": [
+      1673,
+      1361,
+      41,
+      30
+    ],
+    "reason": "礪與石形可見，補缺。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r240",
+    "action": "replace",
+    "before": "□",
+    "after": "后宮",
+    "source_bbox": [
+      1327,
+      1363,
+      13,
+      39
+    ],
+    "reason": "后宮兩字可見，依后原寫不改後。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r246",
+    "action": "replace",
+    "before": "上衛",
+    "after": "少尉",
+    "source_bbox": [
+      1417,
+      1392,
+      39,
+      29
+    ],
+    "reason": "少及尉形可見，非上衛。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r256",
+    "action": "replace",
+    "before": "氏",
+    "after": "氐",
+    "source_bbox": [
+      796,
+      1422,
+      46,
+      38
+    ],
+    "reason": "氏形下有與圈線分離的點筆，讀氐；對應使用者A13。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r260",
+    "action": "replace",
+    "before": "天床",
+    "after": "□",
+    "source_bbox": [
+      1514,
+      1426,
+      21,
+      26
+    ],
+    "reason": "保留圈內本身的未解字組，不以旁側內階或天床替定；不聲稱無文字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r262",
+    "action": "replace",
+    "before": "公尉",
+    "after": "尉",
+    "source_bbox": [
+      1301,
+      1431,
+      26,
+      26
+    ],
+    "reason": "本處只見尉字，初稿公為多補。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r264",
+    "action": "replace",
+    "before": "十五度",
+    "after": "十六度",
+    "source_bbox": [
+      474,
+      1437,
+      38,
+      64
+    ],
+    "reason": "末數字為六的點、撇捺，非五。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r265",
+    "action": "replace",
+    "before": "少宰",
+    "after": "□",
+    "source_bbox": [
+      1401,
+      1439,
+      16,
+      29
+    ],
+    "reason": "鄰文複雜而原框沒有完整可讀字，保留未定長疑讀，不直接抄附近少尉。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r266",
+    "action": "replace",
+    "before": "大理",
+    "after": "天牢",
+    "source_bbox": [
+      1403,
+      1404,
+      96,
+      87
+    ],
+    "reason": "旋轉可見天牢，牢上宀與下牛形；與r267同墨跡。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r267",
+    "action": "remove",
+    "before": "天理",
+    "after": null,
+    "source_bbox": [
+      1433,
+      1441,
+      27,
+      20
+    ],
+    "reason": "與r266同一墨跡天牢，兩個舊框只偏數像素；天理另在r280記錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r270",
+    "action": "replace",
+    "before": "右樞",
+    "after": "天乙",
+    "source_bbox": [
+      1171,
+      1418,
+      86,
+      88
+    ],
+    "reason": "擴框可見天、乙分置星圈旁；不採原稿右樞，也不錯接文昌。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r277",
+    "action": "remove",
+    "before": "輔",
+    "after": null,
+    "source_bbox": [
+      1306,
+      1484,
+      18,
+      21
+    ],
+    "reason": "擴框讀得的開陽與r279同一墨跡，不另立輔或重複開陽。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r280",
+    "action": "replace",
+    "before": "四勢",
+    "after": "天理",
+    "source_bbox": [
+      1444,
+      1489,
+      18,
+      20
+    ],
+    "reason": "此處理字王旁里形可見，與上方天牢不同。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r281",
+    "action": "replace",
+    "before": "天門守相",
+    "after": "太陽守\n□相",
+    "source_bbox": [
+      1328,
+      1455,
+      94,
+      125
+    ],
+    "reason": "三個大字太陽守可見，下旁另有□相小註；不將可見相字隨截框丟掉。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r289",
+    "action": "replace",
+    "before": "氏",
+    "after": "氐",
+    "source_bbox": [
+      478,
+      1502,
+      34,
+      32
+    ],
+    "reason": "外圈氐字底點可見，不是無點氏；對應使用者A13另一處。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r297",
+    "action": "replace",
+    "before": "天關",
+    "after": "北河",
+    "source_bbox": [
+      1526,
+      1490,
+      100,
+      91
+    ],
+    "reason": "北河字形可辨，與r306同一墨跡合併。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r298",
+    "action": "remove",
+    "before": "□",
+    "after": null,
+    "source_bbox": [
+      1310,
+      1531,
+      14,
+      24
+    ],
+    "reason": "原框截在星點與宮字上緣，與r309附近同一處；所擴接的上台另由r305記，不能重複。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r301",
+    "action": "replace",
+    "before": "十一度",
+    "after": "十六度",
+    "source_bbox": [
+      2169,
+      1532,
+      37,
+      55
+    ],
+    "reason": "中間數字六的撇捺可見，非一。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r304",
+    "action": "replace",
+    "before": "左上將",
+    "after": "上將",
+    "source_bbox": [
+      1072,
+      1541,
+      26,
+      37
+    ],
+    "reason": "本處實見上將，不見前綴左字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r305",
+    "action": "replace",
+    "before": "上宰",
+    "after": "上台",
+    "source_bbox": [
+      1396,
+      1510,
+      94,
+      83
+    ],
+    "reason": "上台兩字可見，與r307同標籤合併；非上宰。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r306",
+    "action": "remove",
+    "before": "南河",
+    "after": null,
+    "source_bbox": [
+      1549,
+      1545,
+      25,
+      43
+    ],
+    "reason": "與r297同一北河標籤，不重複改錄兩次；原稿南河非此處。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r307",
+    "action": "remove",
+    "before": "下台",
+    "after": null,
+    "source_bbox": [
+      1403,
+      1547,
+      28,
+      15
+    ],
+    "reason": "舊框位於同一上台星對線上，與r305是同一墨跡。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r309",
+    "action": "replace",
+    "before": "上台",
+    "after": "宮",
+    "source_bbox": [
+      1290,
+      1552,
+      19,
+      19
+    ],
+    "reason": "宀下雙口形，單字為宮，非上台。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r313",
+    "action": "remove",
+    "before": "積水",
+    "after": null,
+    "source_bbox": [
+      1626,
+      1568,
+      22,
+      32
+    ],
+    "reason": "框中心只有空白與星點；積水在他處另有文字，附近天樽也另錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r317",
+    "action": "replace",
+    "before": "左次將",
+    "after": "次將",
+    "source_bbox": [
+      1048,
+      1583,
+      40,
+      23
+    ],
+    "reason": "本處只見次將，左字為原稿多補。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r319",
+    "action": "replace",
+    "before": "平道",
+    "after": "天田",
+    "source_bbox": [
+      919,
+      1600,
+      46,
+      42
+    ],
+    "reason": "天與田兩字可辨，非平道。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r326",
+    "action": "replace",
+    "before": "左次相",
+    "after": "次相",
+    "source_bbox": [
+      1045,
+      1619,
+      23,
+      33
+    ],
+    "reason": "本處只有次相，未見左字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r328",
+    "action": "replace",
+    "before": "水位",
+    "after": "天樽",
+    "source_bbox": [
+      1630,
+      1619,
+      27,
+      21
+    ],
+    "reason": "木旁尊形可見，讀天樽，非水位。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r329",
+    "action": "replace",
+    "before": "大夫",
+    "after": "□",
+    "source_bbox": [
+      1296,
+      1622,
+      17,
+      18
+    ],
+    "reason": "不把太微邊欄旁的部分筆畫按官名補足。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r331",
+    "action": "replace",
+    "before": "廁",
+    "after": "厠",
+    "source_bbox": [
+      1998,
+      1632,
+      37,
+      29
+    ],
+    "reason": "字首為厂形而不見广點，按原寫厠，非統一為廁。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r332",
+    "action": "replace",
+    "before": "博士",
+    "after": "□",
+    "source_bbox": [
+      1267,
+      1602,
+      84,
+      91
+    ],
+    "reason": "同一細字組由r332保留未解，r333為重疊片段。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r333",
+    "action": "remove",
+    "before": "議士",
+    "after": null,
+    "source_bbox": [
+      1287,
+      1642,
+      13,
+      18
+    ],
+    "reason": "與r332為同一細字的重疊片段，合併保留未解，不另列議士。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r334",
+    "action": "replace",
+    "before": "長垣",
+    "after": "□",
+    "source_bbox": [
+      1258,
+      1644,
+      26,
+      24
+    ],
+    "reason": "不因常見太微星官詞例填謁者。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r338",
+    "action": "replace",
+    "before": "參旗",
+    "after": "屎",
+    "source_bbox": [
+      2065,
+      1657,
+      37,
+      37
+    ],
+    "reason": "尸下米形，字為屎；不是參旗。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r339",
+    "action": "replace",
+    "before": "左上相",
+    "after": "三公",
+    "source_bbox": [
+      1001,
+      1625,
+      94,
+      108
+    ],
+    "reason": "三、公二字可辨，非左上相；與r341同一文字鄰域。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r341",
+    "action": "remove",
+    "before": "三公",
+    "after": null,
+    "source_bbox": [
+      1056,
+      1670,
+      28,
+      27
+    ],
+    "reason": "原框截到星點和r339三公旁緣，沒有另一組三公。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r343",
+    "action": "replace",
+    "before": "西太陽門",
+    "after": "□",
+    "source_bbox": [
+      1210,
+      1677,
+      44,
+      41
+    ],
+    "reason": "原稿西太陽門未獲此處字形支持；保留整段未定長疑讀。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r351",
+    "action": "replace",
+    "before": "次將",
+    "after": "次相",
+    "source_bbox": [
+      1180,
+      1699,
+      32,
+      44
+    ],
+    "reason": "次字可讀，後字木目形近相；有限覆核保留歧讀。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r352",
+    "action": "replace",
+    "before": "平道",
+    "after": "天道",
+    "source_bbox": [
+      901,
+      1701,
+      27,
+      33
+    ],
+    "reason": "天與道可見，非平道。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r357",
+    "action": "replace",
+    "before": "□",
+    "after": "闕丘",
+    "source_bbox": [
+      1726,
+      1723,
+      57,
+      47
+    ],
+    "reason": "門中欮形與丘字可見，讀闕丘。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r364",
+    "action": "replace",
+    "before": "平道",
+    "after": "平星",
+    "source_bbox": [
+      793,
+      1740,
+      34,
+      38
+    ],
+    "reason": "平與星兩字清楚，非平道。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r365",
+    "action": "replace",
+    "before": "□",
+    "after": "軒轅",
+    "source_bbox": [
+      1330,
+      1740,
+      32,
+      53
+    ],
+    "reason": "車旁軒、轅兩字可見，補缺。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r367",
+    "action": "replace",
+    "before": "右掖門",
+    "after": "左執法",
+    "source_bbox": [
+      1136,
+      1759,
+      40,
+      47
+    ],
+    "reason": "左執法三字可辨，原稿右掖門錯接。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r370",
+    "action": "replace",
+    "before": "左掖門",
+    "after": "右執法",
+    "source_bbox": [
+      1090,
+      1771,
+      32,
+      38
+    ],
+    "reason": "右執法三字可辨，與左執法分別定位。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r376",
+    "action": "replace",
+    "before": "□",
+    "after": "少民",
+    "source_bbox": [
+      1306,
+      1802,
+      22,
+      38
+    ],
+    "reason": "實見少民寫形，不依通常星官名改為少微。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r377",
+    "action": "replace",
+    "before": "十二度",
+    "after": "十三度",
+    "source_bbox": [
+      606,
+      1803,
+      44,
+      57
+    ],
+    "reason": "中間三橫可見，讀十三度，非十二度。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r379",
+    "action": "replace",
+    "before": "太民",
+    "after": "大民",
+    "source_bbox": [
+      1327,
+      1781,
+      96,
+      105
+    ],
+    "reason": "首字不見獨立點，按大民寫形，非太民；不正規化為太微。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r384",
+    "action": "remove",
+    "before": "戶",
+    "after": null,
+    "source_bbox": [
+      1354,
+      1837,
+      22,
+      29
+    ],
+    "reason": "擴框所讀大民與r379同一墨跡，原稿戶為錯讀片段。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r401",
+    "action": "replace",
+    "before": "鬼",
+    "after": "觜",
+    "source_bbox": [
+      1941,
+      1951,
+      31,
+      37
+    ],
+    "reason": "圈內此、角形可辨，字為觜，非鬼。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r402",
+    "action": "replace",
+    "before": "六度",
+    "after": "十八度",
+    "source_bbox": [
+      735,
+      1957,
+      64,
+      42
+    ],
+    "reason": "原生外圈可見十八度三字，原稿六度漏誤。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r411",
+    "action": "replace",
+    "before": "天柱",
+    "after": "天社",
+    "source_bbox": [
+      1683,
+      2044,
+      67,
+      29
+    ],
+    "reason": "礻旁土形可見，讀社，非柱。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r420",
+    "action": "replace",
+    "before": "三十四度",
+    "after": "卅四度",
+    "source_bbox": [
+      1654,
+      2109,
+      62,
+      54
+    ],
+    "reason": "首字原作卅合文，保留卅四度寫形，不展開成三十四。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r434",
+    "action": "replace",
+    "before": "形器先生",
+    "after": "□□□□",
+    "source_bbox": [
+      356,
+      2110,
+      139,
+      209
+    ],
+    "reason": "原生印面確有四個字位，但原稿形器先生尚不能由筆形逐字核實，保留四個定位疑字。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r436",
+    "action": "add",
+    "before": null,
+    "after": "天籥",
+    "source_bbox": [
+      810,
+      872,
+      90,
+      94
+    ],
+    "reason": "原提示沒有完整文字，原生擴框可見天籥；與天泉不同處。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r437",
+    "action": "add",
+    "before": null,
+    "after": "河鼓",
+    "source_bbox": [
+      1051,
+      765,
+      98,
+      119
+    ],
+    "reason": "星組旁河鼓兩字可見，原提示未錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r438",
+    "action": "add",
+    "before": null,
+    "after": "十一度",
+    "source_bbox": [
+      1129,
+      446,
+      106,
+      70
+    ],
+    "reason": "牛女之間另一實際位置的十一度，與r007不同，不按重名字串去重。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r439",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      1162,
+      671,
+      139,
+      196
+    ],
+    "reason": "女字本體及離珠已另錄，此處是旁註，不將星官常識填入。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r440",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      1354,
+      720,
+      94,
+      94
+    ],
+    "reason": "與旁側司命不同的細字組，保留未解。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r441",
+    "action": "add",
+    "before": null,
+    "after": "雲雨",
+    "source_bbox": [
+      1681,
+      757,
+      86,
+      115
+    ],
+    "reason": "雲雨兩字可見，原稿名稱雖出現卻錯框在壘壁陣，改在真實來源處記錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r442",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      630,
+      1002,
+      164,
+      115
+    ],
+    "reason": "尾宿旁細字與已錄指、頷、天人分開，未猜補。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r443",
+    "action": "add",
+    "before": null,
+    "after": "宗人\n宗正",
+    "source_bbox": [
+      871,
+      970,
+      160,
+      135
+    ],
+    "reason": "兩組宗人、宗正均可見；與r128單字宗分別記錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r444",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      1268,
+      1117,
+      90,
+      78
+    ],
+    "reason": "保留已實看的折痕小字，不採定候選。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r445",
+    "action": "add",
+    "before": null,
+    "after": "天床",
+    "source_bbox": [
+      1154,
+      1297,
+      94,
+      78
+    ],
+    "reason": "真正的天床位於原r233西側，字形可辨，單獨按本位置補錄。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r446",
+    "action": "add",
+    "before": null,
+    "after": "內階\n內廚",
+    "source_bbox": [
+      1493,
+      1281,
+      123,
+      147
+    ],
+    "reason": "原生旋轉可見兩組內階、內廚；附近文昌另錄，圈內r260未定字不強行合併。"
+  },
+  {
+    "canvas": "c006",
+    "id": "c006-r447",
+    "action": "add",
+    "before": null,
+    "after": "天大將軍",
+    "source_bbox": [
+      1567,
+      904,
+      225,
+      180
+    ],
+    "reason": "天大將軍四字細註在奎圈附近可辨，原提示未完整涵蓋。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r008",
+    "action": "replace",
+    "before": "三則易主太陽守動搖或不見兵起天□不明動搖或一",
+    "after": "三則易主太陽守動搖或不見兵起天棓不明動搖或一",
+    "source_bbox": [
+      927,
+      599,
+      113,
+      1726
+    ],
+    "reason": "天後字左木右咅，足以定棓。搖右部為䍃的草寫，本圖不足另定揺異體編碼。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r014",
+    "action": "replace",
+    "before": "內廚",
+    "after": "內厨",
+    "source_bbox": [
+      2580,
+      874,
+      108,
+      122
+    ],
+    "reason": "厨上部見厂形而無廣的頂點，內部豆、寸筆組可辨；依字形保留異體。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r015",
+    "action": "replace",
+    "before": "天廚",
+    "after": "天厨",
+    "source_bbox": [
+      1716,
+      893,
+      117,
+      153
+    ],
+    "reason": "厨上部見厂形而無廣的頂點，內部豆、寸筆組可辨；依字形保留異體。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r017",
+    "action": "replace",
+    "before": "華蓋",
+    "after": "華盖",
+    "source_bbox": [
+      2017,
+      940,
+      106,
+      126
+    ],
+    "reason": "末字見羊在皿上，無可分出的艹、去，依原字寫作盖。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r028",
+    "action": "replace",
+    "before": "天床",
+    "after": "天牢",
+    "source_bbox": [
+      2535,
+      1141,
+      113,
+      117
+    ],
+    "reason": "完整斜置標籤的末字為宀下牛，中豎穿橫，非床的广木；框含全部字形。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r030",
+    "action": "replace",
+    "before": "天戈",
+    "after": "女史",
+    "source_bbox": [
+      1767,
+      1315,
+      105,
+      99
+    ],
+    "reason": "斜置兩字上部女形交筆，下部史的口與穿豎清楚，與天戈形不合。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r036",
+    "action": "replace",
+    "before": "鉤陳",
+    "after": "勾陳",
+    "source_bbox": [
+      2013,
+      1481,
+      106,
+      122
+    ],
+    "reason": "首字為勹包厶，左側無金旁墨跡，不從詞例補鉤。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r039",
+    "action": "replace",
+    "before": "璇",
+    "after": "旋",
+    "source_bbox": [
+      2554,
+      1273,
+      106,
+      105
+    ],
+    "reason": "字左方、右疋的行草部件可見，左邊無王旁，不能讀璇。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r042",
+    "action": "replace",
+    "before": "仙紐",
+    "after": "后宮",
+    "source_bbox": [
+      2184,
+      1437,
+      103,
+      126
+    ],
+    "reason": "首字厂形下口，次字宀下口組，並非人旁或糸旁，讀后宮。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r050",
+    "action": "replace",
+    "before": "天門陰陽守相",
+    "after": "大陽守\n宰相",
+    "source_bbox": [
+      2479,
+      1579,
+      162,
+      146
+    ],
+    "reason": "依標籤方向旋轉後，右列三字、左列二字，讀大陽守、宰相；首字未見獨立點，照錄大並保留太候選。原框過寬且誤串文字，採含兩列的盲讀擴框。 本次重裁原生影像再次確認兩個分列名稱，以真正換行保留；大字無確定附點，候選太保留。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r053",
+    "action": "replace",
+    "before": "太理",
+    "after": "大理",
+    "source_bbox": [
+      1950,
+      1727,
+      106,
+      131
+    ],
+    "reason": "首字未見獨立附點，依現存大字形，不因星名慣稱改太。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r065",
+    "action": "replace",
+    "before": "天矛",
+    "after": "三公",
+    "source_bbox": [
+      2559,
+      1769,
+      103,
+      105
+    ],
+    "reason": "旋轉回標籤方向可見三條橫畫及公下厶，非天矛。"
+  },
+  {
+    "canvas": "c007",
+    "id": "c007-r067",
+    "action": "replace",
+    "before": "天□",
+    "after": "天棓",
+    "source_bbox": [
+      1790,
+      1914,
+      98,
+      126
+    ],
+    "reason": "末字左木、右咅的口與上部立可見，解原缺字。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r003",
+    "action": "replace",
+    "before": "上元天庭太微宮昭□列象左蒼穹端門只是門之中左右",
+    "after": "上元天庭太微宮昭〻列象左蒼穹端門只是門之中左右",
+    "source_bbox": [
+      1339,
+      550,
+      89,
+      1708
+    ],
+    "reason": "昭後只見短小曲筆重文符，非完整第二個昭或缺損一字，照錄〻，不默展。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r006",
+    "action": "replace",
+    "before": "正幸臣太子并從官烏列帝後注東宮即將居東傍左右常",
+    "after": "正幸臣太子并從官烏列帝後注東宮郎將居東傍左右常",
+    "source_bbox": [
+      1126,
+      550,
+      125,
+      1720
+    ],
+    "reason": "帝後下一字左氵、右主，採初錄注而非盲稿泛。宮後字左良形與右阝支持郎，非即；居後東傍兩字有墨但東的中部連筆，保留註疑。 本輪原生高解析補看居後字仍未唯一解，保留原疑；下段向右偏移，bbox擴寬。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r007",
+    "action": "replace",
+    "before": "陳即位居其後常陳七星不相誤即位陳東一十五兩面宮",
+    "after": "陳郎位居其後常陳七星不相誤郎位陳東一十五兩面宮",
+    "source_bbox": [
+      1054,
+      550,
+      89,
+      1708
+    ],
+    "reason": "兩處位前字與本頁郎將首字同形，左良右阝，改郎；七、一十五的字序明確，照底本。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r008",
+    "action": "replace",
+    "before": "垣十星布左右執法星其數當分明當布正宮三人夷臺候",
+    "after": "垣十星布左右執法是其數宮外明堂布正宮三個靈臺候",
+    "source_bbox": [
+      986,
+      550,
+      89,
+      1708
+    ],
+    "reason": "法後日頂下疋支持是；其數後分見宮、外、明、堂；三後為個的省寫，靈字上雨與下巫草筆較密而保留候選。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r009",
+    "action": "replace",
+    "before": "星兩少微四星西南隅長垣雙〃微西屏北門西外橫三台",
+    "after": "雲雨少微四星西南隅長垣雙〻微西居北門西外橫三台",
+    "source_bbox": [
+      916,
+      550,
+      89,
+      1708
+    ],
+    "reason": "欄首雲雨承前欄候，雨的外框點畫可辨，非星兩。雙後短重文符保留〻；西後尸下古為居，非屏。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r010",
+    "action": "replace",
+    "before": "與垣相對無兵災五帝座動搖移徙則天子失位太子",
+    "after": "與垣相對無兵灾五帝座動搖移徙則天子失位太子",
+    "source_bbox": [
+      847,
+      550,
+      89,
+      1708
+    ],
+    "reason": "灾為宀下火，照錄可辨異體；搖是䍃的草寫，不因筆畫黏連另編揺。不加段間空格。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r011",
+    "action": "replace",
+    "before": "星金火守犯必有篡逆卿將芒角將起不可當席黃變色",
+    "after": "星金火守犯必有篡逆郎將芒角將起不可當帛黃變色",
+    "source_bbox": [
+      775,
+      550,
+      150,
+      1720
+    ],
+    "reason": "將前左良右阝支持郎；將後走與己支持起，改回初錄起而非盲稿死。末段第二字上橫點與中田下八支持黃；前字缺少可唯一拆分構件，留缺字及兩稿候選。 原生高解析擴框後末段首字見白／巾式筆組，暫錄帛並註疑；原框偏窄，擴至包含向右偏移的欄尾。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r036",
+    "action": "replace",
+    "before": "五諸侯",
+    "after": "五□侯",
+    "source_bbox": [
+      1775,
+      1640,
+      110,
+      180
+    ],
+    "reason": "原框落書縫，首字五可見折筆與底橫，末字右側矢及人旁殘筆容讀侯；中間字左部折入無法確認，不能以星名補諸。"
+  },
+  {
+    "canvas": "c008",
+    "id": "c008-r053",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      1790,
+      1445,
+      65,
+      100
+    ],
+    "reason": "白圈星群下另有本頁縱向字墨，不與既有標籤重複；書縫吞沒大部分字形，字數不能確定，只用單一未定長缺文標記。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r004",
+    "action": "remove",
+    "before": "□",
+    "after": null,
+    "source_bbox": [
+      2461,
+      2044,
+      122,
+      202
+    ],
+    "reason": "本次重裁原生影像並另存水平鏡像對照：淡痕的形樣彡筆在左上、圓頭人足的先形在右上，生形在右下；濃朱印相同構件分別在右上、左上、左下。淡痕左右鏡向而非只因色淡或同名判除。屬透印／接觸轉印樣反向痕，不能由現影像區分其物理機制；不作本頁另一組正向印文，保留定位與影像紀錄。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r005",
+    "action": "replace",
+    "before": "下元一宮名天市兩扇垣墻二十二當門六個黑市樓門左",
+    "after": "下元一宮名天市兩扇垣牆二十二當門六个黑市樓門左",
+    "source_bbox": [
+      1456,
+      557,
+      111,
+      1708
+    ],
+    "reason": "垣後字左爿右嗇形支持牆；个為人形下豎，照錄異體，不改作個。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r006",
+    "action": "replace",
+    "before": "兩星是車肆兩個宗正四宗人宗星一雙上依次帛度兩星",
+    "after": "兩星是車肆兩个宗正四宗人宗星一双上依次帛度兩星",
+    "source_bbox": [
+      1365,
+      557,
+      111,
+      1708
+    ],
+    "reason": "末段首字白下巾，次字广下廿又，可讀帛度；盲稿帝座誤判。个、双均依簡省字形照錄。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r007",
+    "action": "replace",
+    "before": "屠肆前候星還左帝座邊帝座一星常光明四個微茫宦者",
+    "after": "屠肆前侯星還左帝座邊帝座一星常光明四个微芒宦者",
+    "source_bbox": [
+      1271,
+      557,
+      111,
+      1708
+    ],
+    "reason": "原生高解析補看：常下巾與光明可辨；四个後確有兩字，盲稿漏去。第二字艹下亡，照錄芒而非茫；第一字草筆未能完全拆分，暫留微。侯無候中附豎。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r008",
+    "action": "replace",
+    "before": "星以次兩星名列肆斗斛帝前居其次斗是五星斛是四柩",
+    "after": "星以次兩星名列肆斗斛帝前居其次斗是五星斛是四□",
+    "source_bbox": [
+      1176,
+      557,
+      111,
+      1708
+    ],
+    "reason": "本次原生末字裁片可見左短橫穿豎與下提、右彎折內短畫；同頁標題垣和正文木／土作字形比較後，不能維持原裁決的確定木旁，改為單字未解並加入垣候選。其餘斗斛、五與四照實存字，沒有以通行本補正。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r009",
+    "action": "replace",
+    "before": "北九個貫索星索口橫與七公成天紀恰似七公形數著多",
+    "after": "北九个貫索星索口橫與七公成天紀恰似七公形數著分",
+    "source_bbox": [
+      1084,
+      557,
+      111,
+      1708
+    ],
+    "reason": "恰後字左亻右以的草筆支持似，不採盲稿如；末字上分撇下刀鉤支持分，承下欄明。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r010",
+    "action": "replace",
+    "before": "明多兩星犯北三星名女床此座遙依織女傍三光〃蒙昏",
+    "after": "明多兩星紀北三星名女床此座遙依織女傍三光了象互",
+    "source_bbox": [
+      991,
+      557,
+      111,
+      1708
+    ],
+    "reason": "第二字雙夕草筆可讀多，兩星後糸己支持紀。座後辶與上䍃支持遙。末三字按現存筆畫暫記了象互，高解析仍不足排除省寫／訛字；不以通行歌訣替換。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r012",
+    "action": "replace",
+    "before": "市中星稀則歲虛彗星出移市易都斗不明則五穀不",
+    "after": "市中星稀則歲虛客星出徙市易都斗不明則五穀不",
+    "source_bbox": [
+      812,
+      557,
+      111,
+      1708
+    ],
+    "reason": "出前字宀下各支持客，非彗；出後彳及兩止形支持徙，非移。則後為五的草寫，不採盲稿斗。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r013",
+    "action": "replace",
+    "before": "登仰則大饑七公連貫索則天下亂入河中則未必貴人相",
+    "after": "登仰則大飢七公連貫索則天下亂入河中則水災貴人相",
+    "source_bbox": [
+      712,
+      557,
+      111,
+      1708
+    ],
+    "reason": "飢右几而無幾的交叉筆；末段水中豎與兩側分筆、災下火可見，不讀未必。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r021",
+    "action": "replace",
+    "before": "燕",
+    "after": "趙",
+    "source_bbox": [
+      1982,
+      1367,
+      84,
+      94
+    ],
+    "reason": "字左走底、右肖的上下分件可見，與燕底四點不合，讀趙。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r035",
+    "action": "replace",
+    "before": "候",
+    "after": "侯",
+    "source_bbox": [
+      2057,
+      1530,
+      75,
+      94
+    ],
+    "reason": "亻旁及右部矢可見，中間無候的獨立豎，照錄侯。"
+  },
+  {
+    "canvas": "c009",
+    "id": "c009-r053",
+    "action": "replace",
+    "before": "越",
+    "after": "燕",
+    "source_bbox": [
+      1994,
+      1881,
+      94,
+      92
+    ],
+    "reason": "底部四點分筆與上廿口形支持燕，沒有越的走底及戉部。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r004",
+    "action": "replace",
+    "before": "兩星南北正直看中有平道上天田沿上三星兩相連別有一烏名進賢平道右畔",
+    "after": "兩星南北正直看中有平道上天田隱之黑星兩相連別有一烏名進賢平道右畔",
+    "source_bbox": [
+      1791,
+      628,
+      75,
+      1684
+    ],
+    "reason": "黑字下四點連成折筆，與三星的三橫不同；天田後兩字草筆緊密，暫錄獨立稿並保留疑讀。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r005",
+    "action": "replace",
+    "before": "□南柱高上三星周鼎形角下天門左右平星雙〃橫子庫樓上庫樓十星屈曲",
+    "after": "獨清□最上三星周鼎形角下天門左右星双〻橫于庫樓上庫樓十星屈曲",
+    "source_bbox": [
+      1742,
+      628,
+      75,
+      1684
+    ],
+    "reason": "起首可辨犭旁與氵旁，第三字仍未定；鼎字兩側足筆可辨；星後是并列又形及另立短符，錄双〻而不展開；于有長鉤，非子。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r006",
+    "action": "replace",
+    "before": "明樓中五柱十五點二三相連如將形其中四星別名衡南門外有兩星橫角星",
+    "after": "明樓中五柱十五點二三相連如鼎形其中四星別名衡南門外有兩星橫　角星",
+    "source_bbox": [
+      1691,
+      628,
+      75,
+      1684
+    ],
+    "reason": "鼎字上方框腹與兩側下垂足筆清楚，非將；二三各橫數可辨；橫與角星之間實有空白。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r007",
+    "action": "replace",
+    "before": "左足號華蓋星其宿只二星纏十二度金壽星〃次位居天秤兗州鄭國分次左",
+    "after": "左尺号華盖星其宿只二星纏十二度全壽星之次位居天秤兖州鄭國分野左",
+    "source_bbox": [
+      1641,
+      628,
+      75,
+      1684
+    ],
+    "reason": "前三字首字左下工形、次字尸捺形、第三字口下長折，暫錄左尺号；全字人頂王底，與金下點不同；末字左照錄不據下欄補正。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r008",
+    "action": "replace",
+    "before": "地居水中北角犯又角宿彗芒則天下亂不見國易政天門不見則兵革起天田金守〃",
+    "after": "地居水中狀角犯之角宿垂芒則天下亂不見國易政天門不見則兵革起天田金守之",
+    "source_bbox": [
+      1590,
+      628,
+      75,
+      1684
+    ],
+    "reason": "垂字上下多橫可辨，非彗；天下後字左部壓縮右有長轉折，保留原錄亂註疑；守後短筆依兩處同欄可見之形錄之。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r009",
+    "action": "replace",
+    "before": "主兵□守〃主旱水守〃主倍女穀木守〃豐登庫樓明大而芒有出兵起庫樓",
+    "after": "主兵火守之主旱水守之主傷禾穀木守之豐登庫樓明大而芒角出兵起庫樓",
+    "source_bbox": [
+      1536,
+      628,
+      75,
+      1684
+    ],
+    "reason": "火字撇捺、傷字人旁及右部連筆可辨；穀前字頂斜撇中豎及兩側筆支持禾；芒後角字內框可見，不省去。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r010",
+    "action": "replace",
+    "before": "空星則天下治及女柱生角多芒則兵合不見兵車起出南門暗則夷狄畔客星守〃",
+    "after": "□星則天下治反女柱生角多芒則兵合不見兵車悉出南門暗則夷狄畔客星守之",
+    "source_bbox": [
+      1478,
+      628,
+      75,
+      1684
+    ],
+    "reason": "首字宀樣頂與下部密筆不足隸定；反後字有交叉長筆與右捺，暫照見女而不以文義改之；悉字上下密筆連接可見。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r013",
+    "action": "replace",
+    "before": "左右攝提星三〃相如鼎形折威下左頓頑星兩個斜安",
+    "after": "左右攝提星三〻相如鼎形折威下左頓頑星兩个斜曲",
+    "source_bbox": [
+      1234,
+      628,
+      94,
+      1684
+    ],
+    "reason": "三後短曲符另占字位，保留〻不展開；末字框內曲折、下弧與上豎支持曲，非安；个字為人頂直豎。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r014",
+    "action": "replace",
+    "before": "若色精赤西二星芒陽門色若□淚直下看亢秋分不見",
+    "after": "若色精頑西二星号陽門色若頓頑直下存　亢秋分不見",
+    "source_bbox": [
+      1166,
+      628,
+      94,
+      1684
+    ],
+    "reason": "首段精字米旁與青右件可辨；下字為頁旁，不作赤；下段頓頑各見頁旁；存字右下子形及左撇可見。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c010",
+    "id": "c010-r015",
+    "action": "replace",
+    "before": "五穀俱傷月暈兵起陽門動搖移徙則邊地有警",
+    "after": "五穀俱傷月暈兵起　陽門動揺移徙則邊地有警",
+    "source_bbox": [
+      1096,
+      628,
+      94,
+      1684
+    ],
+    "reason": "穀後人旁、具形支持俱，下一字人旁及昜形支持傷；月後上日框下軍部草寫支持暈，不按獨立稿讀用軍。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r001",
+    "action": "replace",
+    "before": "氏宿圖",
+    "after": "氐宿圖",
+    "source_bbox": [
+      1931,
+      537,
+      637,
+      171
+    ],
+    "reason": "標題氐字氏形下另有一短點；與氏不同，改錄氐。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r005",
+    "action": "replace",
+    "before": "□",
+    "after": "□□□□",
+    "source_bbox": [
+      2395,
+      2067,
+      194,
+      262
+    ],
+    "reason": "右下淡紅痕有四字格局，形樣筆在左上而先生樣在右列，與左下濃朱印呈鏡向排列；保存印痕字位，不借正向印文強行填字。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r006",
+    "action": "replace",
+    "before": "四星似斗側量米天乳氏上黑一星",
+    "after": "四星似斗側量來天乳氐上黑一星",
+    "source_bbox": [
+      1885,
+      559,
+      92,
+      1694
+    ],
+    "reason": "量字上日與下里省筆仍可追；末字人形左右點和中木支持來，並非米；氐下獨立點可見。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r007",
+    "action": "replace",
+    "before": "世人不識稱無名一個招搖梗河上",
+    "after": "世人不識稱無名一个招搖梗河上",
+    "source_bbox": [
+      1820,
+      559,
+      92,
+      1694
+    ],
+    "reason": "个字人頂及一豎清楚，沒有個字外框；梗字木旁更部連筆。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r008",
+    "action": "replace",
+    "before": "梗河橫列三星狀帝席三星河之西亢池六星近橫柱氐下",
+    "after": "梗河橫列三星狀帝席三星河之西亢池六星近攝提氐下",
+    "source_bbox": [
+      1749,
+      559,
+      92,
+      1694
+    ],
+    "reason": "近後字手旁及繁筆支持攝，接提字手旁、是部可辨；氐底點明顯，不讀橫柱氏。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r009",
+    "action": "replace",
+    "before": "東星騎官出騎官〃串二十七〃〃相連十欠一陣車氐下",
+    "after": "衆星騎官出騎官〻□二十七〻〻相連十欠一陣車氐下",
+    "source_bbox": [
+      1683,
+      559,
+      92,
+      1694
+    ],
+    "reason": "首字上下集中長豎及兩旁短筆，暫錄衆；騎官後實有短符、穿豎繁筆、二形與十七，不採獨立稿直接省字；短符逐位保存不依星數展開。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r010",
+    "action": "replace",
+    "before": "騎官次騎官〃下三車騎天輻兩星立陣帝將軍陣裡振威",
+    "after": "騎官次騎官之下三車騎天輻兩星立陣旁將軍陣裡振威",
+    "source_bbox": [
+      1620,
+      559,
+      92,
+      1694
+    ],
+    "reason": "次後與下前是獨立之形短筆；陣後旁字上點、下方形可辨，非帝；將軍的軍頂冖明顯。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r011",
+    "action": "replace",
+    "before": "霜彗犯氏暴兵具招搖芒兵起芒角刺兵起梗河芒角動",
+    "after": "霜　彗犯氐暴兵具招搖亡兵起芒角胡兵起梗河芒角動",
+    "source_bbox": [
+      1560,
+      559,
+      92,
+      1694
+    ],
+    "reason": "霜後實有留空；後文小字分窄欄按右先左後閱讀；亡為短橫折筆，胡右月形可辨，非刺。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r012",
+    "action": "replace",
+    "before": "搖邊兵起騎官芒角動搖兵大起",
+    "after": "搖迎兵起騎官芒角動揺兵大起",
+    "source_bbox": [
+      1512,
+      559,
+      92,
+      1694
+    ],
+    "reason": "迎字辶長底筆、內部卬樣鉤折可見；不是邊字繁密內件。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r013",
+    "action": "replace",
+    "before": "四星直下主明堂鍵閉一橫斜向上鈎鈐兩個近其旁罰有",
+    "after": "四星直下主明堂鍵閉一橫斜向上鈎鈐兩个近其旁罰有",
+    "source_bbox": [
+      1428,
+      559,
+      92,
+      1694
+    ],
+    "reason": "鈎字右部勾形，个字人頂豎筆；主明堂、鍵閉及罰字均按本欄實見筆畫保留。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r014",
+    "action": "replace",
+    "before": "三星直鍵上兩咸夾罰似房狀房西一星號從日從星兩個",
+    "after": "三星直鍵上兩咸夾罰似房狀房西一星号落日從星兩个",
+    "source_bbox": [
+      1348,
+      559,
+      92,
+      1694
+    ],
+    "reason": "号字無虎尾；日上字左旁及右各樣草筆近落／洛，保留讀法但不據星名校從。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r015",
+    "action": "replace",
+    "before": "房下出房星離析則人流亡則兵大起兩咸脫則凶火",
+    "after": "房下出　房星離折則人流亡則兵大起　兩咸脹則凶火",
+    "source_bbox": [
+      1272,
+      559,
+      92,
+      1694
+    ],
+    "reason": "離後字左手旁與右斤長豎支持折；兵後大字三筆，未見火的兩點，保留原錄大；脹月旁可辨但右部未定。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r016",
+    "action": "replace",
+    "before": "守〃兵起日星金火守犯〃君有憂",
+    "after": "守之兵起　日星金火守犯之君有憂",
+    "source_bbox": [
+      1196,
+      559,
+      92,
+      1694
+    ],
+    "reason": "守後及犯後短筆均有之形上點與下曲筆，按字位錄之；兩句間有原空白。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r021",
+    "action": "replace",
+    "before": "氏",
+    "after": "氐",
+    "source_bbox": [
+      2287,
+      1200,
+      122,
+      115
+    ],
+    "reason": "圖內標籤氏形下方有清楚獨立短橫點，支持氐。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c011",
+    "id": "c011-r034",
+    "action": "replace",
+    "before": "鉤鈐",
+    "after": "鈎鈐",
+    "source_bbox": [
+      821,
+      1388,
+      117,
+      143
+    ],
+    "reason": "鈎右勾形從金，沒有句口框；鈐右今形可辨。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r004",
+    "action": "replace",
+    "before": "三星中央色最深東西太庶中帝星下有積卒共十二〃〃〃",
+    "after": "三星中央色最深東西太庶中帝星下有積卒共十二三〻",
+    "source_bbox": [
+      1737,
+      531,
+      104,
+      1719
+    ],
+    "reason": "末段十二後另有三橫及短折符；保留三〻，不將重文符展開為預想數字。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r005",
+    "action": "replace",
+    "before": "相聚心下是心宿移徙不見國亡日月蝕兵喪尺起月暈",
+    "after": "相聚心下是　心宿移徙不見國亡日月蝕兵喪尺起月暈",
+    "source_bbox": [
+      1658,
+      531,
+      104,
+      1719
+    ],
+    "reason": "相聚心下是後留空；喪後字有尸折與下撇捺，未見清楚灬或兩點，忠實層暫留尺形，不直接擴成盡。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r006",
+    "action": "replace",
+    "before": "兵起孛犯兵荒積卒亡一二兵起尺亡兵俱出",
+    "after": "兵起孛犯兵荒　積卒亡一二兵起尺亡兵俱出",
+    "source_bbox": [
+      1576,
+      531,
+      104,
+      1719
+    ],
+    "reason": "兵荒後空白；亡一二三個字位可辨；尺與上欄同構形，保留其形另列尽候選。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r007",
+    "action": "replace",
+    "before": "九星如鉤蒼龍形下頭東頭龜星尾上天江四橫星尾東一個名傅說傅說東邊一魚子尾西一室是神",
+    "after": "九星如鈎蒼龍形下頭東号龜星尾上天江四□立尾東一个名傅說傅說東邊一魚子尾西一室是神",
+    "source_bbox": [
+      1349,
+      531,
+      90,
+      1719
+    ],
+    "reason": "如鈎的勾形可辨；東後口下彎折為号；天江四後字左旁與右部糾結仍未定；末段一後字上宀樣、下至形支持室，未改為熟悉星字。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r008",
+    "action": "replace",
+    "before": "宮此□列在後妃中尾動天下亂就聚則大水月暈及水星犯〃則后妃死日月蝕主饑色",
+    "after": "宮所以列在后妃中　尾動天下亂就聚則大水月暈及水星犯之則后妃死日月蝕主飢　龜",
+    "source_bbox": [
+      1276,
+      531,
+      90,
+      1719
+    ],
+    "reason": "追加原生首段裁片確認：宮下第一字左有戶樣短豎撇、右有斤樣橫豎，讀所；所與列之間另有一組分離的短折筆，暫讀以並保留候選，故原裁決宮亦列合併了兩個字位。后字無彳旁；末字龜的判讀沿用本輪已檢視證據。依字形與字距修正，不據通行本文意。採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r009",
+    "action": "replace",
+    "before": "昏六州赤地千里天江赤大則水災居中高則兵起人死魚子搖動大水",
+    "after": "星六則赤地千里　天江赤大則水災居中河則兵起人死　魚子搖動大水",
+    "source_bbox": [
+      1203,
+      531,
+      90,
+      1719
+    ],
+    "reason": "欄首星下字確有上點橫與兩下點，照形錄六；中後字氵旁與可右件支持河，不據文義改高；兩段各有原空白。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r010",
+    "action": "replace",
+    "before": "心大辰",
+    "after": "心\n大辰",
+    "source_bbox": [
+      2114,
+      748,
+      136,
+      148
+    ],
+    "reason": "心在上方，下面大辰為另一個橫向名稱，按實際標籤分行保留，非三字連寫。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r016",
+    "action": "replace",
+    "before": "妻",
+    "after": "妾",
+    "source_bbox": [
+      549,
+      1256,
+      92,
+      105
+    ],
+    "reason": "星旁單字上立下女，非妻字上肀形。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c012",
+    "id": "c012-r017",
+    "action": "replace",
+    "before": "後妃",
+    "after": "后妃",
+    "source_bbox": [
+      992,
+      1271,
+      103,
+      127
+    ],
+    "reason": "后字外撇與口形可辨，未見彳旁；照原字形錄后。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r005",
+    "action": "replace",
+    "before": "四星形狀如簸箕〃下三星名木杵箕前□星是糠皮箕疏暗",
+    "after": "四星形狀如簸箕之下三星名木杵箕前万星号糠皮箕疏暗",
+    "source_bbox": [
+      2135,
+      581,
+      94,
+      1712
+    ],
+    "reason": "箕後短曲筆照錄之；箕前後字見一頂橫與長折鉤，形近万，不依圖內一點強改一；号無虎部。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r006",
+    "action": "replace",
+    "before": "則國亂前三星名舌動則大臣不忠三口中向口后人相食月宿",
+    "after": "則國亂前二星為舌動則大風不出三日中有白□人相食月宿",
+    "source_bbox": [
+      2037,
+      581,
+      94,
+      1712
+    ],
+    "reason": "前下兩橫清楚，錄二；為、風、不出及日框可辨，不採大臣不忠；白後字上彎下撇，保留單字缺文。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r007",
+    "action": "replace",
+    "before": "箕野旱起月暈大旱火犯〃兵起杵藏則歲凶糠暗主饑",
+    "after": "箕野兵起月暈大風火犯之兵起杵藏則歲凶糠暗主飢",
+    "source_bbox": [
+      1943,
+      581,
+      94,
+      1712
+    ],
+    "reason": "月下暈有日框與軍部，風為外彎內短筆；犯後之形短筆另占字位；飢右几形，非饑。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r008",
+    "action": "replace",
+    "before": "六星形狀如北拈魁上建星三相對天弁連〃三復〃九下圓安十四",
+    "after": "六星形狀如北拈魁上建星三相對天弁連之三復三九下圓安十四",
+    "source_bbox": [
+      1852,
+      581,
+      94,
+      1712
+    ],
+    "reason": "北後手旁及右占樣支持拈但仍留候選；上後字內部聿樣及廴底筆較近建；三復三、十四各橫豎可見，按底本原數保留。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r009",
+    "action": "replace",
+    "before": "星斛魁名鼈貫索形天雞建背雙黑星天籥柄前八黃精狗國四方雞",
+    "after": "星確狀名鱉貫索形天雞建背双黑星天禽柄前八黃精狗國四方□",
+    "source_bbox": [
+      1772,
+      581,
+      94,
+      1712
+    ],
+    "reason": "起首兩字可見石旁與隹樣、爿旁犬形，讀確狀；双與星間確有黑字，補回獨立稿所漏；鱉下為魚；天後人頂與禸樣構形近禽；末字鳥形繁筆仍未定。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r010",
+    "action": "replace",
+    "before": "下生天淵十星鼈東邊更〃兩狗斗魁前農家丈人斗下眠天淵十黃",
+    "after": "下生天淵十星鱉東邊更之兩狗斗魁前農家丈人斗下眠天淵十黃",
+    "source_bbox": [
+      1693,
+      581,
+      94,
+      1712
+    ],
+    "reason": "兩次天淵同形水旁可辨；鱉下魚部非黽；更後是獨立短曲筆，暫錄之並保留有候選；十黃照見保留。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r011",
+    "action": "replace",
+    "before": "狗色黃斗芒角動搖天下兵亂日月五星逆入斗天下流管女子死〃",
+    "after": "狗色黃　斗芒角動揺天下兵亂日月五星逆入斗天下流□孛犯之",
+    "source_bbox": [
+      1625,
+      581,
+      94,
+      1712
+    ],
+    "reason": "狗色黃後有留空；天下流後一字上部及下部疊框形不明，不採流亡的順文補字；其後土子合構為孛的一字，非另拆二字。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r012",
+    "action": "replace",
+    "before": "兵起建〃者天下亂動搖則民勞日蝕及五星犯守有大水天弁不明五穀",
+    "after": "兵起建星者天下亂動揺則民勞日御及五星犯守有大水天弁不明五穀",
+    "source_bbox": [
+      1553,
+      581,
+      94,
+      1712
+    ],
+    "reason": "建後是獨立星字而非重文；日後字左側細筆、右部卸樣，暫錄御，不憑日蝕常用語改字。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r013",
+    "action": "replace",
+    "before": "不成月白星彗孛犯〃群貴兵起天狗不居常處為大災天雞動搖",
+    "after": "不成□星□孛犯之守之群貴兵起天狗不居常處為大災天雞動揺",
+    "source_bbox": [
+      1485,
+      581,
+      94,
+      1712
+    ],
+    "reason": "成後單字上下圓連筆未定；星後複雜字與其下土子合構分開，後者暫讀孛，不拆土子；守後可見群字右羊形，左君部較清。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r014",
+    "action": "replace",
+    "before": "大水金火守〃兵起土犯〃民流亡狗國星明則天下多盜賊邊寇作農丈人暗",
+    "after": "大水金火守兵起土犯之民流亡狗國星明則天下多盗賊邊寇作農丈人暗",
+    "source_bbox": [
+      1410,
+      581,
+      94,
+      1712
+    ],
+    "reason": "守後緊接兵，未見獨立之或重文符，刪去初錄多出短符；犯後之形清楚；盗上次樣、下皿，照原形錄。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r015",
+    "action": "replace",
+    "before": "似天淵火守〃大旱水守〃大水火入鼈天下大水去則旱天籥君星彗孛守犯",
+    "after": "飢天淵火守之大旱水守之大水火入鱉天下大水去則旱天禽君星□孛守犯",
+    "source_bbox": [
+      1342,
+      581,
+      94,
+      1712
+    ],
+    "reason": "首字食旁及几右件支持飢；鱉下魚部；天後字人頂禸樣與圖內天禽同形；君字口部及長斜筆可見，但仍列客候選；星後一繁字不定，下土子合構為一字孛。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r025",
+    "action": "replace",
+    "before": "天籥",
+    "after": "天梁",
+    "source_bbox": [
+      854,
+      1264,
+      115,
+      136
+    ],
+    "reason": "次字上部氵與刅樣分筆、下部木形，支持梁，沒有竹龠繁件。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r027",
+    "action": "replace",
+    "before": "天籥",
+    "after": "天禽",
+    "source_bbox": [
+      1127,
+      1270,
+      106,
+      127
+    ],
+    "reason": "圖中次字人頂與內部禸樣框可見，較近禽；保留籥候選而不按星官常名替換。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c013",
+    "id": "c013-r031",
+    "action": "replace",
+    "before": "鼈",
+    "after": "鱉",
+    "source_bbox": [
+      798,
+      1518,
+      101,
+      124
+    ],
+    "reason": "上敝下魚的田形與四點可辨，底部不作黽，讀鱉。 採獨立稿擴框以保留完整字墨及必要上下文。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r004",
+    "action": "replace",
+    "before": "六星近在河岸頭三□弦右六角腹下隱來欠一脚牛下九黑是天田之下三〃九坎連牛上直建三河鼓〃上三星號織女左旗右旗",
+    "after": "六星近在河岸頭〻上雖□右个角腹下從來欠一脚牛下九黑是天田〻下三〻九坎連牛上直建三河鼓〻上三星号織女左旗右旗",
+    "source_bbox": [
+      1638,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次重看原生R1–R3全欄：頭後確有雙短畫及上字，初錄三不足；角前為人下一豎的个，不是六；腹下字有從的雙人連筆；牛下九後為黑。各雙短畫以〻記形，不展開。末号見口及下折，不增虎旁。讀框左右擴展容納斜筆。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r005",
+    "action": "replace",
+    "before": "各九星河鼓兩畔左右旁名天桴雍抱三烏牛東居漸臺四星十口形輦道東□連五星輦道漸臺在何畔河向見",
+    "after": "各九星河鼓兩畔□近河更有四黃名天桴羅堰三烏牛東居漸臺四星十口形輦道東似連五星輦道漸臺在河□欲向見",
+    "source_bbox": [
+      1600,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次原生全欄可見初錄漏去的河更有四黃，且羅的罒維、堰的土匽均存在，不支持雍抱。輦道末段斜筆仍留定位疑讀，不按星官歌句補全。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r006",
+    "action": "replace",
+    "before": "時近織女斗不明五穀不成金□犯〃兵哭九坎明芒有水災彗孛侵近河鼓動移差度亂兵起方旗右旗動搖兵",
+    "after": "時近織女　牛不明五穀不成金火犯〻兵失九坎明芒有水災彗孛侵近河鼓動移差度亂兵起方旗右旗動搖兵",
+    "source_bbox": [
+      1561,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次再次看完整原生欄，織女後字較近牛，末旗前較近方，均保留異讀。金後火、水後災各有可見筆勢；彗孛、芒與犯後符號沿前裁決逐字留疑，不按占辭通順度定字。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r007",
+    "action": "replace",
+    "before": "起織女不見兵起天桴移近河鼓主軍鼓用天籥暗星明大主大水",
+    "after": "起織女不見兵起天桴移近河鼓主軍鼓用凶羅堰星明大主大水",
+    "source_bbox": [
+      1525,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次原生回圖，末段凶見交叉內筆及下曲，羅見罒下維，堰見土旁及匽形；不支持初錄天籥暗。全欄可連續辨讀，保留鼓用凶的原寫，不整句改寫。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r008",
+    "action": "replace",
+    "before": "四星如箕主嫁娶十二諸國在下陳先從越國向東泊東西二周次三秦雍州南下安雁門代北又向西畢韓魏各一此皆",
+    "after": "四星如箕主嫁娶十二諸國在下陳先從越國向東行東西二周次三秦雍州南下安雁門代地又向西晉伸韓魏各一皆",
+    "source_bbox": [
+      1359,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次回看原生L1–L3：國名前字有越的走戉筆，不改趙；向東後字可分彳及行右部，讀行不作泊；代後見土也形，讀地不作北。末皆的比白同屬一字，未另增此。折縫附近字逐字留疑。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r009",
+    "action": "replace",
+    "before": "比輪挨了二國魏西四星□畢陽羨星〃垣西一鄭是齊隣看此兩邑平原居欲知鄭在越下存十六黃小星河匝分五個",
+    "after": "比輪替十二國魏西□畔獨□四□西一□旁陳者比兩邑平原居欲知却在越下存十六黑星□分五个",
+    "source_bbox": [
+      1319,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次沿原生三段逐字追讀折縫：兩後字下有邑的巴形，不取獨立稿星；末數字後字上里下點形讀黑，未見可分開的黃小兩字；在越下前見却的卩旁，未見鄭的奠部。中段仍嚴重受折縫影響，保留可見字與未定長缺片，沒有採初錄或獨立稿整串代填。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r010",
+    "action": "replace",
+    "before": "離珠女上星敗瓜珠上瓠瓜星兩個各五敗瓠瓜天津九個彈弓形兩星入牛河中橫□六奚仲天津上七個仲側柱匡星",
+    "after": "離珠女上星敗瓜珠上瓠瓜星兩个各五敗瓠瓜天津九个彈弓形兩星入牛河中橫四个奚仲天津上七个仲側扶筐星",
+    "source_bbox": [
+      1279,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次原生全欄可見各上夂、下口，修正獨立稿名；各个為人下一豎省形，不加亻固。河中橫後為四个而非空字六；末扶見扌夫，筐見竹匡，不支持柱匡。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r011",
+    "action": "replace",
+    "before": "水來守女萬物不成天津明動則兵紛起人多死金□犯奚仲兵起星氣入大水",
+    "after": "水來守女萬物不成天津明動則兵紛起人多死金火犯奚仲兵起星氣入大水",
+    "source_bbox": [
+      1239,
+      681,
+      74,
+      1689
+    ],
+    "reason": "本次再看原生全欄，來有木人形而不取星，金後火明確；動後右側長筆較近則，與凶仍有歧義。紛／將及入／有沿定位留疑，不以語義擇字。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r021",
+    "action": "replace",
+    "before": "主道路關其",
+    "after": "主道路關果",
+    "source_bbox": [
+      1983,
+      1566,
+      84,
+      231
+    ],
+    "reason": "本次重新看原生圖標，末字上田下木形可見，沒有可分出的氵刃；暫錄果並留梁／其候選，不據道路關梁搭配定字。"
+  },
+  {
+    "canvas": "c014",
+    "id": "c014-r034",
+    "action": "replace",
+    "before": "主羅綾",
+    "after": "主羅紋",
+    "source_bbox": [
+      812,
+      1566,
+      91,
+      136
+    ],
+    "reason": "本次原生圖標末字左糹、右為文的點橫交叉撇捺，未見夌上土與下夂的層次，不支持初錄綾；改紋。 2026-10-28接續裁決已再看對應原生裁片。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r005",
+    "action": "replace",
+    "before": "上下各一如聯珠命祿危非虛上呈虛危之下哭泣星哭泣雙〃下壘城天壘圓〃十三星敗臼四星",
+    "after": "上下各一如聯珠命祿危非虛上星虛危之下哭泣星哭泣双〻下壘城天壘團〻十三星敗臼四星",
+    "source_bbox": [
+      1965,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次逐段看全欄：上後字見日與生形，讀星；哭泣後見兩又的双形，非完整雙；團框內有專的連筆，不作圓。兩處短畫以〻保留，不展開。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r006",
+    "action": "replace",
+    "before": "城下橫臼西兩下離瑜明虛不明天下旱日月蝕兵起四司大明則〃下人災敗臼大動搖人悲苦",
+    "after": "城下橫臼西兩下離瑜明　虛不明天下旱日月蝕兵起四司大明則□下人災敗臼大動搖人悲苦",
+    "source_bbox": [
+      1898,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次看完整原生欄，城下橫及臼西兩下均有字形，不按文意重排。日月後字具左右複合細筆，暫保留蝕；虛前有空段。則後墨跡已看但不定讀，故定位空字而非待辦。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r008",
+    "action": "replace",
+    "before": "三星不直舊先如危上五黑號人星人畔三四杵臼用人上七烏星車府〃上天鈎九黃精鉤下女",
+    "after": "三星不直旧先如危上五黑号人星人畔三四杵臼形人上七烏星車府〻上天鈎九黃精鈎下女",
+    "source_bbox": [
+      1551,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次原生全欄：旧為左豎右日的省形；五後見黑的田及下點形，不採獨立稿星；臼後為形的兩部筆勢。号只見口及下折，不增虎旁；府後雙短畫保留。九後暫取黃而留疑。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r009",
+    "action": "replace",
+    "before": "醜字造父危下四星號墳墓〃下四星斜虛梁十八天錢梁下黃墓旁兩星斛蓋屋身著黑",
+    "after": "醜字造父危下四星号墳墓〻下四星斜虛果十个天錢果下黃墓旁兩星紙蓋屋身著黑",
+    "source_bbox": [
+      1493,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次逐段及連續原生末段看圖：兩處果都有田木，不作梁；十下人形帶豎為个。果下黃為一字，底部兩點未另分八。身後、黑前的上下筆組佔一字位置，暫保留著並註疑；不將分段裁片造成的筆組拆成五若。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r010",
+    "action": "replace",
+    "before": "衣危下宿□守危兵起地震金守〃饑饉墳墓明則天下多死喪虛梁金火守犯兵災大",
+    "after": "衣危下宿　大守危兵起地震金守之飢饉墳墓明則天下多死喪虛果金火守犯兵災大",
+    "source_bbox": [
+      1432,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次全欄：首衣明見上橫交筆與下兩撇；金守後連續折筆可暫錄之；飢右為几形。虛後同樣見田木，照本頁字形錄果而非梁。宿後空段保留。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r011",
+    "action": "replace",
+    "before": "起杵臼傾覆則饑動人壽屋毀車府動兵車出造父移兵起",
+    "after": "起杵臼傾覆則飢動人壽屋顛車府動兵車出造父移兵起",
+    "source_bbox": [
+      1371,
+      569,
+      94,
+      1795
+    ],
+    "reason": "本次全欄看至末起。飢右見几；人後三字的層疊筆勢較近壽屋顛，與原錄和獨立稿均有出入，逐字保留疑讀，未改成通順占辭。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r028",
+    "action": "replace",
+    "before": "墳墓",
+    "after": "攻墓",
+    "source_bbox": [
+      692,
+      1615,
+      89,
+      136
+    ],
+    "reason": "本次原生短裁片首字左呈工形、右上撇橫下交叉近攵，暫錄攻；沒有墳的賁部。保留與坟的土文之歧義。"
+  },
+  {
+    "canvas": "c015",
+    "id": "c015-r030",
+    "action": "replace",
+    "before": "虛梁",
+    "after": "虛果",
+    "source_bbox": [
+      692,
+      1746,
+      98,
+      163
+    ],
+    "reason": "本次原生短裁片第二字明見田框及下木，無梁的氵刃部，照錄果。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r002",
+    "action": "replace",
+    "before": "兩星上有離宮出度營三雙有六星下□六个雷電形壘壁陣次十二星十二兩頭大如井陣下分布羽林",
+    "after": "兩星上有離宮出遶宮三双有六星下頭六个雷電形壘壁陣次十二星十二兩頭大如井陣下分布羽林",
+    "source_bbox": [
+      1812,
+      598,
+      96,
+      1794
+    ],
+    "reason": "本次逐段看原生全欄：下後見頁部的頭，填回初錄空字；三後為兩又省形双；次十二星十二確有連續兩組十二，不按星數刪改。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r003",
+    "action": "replace",
+    "before": "軍□十五卒三方躔軍西□星多難識子田□六音區分三粒黃金名鐵鉞一顆珍珠落北門東一魁九",
+    "after": "軍四十五卒三為群軍西四星多難論子細認之看區分三粒黃金名鉄鉞一顆珍珠落北門〻東八魁九",
+    "source_bbox": [
+      1762,
+      598,
+      91,
+      1794
+    ],
+    "reason": "本次全欄：軍後四、軍西四均有框內折筆；為後字有君羊組合，難後有言侖結構，不保留躔／識。鉄右見失、鉞右見戉；門後雙短畫及東下八均有墨跡。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r004",
+    "action": "replace",
+    "before": "个子門西一宿天綱星電穿兩星主□旱騰蛇空主二十二營宮不明國多疾□芒角有丘墳金火守之",
+    "after": "个子門西下宿天綱星電旁兩星土公吏螣蛇室上二十二　營室不明國多疾疫芒角有兵疫金火守〻",
+    "source_bbox": [
+      1712,
+      598,
+      91,
+      1794
+    ],
+    "reason": "本次原生全欄：電後為旁而非穿；土公吏三字各有墨跡，不補作主旱；螣右下虫形、營室下土可見。末有兵疫，不是丘墳；兩疫均保留細筆疑處。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r005",
+    "action": "replace",
+    "before": "丘起羽林軍不見兵大出杵落芒角動搖兵起壘壁軍不具兵卷出天下亂金火水星入天軍皆兵",
+    "after": "兵起羽林軍不見兵大出北落芒角動搖兵起壘壁軍不具兵革出天下亂金火水星入天軍皆兵",
+    "source_bbox": [
+      1662,
+      598,
+      91,
+      1794
+    ],
+    "reason": "本次逐段原生：首兵有上下兩腳，不作丘；出後北可見左右分筆，非杵；壘壁後軍不具及末天軍均保留原寫。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r006",
+    "action": "replace",
+    "before": "起金火守犯八魁兵大起騰蛇從南兵起從北則大水",
+    "after": "起金火守犯八魁兵大起螣蛇徙南兵起徙北則大水",
+    "source_bbox": [
+      1612,
+      598,
+      91,
+      1044
+    ],
+    "reason": "本次全短欄可見兩處徙均有彳及下走形，南有外框與內點，不讀從南或徙曲。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r008",
+    "action": "replace",
+    "before": "兩星下頭是霹靂霹靂五星橫看門雲雨次下口四方涯上天廐十圓黃併橫五",
+    "after": "兩星下頭是霹靂霹靂五星橫看□雲雨次下口四方壁上天廐十圓黃鉄鑕五",
+    "source_bbox": [
+      1342,
+      588,
+      111,
+      1774
+    ],
+    "reason": "本次原生整欄：壁有辟下土，不採涯；末二字有金失與金質，為鉄鑕而非併橫。末五與同欄五星的五筆勢相同。看後只有兩側折筆未能定字。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r009",
+    "action": "replace",
+    "before": "星羽林旁土公兩星屋下藏五星守犯東壁兵起雲雨星明則雨水少守之旱燥",
+    "after": "星羽林旁土公兩星壁下藏五星守犯東壁兵起雲雨星明則雨水少守之旱潦",
+    "source_bbox": [
+      1287,
+      588,
+      101,
+      1694
+    ],
+    "reason": "本次全欄可見壁下藏之壁有下土，不作屋；末潦有氵及右尞的層疊，不作燥。雨水後字的兩側筆與下撇暫保留少，守後連續折筆暫錄之。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r010",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□□□生",
+    "source_bbox": [
+      460,
+      2095,
+      170,
+      235
+    ],
+    "reason": "本次實看四個篆字。左下三叉上出、下有土根支持生；其餘三字不能由重複印章或慣稱補定。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r012",
+    "action": "replace",
+    "before": "騰蛇",
+    "after": "螣蛇",
+    "source_bbox": [
+      2325,
+      985,
+      125,
+      160
+    ],
+    "reason": "本次短裁片首字右下明見虫形與末點，不具馬的四點結構，據實錄螣。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r023",
+    "action": "replace",
+    "before": "土公吏",
+    "after": "主工吏",
+    "source_bbox": [
+      1865,
+      1735,
+      115,
+      190
+    ],
+    "reason": "本次圖標首字見頂點及王的橫畫，為主；次字上下橫與中豎為工而無公的分筆。照圖錄主工吏，與正文土公吏分開保留。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r025",
+    "action": "replace",
+    "before": "鈇鑕",
+    "after": "鉄鑕",
+    "source_bbox": [
+      545,
+      1815,
+      115,
+      170
+    ],
+    "reason": "本次短裁片首字右見失，次字右見斤斤貝的質部，照底本錄鉄鑕。"
+  },
+  {
+    "canvas": "c016",
+    "id": "c016-r029",
+    "action": "replace",
+    "before": "鐵鉞",
+    "after": "鐵鉄",
+    "source_bbox": [
+      2195,
+      2045,
+      120,
+      160
+    ],
+    "reason": "本次短裁片上字金旁及右側戈、內口橫筆均在，下字右部為失；不可照常見次序改寫鐵鉞。上字仍保留異體及鉞候選。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r003",
+    "action": "replace",
+    "before": "腰細頭尖似破鞋十六星遶鞋生外屏七星奎下橫屏外七宿天溷明司空左畔土之",
+    "after": "腰細頭尖似破鞋一十六星遶鞋生外屏七星奎下橫屏外七宿天溷明司空左畔土之",
+    "source_bbox": [
+      1927,
+      533,
+      111,
+      1749
+    ],
+    "reason": "本次逐段全欄：十六前另見一橫，照錄一十六；屏外後字有宀及內部人百筆勢，保留宿而不採獨立稿烏。土後連續折筆暫錄之。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r005",
+    "action": "replace",
+    "before": "邊上一策存奎宿芒角動搖國又用兵中小星明則天下大水土司空微",
+    "after": "近上一策存　奎宿芒角動搖國又用兵中小星明則天下大水　土司空微",
+    "source_bbox": [
+      1772,
+      518,
+      121,
+      1754
+    ],
+    "reason": "本次全欄首字具辶及斤的省寫，暫錄近；策後見存的上橫、左撇及下子，可解初錄／獨立稿分歧。國又用兵之又、末土司空微均照原字，兩空段保留。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r006",
+    "action": "replace",
+    "before": "將有旱災軍南門不見則天下兵亂附路亡則道路塞車騎滿路",
+    "after": "暗有星災　軍南門不見則天下兵亂附路亡則道路塞車騎滿路",
+    "source_bbox": [
+      1692,
+      533,
+      116,
+      1629
+    ],
+    "reason": "本次全欄首字左日右音形暫讀暗；有後字為日下生的星，不保留旱。車騎與滿路可連讀至欄末。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r008",
+    "action": "replace",
+    "before": "婁宿圖",
+    "after": "娄宿圖",
+    "source_bbox": [
+      725,
+      525,
+      500,
+      140
+    ],
+    "reason": "本次題名原生短裁片首字上米下女，依底本省形錄娄，不展成婁。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r009",
+    "action": "replace",
+    "before": "三星不勾近一頭右更左更烏夾婁天倉六个婁下頭天庾",
+    "after": "三星不勾近一頭右更左更烏夾娄天倉六个娄下頭天庾",
+    "source_bbox": [
+      1442,
+      528,
+      136,
+      1754
+    ],
+    "reason": "本次原生全欄及連續末段裁片：兩處娄為米女省形；六个有各自墨跡。娄下之後頭字的豆部上橫屬同一字，連續裁片不支持另添一，故不採獨立稿娄下一頭。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r010",
+    "action": "replace",
+    "before": "三星倉東脚婁上十一將軍侯婁宿直□急兵就衆國大",
+    "after": "三星倉東脚娄上十一將軍候　娄宿見多急兵就聚國大",
+    "source_bbox": [
+      1352,
+      538,
+      126,
+      1704
+    ],
+    "reason": "本次全欄：十一皆有筆畫；娄宿後字上目下儿支持見，不取直；急兵就後聚有上取及下垂筆，不取衆。候的豎筆仍保留異讀。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r011",
+    "action": "replace",
+    "before": "亂后出走天倉連穀廛耗陪小動大將軍不明動搖則",
+    "after": "亂君出走　天倉遠穀□耗暗小動　大將軍不明動搖則",
+    "source_bbox": [
+      1272,
+      538,
+      116,
+      1754
+    ],
+    "reason": "本次全欄及連續中段裁片：亂後有君的尹口，不取后；天倉後辶內多橫暫錄遠。穀後複合字不能可靠隸定，以單字□定位，非獨立稿星的簡形。暗見日音，空段照存。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r013",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□□□生",
+    "source_bbox": [
+      555,
+      2075,
+      180,
+      250
+    ],
+    "reason": "本次實看四個篆字。左下三叉上出、下有土根支持生；其餘三字不能由重複印章或慣稱補定。"
+  },
+  {
+    "canvas": "c017",
+    "id": "c017-r021",
+    "action": "replace",
+    "before": "婁",
+    "after": "娄",
+    "source_bbox": [
+      790,
+      1185,
+      120,
+      130
+    ],
+    "reason": "本次圖標上米下女清楚，照底本省形錄娄。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r002",
+    "action": "replace",
+    "before": "三星鼎足河之次天廩胃東斜四星天囷十三如乙形河中",
+    "after": "三星鼎足河〻次天廩胃東斜四星天囷十三如乙形河中",
+    "source_bbox": [
+      1767,
+      538,
+      116,
+      1719
+    ],
+    "reason": "本次全欄原生：天囷後十三的十與三均清楚，不按已知星數變更；河後為上點下短豎的兩筆，暫以〻記形，不展開成文字。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r003",
+    "action": "replace",
+    "before": "八星名大陵之北九个天船名陵中積尸一个星積水船中",
+    "after": "八星名大陵〻北九个天船名陵中積尸一个星積水船中",
+    "source_bbox": [
+      1687,
+      548,
+      116,
+      1684
+    ],
+    "reason": "本次原生全欄：陵後上下兩小筆與北相隔，依形記〻；兩處个均為人下豎，尸不增屍的部件。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r004",
+    "action": "replace",
+    "before": "一黑星胃星亡則兵起芒角兵起天廩變色則廩粟腐",
+    "after": "一黑星　胃星亡則兵起芒角兵起　天廩變色則廩粟腐",
+    "source_bbox": [
+      1617,
+      553,
+      111,
+      1699
+    ],
+    "reason": "本次逐段原生可見亡、芒角、變色、粟腐筆勢，兩個占辭段落前有明顯空白，照存空段。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r005",
+    "action": "replace",
+    "before": "五星入天囷天下兵起國儲□發大陵就聚死人如麻",
+    "after": "五星入天囷天下兵起國儲尺發　大陵就聚死人如麻",
+    "source_bbox": [
+      1547,
+      548,
+      111,
+      1694
+    ],
+    "reason": "本次原生全欄：儲後字外形為尺，上尸下兩展筆，未見明確下二點或皿。先錄可見尺形並註疑，不直接展成盡；發後空段保留。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r008",
+    "action": "replace",
+    "before": "七星一聚實不少河西月東各一星月下五黃天陰精陰下六个蒭藳營之南十六",
+    "after": "七星一聚實不少河西月東各一星月下五黃天陰精陰下六个芻藁營〻南十六",
+    "source_bbox": [
+      1322,
+      518,
+      126,
+      1734
+    ],
+    "reason": "本次全欄：河西月東、天陰精均有各自筆畫，未換通行詞；芻為兩重勹形，藁可見艹高木而無禾末撇；營後兩短筆以〻保留。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r009",
+    "action": "replace",
+    "before": "天苑形向內六星名卷舌中黑點名天讒砺石舌旁斜四丁昴宿昴旄頭胡星聚明而數動",
+    "after": "天苑形河內六星名卷舌□中里黑名天讒礪石舌旁斜四丁　昴宿即旄頭胡星聚明而數動",
+    "source_bbox": [
+      1257,
+      518,
+      106,
+      1734
+    ],
+    "reason": "本次全欄並補看連續中段：形後有氵與可的省筆，錄河；舌後僅見一短斜筆，不足判八或雙重文。下接中、里、黑三個字各有獨立墨跡，未添點字。四丁照錄；昴宿後為即的左右結構。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r010",
+    "action": "replace",
+    "before": "則胡兵大起六星明與大星等天下大水七星皆明而黃則兵大起辰動若跳躍□胡",
+    "after": "則胡兵大起六星明与大星等天下大水七星皆明而黃則兵大起尺動若跳躍□胡",
+    "source_bbox": [
+      1187,
+      528,
+      106,
+      1734
+    ],
+    "reason": "本次全欄及連續末段：明後為与的省形；而後字有黃的上中下結構，無累下糸，不採獨立稿累。起後同樣呈尺形，暫錄並保留盡義候選；胡前一字筆勢未能唯一釋讀，維持定位空字。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r011",
+    "action": "replace",
+    "before": "兵大起也卷舌彗孛入赦兇良客星孛兵起砺石明則兵起金火客星守之兵動",
+    "after": "兵大起凶卷舌彗字入殺忠良客星孛兵起　砺石明則兵起金火客星守之兵動",
+    "source_bbox": [
+      1122,
+      528,
+      106,
+      1734
+    ],
+    "reason": "本次全欄原生：起後凶具外曲框及內交筆，不作也；殺、忠可分攵形及中心，不取赦兇。下段砺為石厉省形，與前欄礪分開保留；守後為連續點折筆暫錄之。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r012",
+    "action": "replace",
+    "before": "蒭藳不明及中星稀則歲不登庫藏耗",
+    "after": "芻藁不明及中星稀則岁不登庫藏耗",
+    "source_bbox": [
+      1057,
+      528,
+      101,
+      894
+    ],
+    "reason": "本次原生短欄及連續中段：則後上山下夕形可見，依底本錄岁，不展成歲。及、中、星、稀與末庫藏耗均有各自墨跡。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r013",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□□□生",
+    "source_bbox": [
+      445,
+      1985,
+      180,
+      240
+    ],
+    "reason": "本次實看四個篆字。左下三叉上出、下有土根支持生；其餘三字不能由重複印章或慣稱補定。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r019",
+    "action": "replace",
+    "before": "天讒",
+    "after": "天衣",
+    "source_bbox": [
+      725,
+      930,
+      105,
+      130
+    ],
+    "reason": "本次短裁片第二字有上點橫及下衣的分叉筆，沒有言旁及毚的繁部；依可見字錄天衣，不換成常見星官名。"
+  },
+  {
+    "canvas": "c018",
+    "id": "c018-r029",
+    "action": "replace",
+    "before": "蒭藳",
+    "after": "芻藁",
+    "source_bbox": [
+      930,
+      1685,
+      120,
+      180
+    ],
+    "reason": "本次短裁片首字為重勹形，次字艹、高、木可分，不添首字艹、也不改次字為禾底藳。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r004",
+    "action": "replace",
+    "before": "恰似爪八星生附耳畢傍一星光天街兩星畢背旁天節畢下□憧畢上橫列六諸王之下四个天高星節下團",
+    "after": "恰似爪八星生附耳畢股一星光天街兩星畢背旁天節耳下□憧畢上横列六諸王之下四个天高星節下圓",
+    "source_bbox": [
+      1870,
+      570,
+      80,
+      1700
+    ],
+    "reason": "本次逐段重看：畢後為月旁殳形的股；天節後字是耳形，無畢字田格；未解字後忄與童形可讀憧，故只留一字缺；横照字形。生／出及末圓／團另保留字級疑記。 本次續核原生字形，星後呈生的三橫豎筆，正文改回生並保留出候選。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r005",
+    "action": "replace",
+    "before": "圓九州城畢口斜對五車口車有三柱任縱橫車上五个天潢精潢畔咸池三黑星天關一星車脚邊參旗九",
+    "after": "圓九州城畢口斜對五車口車有三柱任縱横車上五个天潢精潢畔咸池三黑□天關一星車脚邊參旗九",
+    "source_bbox": [
+      1810,
+      570,
+      65,
+      1700
+    ],
+    "reason": "三黑後確有一個字位，但原判落的部件未能在本次原生局部確證；降為逐字疑讀，未用常見詞句決字。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r006",
+    "action": "replace",
+    "before": "个參車前旗下直建九旒連旒下十二烏天園畢失色兵亂附耳動兵起天街暗兵起珠口三等不見天亂金入守之九州",
+    "after": "个參車前旗下直建九斿連斿下十二烏天園畢失色邊兵亂附耳動兵起天街暗兵起珠口三星不見大亂金火守之九州",
+    "source_bbox": [
+      1750,
+      570,
+      65,
+      1700
+    ],
+    "reason": "九後二處右部為子形，記斿；失色與兵亂間確有邊字；珠口三後見星形，不見竹頭；不見後為大，金後為帶分點火形，非入。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r007",
+    "action": "replace",
+    "before": "兵起柱星不明四方兵起天關亡兵起五車動搖變色國有兵火入守天下旱金入守兵起水入月星右赦參旗明曲烏",
+    "after": "兵起諸王不明四方兵起天關七兵起五車動搖變色國有兵火入守天下旱金入守兵起水入月暈右散參旗明曲如□",
+    "source_bbox": [
+      1690,
+      570,
+      60,
+      1700
+    ],
+    "reason": "本次重看首段見言旁諸與王，非柱星；天關後可見七形不依語義改亡；月後上日下軍形讀暈，右後讀散；末段如與水旁字分開兩字，不能合成烏。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r008",
+    "action": "replace",
+    "before": "弓天下兵大起九旒搖動兵起",
+    "after": "弓天下兵大起九斿搖動兵起",
+    "source_bbox": [
+      1630,
+      570,
+      60,
+      510
+    ],
+    "reason": "本次回看九後右旁為子形，上無流字巟部，採斿。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r010",
+    "action": "replace",
+    "before": "三星相近作參蕊觜上坐旗直指天子畢之傍九相連司怪",
+    "after": "三星相近作參蕋觜上生旗直指天弓畢之後九相連司怪",
+    "source_bbox": [
+      1460,
+      560,
+      95,
+      1700
+    ],
+    "reason": "生字三橫交竪可辨，未見坐的雙人；天後為彎折弓形；畢之後見彳旁與夂形，支持後。參後草頭字定位疑記，不以常見名稱決字。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r011",
+    "action": "replace",
+    "before": "曲立坐旗邊四鴉大近井鉞前觜宿五星守犯主兵災",
+    "after": "曲立生旗邊四□大近井鉞前觜宿五星守犯主兵災",
+    "source_bbox": [
+      1380,
+      560,
+      85,
+      1700
+    ],
+    "reason": "生旗的生筆形清楚；四後鳥旁字已有限回圖仍未定，保留一字缺，其餘文字不刪。"
+  },
+  {
+    "canvas": "c019",
+    "id": "c019-r012",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□",
+    "source_bbox": [
+      600,
+      2030,
+      135,
+      210
+    ],
+    "reason": "本次重看完整印面，保留印記單位，以一個未定長標記替代原四個無定位方框，不虛報印文。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r002",
+    "action": "replace",
+    "before": "□有七星觜相侵兩肩雙足三為心伐有三星足裡深玉井四星右足陰",
+    "after": "捉有七星觜相侵兩肩雙足三為心伐有三星足裡深玉井四星右足陰",
+    "source_bbox": [
+      1790,
+      540,
+      80,
+      1660
+    ],
+    "reason": "首字左側有提手的長竪與橫提，右部下端有足形轉折，暫隸捉並註疑；其餘逐段可辨。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r003",
+    "action": "replace",
+    "before": "屏星兩扇井南襟軍井四星之屏上吟左星下四天厠臨厠下一物天屎沉",
+    "after": "屏星兩厠井南襟軍井四星屏上吟左足下四天厠臨厠下一物天屎沉",
+    "source_bbox": [
+      1715,
+      545,
+      80,
+      1660
+    ],
+    "reason": "兩後字外框與內則形支持厠，不依通常語句改扇；四星與屏相接，無獨立之字；左後為足的口及走筆。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r004",
+    "action": "replace",
+    "before": "參金火入守兵起災生日月蝕田荒米貴土犯有災",
+    "after": "參金火入守兵起災生日月蝕田荒米貴土犯有災玉井明大動大水",
+    "source_bbox": [
+      1660,
+      545,
+      75,
+      1660
+    ],
+    "reason": "原框高度只到土附近；本次向下展讀同一欄，土犯有災後尚有玉井明大動大水，將框擴至完整直欄。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r005",
+    "action": "replace",
+    "before": "軍井動有大水月入吾芒屏不具天下疫客星入人多死天厠不明疫",
+    "after": "軍井動有大水月入兵起屏不見天下疫客星入人多死天厠不明疫",
+    "source_bbox": [
+      1600,
+      550,
+      70,
+      1660
+    ],
+    "reason": "月入後兩字上丘下八及走筆支持兵起；屏不後見目下兩足的見，非具。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r006",
+    "action": "replace",
+    "before": "五星守之大肌天屎不見人多病黃黑國肌人病多死常以春分日候之",
+    "after": "五星守之大肌天屎不見人多病若星國肌人病多死常以春分日候之",
+    "source_bbox": [
+      1545,
+      550,
+      80,
+      1650
+    ],
+    "reason": "原框偏左且截掉字形，本次右移擴至完整欄；兩處均見月旁與几，不見食旁，照錄肌而不擬改飢。病後為若星，框內字見囗與內部折畫，暫以國隸定。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r008",
+    "action": "replace",
+    "before": "八星八列河中淨星名鉞井邊安兩河各三南北正天樽三星井上頭樽上橫列五諸侯之上北河西積水欲覔積薪東畔是鉞",
+    "after": "八星八列河中淨一星名鉞井邊安兩河各三南北正天樽三星井上頭樽上横列五諸侯之上北河西積水欲覔積薪東畔是鉞",
+    "source_bbox": [
+      1410,
+      540,
+      50,
+      1730
+    ],
+    "reason": "淨後可見獨立一橫，補一；諸侯後有之再接上，保留之；覔上部不是清楚爪形，保留原錄字形。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r009",
+    "action": "replace",
+    "before": "下四星名水府水位東邊四星序四瀆橫列南河裏南河下頭七軍市軍市團十三星中有一个野雞精子丈人布下列各立",
+    "after": "下四星名水府水位東邊四星序四瀆横列南河裏南河下頭是軍市軍市圍之十三星中有一个野雞精孫子丈人市下列各立",
+    "source_bbox": [
+      1370,
+      540,
+      45,
+      1730
+    ],
+    "reason": "下頭後字有是的日及下走筆；軍市後圍之分見兩個字位；野雞精後尚有孫再接子丈人，末為市下列。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r010",
+    "action": "replace",
+    "before": "兩星近東說闕丘兩个南河東丘下一根光蒙茸左畔五个弧弓一矢擬射狼胸有六老人南極中春秋出來夀無窮",
+    "after": "兩星從東說闕丘兩个南河東丘下一狼光芒芒左畔五个彎弧弓一矢擬射頑狼胷有六老人南極中春秋出來壽無窮",
+    "source_bbox": [
+      1330,
+      540,
+      45,
+      1730
+    ],
+    "reason": "兩星後為彳旁從；狼有犬旁；五个後另有彎再接弧弓，擬射後有頑再接狼。胷與有六均照原墨跡，不以句義刪六。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r011",
+    "action": "replace",
+    "before": "井動搖失色移從□孔洪水為災日月蝕五星逆犯兵起大臣誅鉞大而明則斧鉞用兵起南北河不明黑氣交侵動則迭",
+    "after": "井動搖失色移徙國孔洪水為災日月蝕五星逆犯兵起大臣誅鉞大而明則斧鉞用兵起南北河不明夷交侵動則邊",
+    "source_bbox": [
+      1290,
+      540,
+      45,
+      1730
+    ],
+    "reason": "移後見彳與下方止形為徙，次為國；國後字顯子與右鉤，暫照孔並註疑，未順文改亂；末字見辶，採邊。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r012",
+    "action": "replace",
+    "before": "兵起五諸侯生角門禍其中起山星犯兵起南北河不見有大水積水不明五穀不登積薪不見天下旱四瀆明大動搖",
+    "after": "兵起五諸侯生角則禍其中起五星犯兵起南北河不見有大水積水不明五榖不登積薪不見天下旱四瀆明大動搖",
+    "source_bbox": [
+      1250,
+      540,
+      45,
+      1730
+    ],
+    "reason": "禍前字與同頁則的分筆相合；其後數字為五不是山；榖中木形保留原寫。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r013",
+    "action": "replace",
+    "before": "則水泛溢野雞移出市兵起狼芒動搖天下亂弧矢起弧矢五星守犯兵大起",
+    "after": "則水泛溢野雞移出市兵起狼芒動搖天下亂□□起弧矢五星守犯兵大起",
+    "source_bbox": [
+      1210,
+      540,
+      45,
+      1430
+    ],
+    "reason": "天下亂後確有兩個字位，與後續清楚的弧矢筆形不同；不能採初錄重複弧矢，獨立稿盜賊亦不足可靠隸定，逐字註疑保留其餘全文。"
+  },
+  {
+    "canvas": "c020",
+    "id": "c020-r014",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□",
+    "source_bbox": [
+      485,
+      2005,
+      145,
+      210
+    ],
+    "reason": "完整朱印實看，篆書筆畫可見但無法可靠隸定及確定逐字界線；使用一個未定長標記，不沿用四個無定位方框。"
+  },
+  {
+    "canvas": "c021",
+    "id": "c021-r004",
+    "action": "replace",
+    "before": "七星鬼下星外厨六柳星次天社六个弧東倚社東一宿",
+    "after": "七星鬼下星外厨六間柳星次天社六个弧東倚社東一宿",
+    "source_bbox": [
+      1790,
+      590,
+      85,
+      1680
+    ],
+    "reason": "六後確有獨立字位，外側門形與內日暫隸間，未逕取個；厨上見厂形而無廣頭點，保留原寫；兩段柳星次、社東一宿照錄。"
+  },
+  {
+    "canvas": "c021",
+    "id": "c021-r008",
+    "action": "replace",
+    "before": "八星曲頭垂似柳近上三星號為酒柳失色天下不□就",
+    "after": "八星曲頭垂似柳近上三星號為酒柳失色天下不安就",
+    "source_bbox": [
+      1430,
+      600,
+      95,
+      1670
+    ],
+    "reason": "不與就之間明見一完整安形，補原缺字；該字為本欄文字，不來自鄰欄。"
+  },
+  {
+    "canvas": "c021",
+    "id": "c021-r011",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□",
+    "source_bbox": [
+      635,
+      2025,
+      140,
+      215
+    ],
+    "reason": "完整朱印實看，篆書筆畫可見但無法可靠隸定及確定逐字界線；使用一個未定長標記，不沿用四個無定位方框。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r002",
+    "action": "replace",
+    "before": "七星似鈎柳下生星上十七軒轅形左頭四名內屏星之右三个天相名相下稷星",
+    "after": "七星似鈎柳下生星上十七軒轅形東頭四名內屏星之左三个天相名相下稷星",
+    "source_bbox": [
+      1640,
+      600,
+      70,
+      1680
+    ],
+    "reason": "形後見東的中豎穿橫框，非左；內屏星後仍有之，再接左，左之工形清楚，故保留之並改右為左。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r003",
+    "action": "replace",
+    "before": "橫五靈星動則兵起移徙天下易政日蝕兵飢月暈壽犯則兵起軒",
+    "after": "横于灵星動則兵起移徙天下易政日蝕兵肌月暈壽犯則兵起軒",
+    "source_bbox": [
+      1570,
+      600,
+      75,
+      1680
+    ],
+    "reason": "首段于的豎鉤與灵的彐火形可見；兵後見月几形為肌，原字與同頁下一欄一致。暈後字上橫多層，暫錄壽而註舍候選。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r004",
+    "action": "replace",
+    "before": "轅移徙則人流五星守犯有逆賊有火災天稷不明五穀不成星不具歲",
+    "after": "轅移徙則人流五星守犯有逆賊有火灾天稷不明五榖不成星不具歲",
+    "source_bbox": [
+      1510,
+      600,
+      65,
+      1680
+    ],
+    "reason": "火後字為宀下火形，照錄灾；五後字中心呈木形，錄榖。其餘各字與行末歲均可核對。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r005",
+    "action": "replace",
+    "before": "飢不見則大飢人相食",
+    "after": "肌不見則大肌人相食",
+    "source_bbox": [
+      1430,
+      610,
+      80,
+      590
+    ],
+    "reason": "補看原生整欄發現兩稿共同標準化；兩個字都是月旁几形，正文照錄肌，擬讀飢僅為解釋不改抄本。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r007",
+    "action": "replace",
+    "before": "六星似珍近星傍張下只星有天廟十四之星冊四方芒垣少微推",
+    "after": "六星似軫近星傍張下只是有天庙十四之星冊四方長垣少微推",
+    "source_bbox": [
+      1260,
+      605,
+      80,
+      1700
+    ],
+    "reason": "似後左車右㐱可辨為軫；只後為是的日與走筆；庙是廣下由的寫法；星後冊有連貫橫與數豎，非周；四方後為長，再接垣。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r008",
+    "action": "replace",
+    "before": "向上星數款在太微旁太尊一星直上黃□就聚則兵起金火守",
+    "after": "向上星數款在太微旁太尊一星直上黄張就聚則兵起金火守",
+    "source_bbox": [
+      1165,
+      610,
+      90,
+      1680
+    ],
+    "reason": "黄後另起段見弓長組合的張，補原方框；直上黄為上一段末，不將張併成黃的部件。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r009",
+    "action": "replace",
+    "before": "之兵起月蝕大滂魚行人道客犯兵起",
+    "after": "之兵起月仲大滂魚行人道守犯兵起",
+    "source_bbox": [
+      1060,
+      620,
+      95,
+      1000
+    ],
+    "reason": "月後字有亻與中形，照錄仲不改蝕；守具宀寸而非客。大後水旁與旁部暫錄滂；魚與道保留字級疑問。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r010",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□",
+    "source_bbox": [
+      420,
+      2105,
+      135,
+      215
+    ],
+    "reason": "完整朱印實看，篆書筆畫可見但無法可靠隸定及確定逐字界線；使用一個未定長標記，不沿用四個無定位方框。"
+  },
+  {
+    "canvas": "c022",
+    "id": "c022-r023",
+    "action": "replace",
+    "before": "天廟",
+    "after": "天庙",
+    "source_bbox": [
+      470,
+      1900,
+      100,
+      130
+    ],
+    "reason": "圖內第二字為廣下由，與正文同頁庙字相合，保留庙字形。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r005",
+    "action": "replace",
+    "before": "二十二星大難識上五下五橫看着中心六个恰如張更有六星在何處三三",
+    "after": "二十二星大難識上五下五横着看中心六个恰如張更有六星在何處三三",
+    "source_bbox": [
+      1940,
+      605,
+      75,
+      1675
+    ],
+    "reason": "横後上部羊形着在先，其後手上目形看在後；初錄看着順序倒置，本次依直行先後更正。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r006",
+    "action": "replace",
+    "before": "相連張畔附必若不能分處所更請向前看野取五个黑星翼下認欲知名",
+    "after": "相連張畔附又若不能分處所更請向前看野取五个黑星翼下□欲知名",
+    "source_bbox": [
+      1875,
+      600,
+      70,
+      1680
+    ],
+    "reason": "附後可見又的交叉及捺，不見必的心點；翼下末字存在獨立字位，但左右部未可靠隸定，只留該一字疑記。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r007",
+    "action": "replace",
+    "before": "字是東甌翼宿月暈大風旱五星彗犯大凶芒動則王者用兵伐戎四方",
+    "after": "字是東甌翼宿月暈大風旱五星□犯大凶芒動則五者用兵□戎四方",
+    "source_bbox": [
+      1815,
+      600,
+      65,
+      1680
+    ],
+    "reason": "則後字中有折筆為五，非王；下一字日形與下撇支持者。用兵後首字不清，後字戈內有短橫暫錄戎；五星後字不靠術語強定。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r008",
+    "action": "replace",
+    "before": "東甌角張則蠻夷叛金火守之兵起",
+    "after": "東甌角張則□夷叛金火守之兵起",
+    "source_bbox": [
+      1755,
+      600,
+      60,
+      850
+    ],
+    "reason": "則後一字上部複雜、下有曲鉤，不能單依蠻夷常語定蠻；其餘字與末段兵起完整可見。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r010",
+    "action": "replace",
+    "before": "四星似張翼相近中央一个長沙子左轄右轄附兩星軍門兩黃近翼是河下四个土司空",
+    "after": "四星似張翼相近中央一个長沙子左轄右轄附兩星軍門兩黄近翼是門下四个土司空",
+    "source_bbox": [
+      1515,
+      600,
+      75,
+      1680
+    ],
+    "reason": "是後為兩豎相對的門形，無河的水旁；門下四个土司空沿同一字行，保留原序。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r011",
+    "action": "replace",
+    "before": "門東七烏青丘子青丘之下名器府器府之星三十二以上便是太微宮黃道向上看取是",
+    "after": "門東七烏青丘子青丘之下名器府器府之星三十二以便日之太微宮黄道向上看取是",
+    "source_bbox": [
+      1455,
+      600,
+      65,
+      1680
+    ],
+    "reason": "以後直接接便，無獨立上；便後小框字再接之，不能將兩者合讀是。小框暫隸日並定位疑記。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r012",
+    "action": "replace",
+    "before": "軫就聚兵大起月宿軫風起日暈戎夷滿野庫無多兵左轄右轄亡則天下傾",
+    "after": "軫就聚兵大起月宿軫風起日暈戎夷滿野庫無畜兵左轄右轄去則天下傾",
+    "source_bbox": [
+      1380,
+      600,
+      80,
+      1680
+    ],
+    "reason": "前月宿的月具開口長撇；後暈前字呈閉框加中橫，保留日。右轄後是土下厶的去，非亡；庫無後一字暫隸畜而註疑。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r013",
+    "action": "replace",
+    "before": "搖則兵車動土司空金火犯守多石隕耕女石隕□兵起",
+    "after": "搖則兵車動土司空金火犯守男不得耕女不得織兵起",
+    "source_bbox": [
+      1305,
+      600,
+      80,
+      1280
+    ],
+    "reason": "男有田下力；兩處不得的不同連寫均可辨；末字為糸戠組合的織，原石隕與方框是誤分連筆。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r014",
+    "action": "replace",
+    "before": "□□□□",
+    "after": "□",
+    "source_bbox": [
+      685,
+      2040,
+      130,
+      225
+    ],
+    "reason": "完整朱印實看，篆書筆畫可見但無法可靠隸定及確定逐字界線；使用一個未定長標記，不沿用四個無定位方框。"
+  },
+  {
+    "canvas": "c023",
+    "id": "c023-r024",
+    "action": "add",
+    "before": null,
+    "after": "□",
+    "source_bbox": [
+      2400,
+      2110,
+      300,
+      210
+    ],
+    "reason": "完整右下局部可見本頁紙內近長方朱色痕跡，與左下清晰朱印是不同位置；不套用清晰印文，僅以未定長印痕記錄保留。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r006",
+    "action": "replace",
+    "before": "北",
+    "after": "地",
+    "source_bbox": [
+      145,
+      460,
+      60,
+      60
+    ],
+    "reason": "地字左土與右也俱見，非北。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r007",
+    "action": "replace",
+    "before": "亦利多的爾地",
+    "after": "亦利多的蘭地",
+    "source_bbox": [
+      1285,
+      495,
+      255,
+      65
+    ],
+    "reason": "倒讀橫列末二字為蘭地；蘭有艹及門內柬形，非爾。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r020",
+    "action": "replace",
+    "before": "沙瓦□國",
+    "after": "沙瓦丁國",
+    "source_bbox": [
+      700,
+      670,
+      75,
+      155
+    ],
+    "reason": "第三字為丁，頂橫與直鉤可見。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r024",
+    "action": "replace",
+    "before": "祖瓦□",
+    "after": "祖瓦蠟",
+    "source_bbox": [
+      840,
+      720,
+      115,
+      110
+    ],
+    "reason": "左列虫旁與巤形可見，讀蠟。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r025",
+    "action": "replace",
+    "before": "諾龍伯代瓦",
+    "after": "諾龍伯尔瓦",
+    "source_bbox": [
+      1580,
+      740,
+      195,
+      80
+    ],
+    "reason": "倒讀橫列第四字作尔形，非代。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r029",
+    "action": "replace",
+    "before": "奇末刺",
+    "after": "寄未刺",
+    "source_bbox": [
+      470,
+      800,
+      150,
+      70
+    ],
+    "reason": "首字宀下奇形為寄，次字兩橫與豎為未；不改作奇末。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r030",
+    "action": "replace",
+    "before": "多祿德亞國",
+    "after": "多萊德亞國",
+    "source_bbox": [
+      635,
+      800,
+      100,
+      185
+    ],
+    "reason": "次字艹下來形，讀萊，非祿。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r033",
+    "action": "replace",
+    "before": "大入江國",
+    "after": "大入厄國",
+    "source_bbox": [
+      1180,
+      835,
+      80,
+      195
+    ],
+    "reason": "第三字厂形彎鉤，無氵，讀厄。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r042",
+    "action": "replace",
+    "before": "新英巴尼亞海",
+    "after": "新以西巴尼亞海",
+    "source_bbox": [
+      1220,
+      985,
+      145,
+      125
+    ],
+    "reason": "原標籤分三短欄：新以西／巴尼／亞海，初稿漏以西且誤讀。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r047",
+    "action": "replace",
+    "before": "厄的馬□",
+    "after": "瓦的馬草",
+    "source_bbox": [
+      1260,
+      1100,
+      65,
+      155
+    ],
+    "reason": "首字瓦形，末字艹下早，讀草。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r048",
+    "action": "replace",
+    "before": "黑□",
+    "after": "黑漠",
+    "source_bbox": [
+      1320,
+      1140,
+      70,
+      120
+    ],
+    "reason": "末字氵旁與莫形可見，讀漠。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r069",
+    "action": "replace",
+    "before": "□十",
+    "after": "八十",
+    "source_bbox": [
+      110,
+      1240,
+      55,
+      65
+    ],
+    "reason": "八的兩撇與十可見，補原缺字。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r076",
+    "action": "replace",
+    "before": "伯西□",
+    "after": "伯西兒",
+    "source_bbox": [
+      1935,
+      1300,
+      80,
+      140
+    ],
+    "reason": "末字兒形上臼下兩腳可見。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r086",
+    "action": "replace",
+    "before": "亞古齊亞",
+    "after": "亞吉□□",
+    "source_bbox": [
+      1810,
+      1530,
+      90,
+      185
+    ],
+    "reason": "次字土下口為吉；後兩字與海岸線相交，不能以熟知地名補全。"
+  },
+  {
+    "canvas": "c024",
+    "id": "c024-r099",
+    "action": "replace",
+    "before": "壽角",
+    "after": "孛角",
+    "source_bbox": [
+      1400,
+      1840,
+      75,
+      85
+    ],
+    "reason": "首字十、冖、子結構可辨，讀孛，非壽。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r002",
+    "action": "replace",
+    "before": "大茶谷谷",
+    "after": "大茶荅谷",
+    "source_bbox": [
+      1972,
+      342,
+      261,
+      101
+    ],
+    "reason": "第三字具艹頭與合部，為荅，非重複谷。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r008",
+    "action": "replace",
+    "before": "青厄利亞",
+    "after": "青尼利亞",
+    "source_bbox": [
+      1267,
+      642,
+      91,
+      111
+    ],
+    "reason": "第二字尸與匕形，讀尼，非厄。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r015",
+    "action": "replace",
+    "before": "鄂比河",
+    "after": "阿凡河",
+    "source_bbox": [
+      2232,
+      577,
+      56,
+      106
+    ],
+    "reason": "首字阝旁可形、次字凡形可見，讀阿凡河。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r028",
+    "action": "replace",
+    "before": "坡帝亞",
+    "after": "□帝亞",
+    "source_bbox": [
+      1610,
+      566,
+      116,
+      56
+    ],
+    "reason": "首字左部近王而非土；右部尚不能唯一隸定，改缺字列瑗、坡候選。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r030",
+    "action": "replace",
+    "before": "□厄齊亞",
+    "after": "□尼科亞",
+    "source_bbox": [
+      1512,
+      582,
+      81,
+      126
+    ],
+    "reason": "後三字尼科亞可見；首字複雜草頭結構未定，不以地名補全。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r032",
+    "action": "replace",
+    "before": "亞魯瑞",
+    "after": "魯西亞",
+    "source_bbox": [
+      1654,
+      647,
+      56,
+      96
+    ],
+    "reason": "上方亞屬右鄰利勿尼亞末字；本標籤為下方魯西亞，初稿錯接鄰字。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r034",
+    "action": "replace",
+    "before": "□尼亞",
+    "after": "西尼亞",
+    "source_bbox": [
+      1567,
+      672,
+      66,
+      81
+    ],
+    "reason": "首字西形可見，補缺。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r037",
+    "action": "replace",
+    "before": "博多□",
+    "after": "博多曼",
+    "source_bbox": [
+      1632,
+      732,
+      116,
+      76
+    ],
+    "reason": "末字日下又形，讀曼。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r039",
+    "action": "replace",
+    "before": "匈加里亞",
+    "after": "□加里亞",
+    "source_bbox": [
+      1577,
+      787,
+      86,
+      116
+    ],
+    "reason": "首字上公下羽形似翁，仍與初稿匈有歧，保留缺字及候選。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r045",
+    "action": "replace",
+    "before": "以西巴尼亞",
+    "after": "以西巴尼要",
+    "source_bbox": [
+      1177,
+      797,
+      81,
+      171
+    ],
+    "reason": "末字西下女形，原書作要，不能因地名慣例改為亞。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r047",
+    "action": "replace",
+    "before": "地畢□",
+    "after": "地盡角",
+    "source_bbox": [
+      1077,
+      777,
+      71,
+      156
+    ],
+    "reason": "中間盡有重疊橫畫與下皿；末字角形，原稿漏讀。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r056",
+    "action": "replace",
+    "before": "厄日多",
+    "after": "阨日多",
+    "source_bbox": [
+      1702,
+      977,
+      51,
+      101
+    ],
+    "reason": "首字左阝與右厄分立，讀阨。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r060",
+    "action": "replace",
+    "before": "百尔弥亞",
+    "after": "百尔彌亞",
+    "source_bbox": [
+      1917,
+      592,
+      116,
+      58
+    ],
+    "reason": "彌字弓旁與右部密畫可見，非弥；尔按原寫保留。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r072",
+    "action": "replace",
+    "before": "錫忌蘭",
+    "after": "則意蘭",
+    "source_bbox": [
+      2190,
+      1147,
+      61,
+      116
+    ],
+    "reason": "首字貝旁刂，次字意，原稿錫忌誤讀。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r073",
+    "action": "replace",
+    "before": "榜葛剌海",
+    "after": "榜葛刺海",
+    "source_bbox": [
+      2252,
+      1082,
+      66,
+      191
+    ],
+    "reason": "第三字朿旁刂，按原寫刺；不為熟知地名改剌。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r074",
+    "action": "replace",
+    "before": "北□半",
+    "after": "北巴牛",
+    "source_bbox": [
+      2322,
+      1072,
+      56,
+      91
+    ],
+    "reason": "三字為北巴牛；不因詞義生僻而改。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r076",
+    "action": "replace",
+    "before": "暹羅",
+    "after": "羅",
+    "source_bbox": [
+      2362,
+      1062,
+      61,
+      91
+    ],
+    "reason": "本位置只有羅，擴框上方為鄰名緬甸，不見暹；刪初稿猜補暹。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r077",
+    "action": "replace",
+    "before": "□□齊",
+    "after": "三佛齊",
+    "source_bbox": [
+      2362,
+      1127,
+      76,
+      111
+    ],
+    "reason": "三佛齊三字在原生圖可見。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r078",
+    "action": "replace",
+    "before": "滿剌加",
+    "after": "滿刺加",
+    "source_bbox": [
+      2357,
+      1202,
+      71,
+      116
+    ],
+    "reason": "中間刺與本頁r073寫法相同，按原筆形。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r079",
+    "action": "replace",
+    "before": "占城甘波亞",
+    "after": "占城甘波子",
+    "source_bbox": [
+      2442,
+      1132,
+      54,
+      136
+    ],
+    "reason": "末字子形橫鉤與彎豎可見，非亞。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r082",
+    "action": "replace",
+    "before": "西番",
+    "after": "緬甸",
+    "source_bbox": [
+      2397,
+      992,
+      56,
+      101
+    ],
+    "reason": "右列緬甸可見；初稿錯讀為西番。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r085",
+    "action": "replace",
+    "before": "韃而達",
+    "after": "韃而韃",
+    "source_bbox": [
+      2412,
+      667,
+      166,
+      66
+    ],
+    "reason": "首尾同為韃，末字左革右達，非達。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r104",
+    "action": "replace",
+    "before": "順",
+    "after": "貴州",
+    "source_bbox": [
+      2442,
+      977,
+      61,
+      86
+    ],
+    "reason": "貴與左側州兩字，初稿順錯接／漏字。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r112",
+    "action": "replace",
+    "before": "奴未□亞",
+    "after": "奴米□亞",
+    "source_bbox": [
+      1182,
+      1012,
+      136,
+      64
+    ],
+    "reason": "奴米後字有第／弟形，仍不能唯一辨，保留缺字。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r113",
+    "action": "replace",
+    "before": "厄□地馬羅回國",
+    "after": "厄索加馬羅可國",
+    "source_bbox": [
+      1042,
+      1027,
+      206,
+      71
+    ],
+    "reason": "原文橫排右至左可見厄索加馬羅可國，初稿多處誤讀。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r118",
+    "action": "replace",
+    "before": "沙土野",
+    "after": "沙世野",
+    "source_bbox": [
+      1257,
+      1102,
+      116,
+      61
+    ],
+    "reason": "中間字多豎通橫為世，非土。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r121",
+    "action": "replace",
+    "before": "加諾",
+    "after": "□八加",
+    "source_bbox": [
+      1232,
+      1162,
+      96,
+      71
+    ],
+    "reason": "原稿加諾實在上方另一標籤；本框附近另有□八加，首字密畫未定。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r122",
+    "action": "replace",
+    "before": "甘加位",
+    "after": "甘加池",
+    "source_bbox": [
+      1302,
+      1132,
+      121,
+      61
+    ],
+    "reason": "末字氵也可見，為池，非位。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r124",
+    "action": "replace",
+    "before": "儒島",
+    "after": "福島",
+    "source_bbox": [
+      1132,
+      1182,
+      121,
+      71
+    ],
+    "reason": "首字礻畐形，讀福，非儒。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r125",
+    "action": "remove",
+    "before": "□加",
+    "after": null,
+    "source_bbox": [
+      1237,
+      1187,
+      121,
+      76
+    ],
+    "reason": "框中心為空白及接縫，只在上緣重見r121，沒有獨立□加，移除此誤框。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r126",
+    "action": "replace",
+    "before": "默勒登",
+    "after": "默勒",
+    "source_bbox": [
+      1152,
+      1232,
+      146,
+      66
+    ],
+    "reason": "本標籤默勒兩字；登為左側另一單字，改由新增獨立單位記錄。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r127",
+    "action": "replace",
+    "before": "彼多傍",
+    "after": "彼多茂",
+    "source_bbox": [
+      1037,
+      1227,
+      126,
+      66
+    ],
+    "reason": "左端字艹與戊形近茂；保持彼多茂。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r128",
+    "action": "replace",
+    "before": "為□亞",
+    "after": "為居亞",
+    "source_bbox": [
+      1122,
+      1227,
+      61,
+      116
+    ],
+    "reason": "首字為形與中間尸古可見，讀為居亞；不依現代地名正規化。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r130",
+    "action": "replace",
+    "before": "白岬",
+    "after": "白峰",
+    "source_bbox": [
+      937,
+      1072,
+      66,
+      81
+    ],
+    "reason": "末字為山旁夆，讀峰，非岬；不改為山在上方的峯。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r131",
+    "action": "replace",
+    "before": "綠岬",
+    "after": "綠峰",
+    "source_bbox": [
+      937,
+      1162,
+      61,
+      101
+    ],
+    "reason": "末字雖有濃墨，山旁夆仍可見，讀峰，非岬。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r133",
+    "action": "replace",
+    "before": "奴蔑亞",
+    "after": "怒皮亞",
+    "source_bbox": [
+      1557,
+      1087,
+      76,
+      116
+    ],
+    "reason": "首字奴下心形，次字皮形，讀怒皮亞。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r134",
+    "action": "replace",
+    "before": "泥祿河",
+    "after": "泥洛河",
+    "source_bbox": [
+      1612,
+      1092,
+      76,
+      136
+    ],
+    "reason": "次字氵各形，讀洛，非祿。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r138",
+    "action": "replace",
+    "before": "亞刺亞",
+    "after": "亞剌亞",
+    "source_bbox": [
+      1807,
+      1057,
+      171,
+      71
+    ],
+    "reason": "次字束旁刂形，讀剌；與刺的差別以原筆形記錄。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r140",
+    "action": "replace",
+    "before": "濟□河",
+    "after": "□肚河",
+    "source_bbox": [
+      1500,
+      1350,
+      65,
+      105
+    ],
+    "reason": "原框錯落到亞字與河下段；依原稿的河名及框外同一標籤重新定位，不另重複新增。首字氵右密畫未定。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r141",
+    "action": "replace",
+    "before": "門沙反革",
+    "after": "阿沙皮革",
+    "source_bbox": [
+      1637,
+      1247,
+      71,
+      166
+    ],
+    "reason": "阿、沙、皮、革縱排可見，初稿門沙反革誤讀。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r145",
+    "action": "replace",
+    "before": "明山",
+    "after": "月山",
+    "source_bbox": [
+      1447,
+      1447,
+      86,
+      81
+    ],
+    "reason": "月字僅兩內橫，非明；後山清楚。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r146",
+    "action": "replace",
+    "before": "黑□山",
+    "after": "黑峯",
+    "source_bbox": [
+      1377,
+      1577,
+      81,
+      116
+    ],
+    "reason": "黑峰兩字可見；原稿多分缺字與山，改依完整標籤。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r148",
+    "action": "replace",
+    "before": "東南海",
+    "after": "西南海",
+    "source_bbox": [
+      1802,
+      1652,
+      66,
+      156
+    ],
+    "reason": "首字西形可見，非東。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r153",
+    "action": "replace",
+    "before": "墨",
+    "after": "□",
+    "source_bbox": [
+      2807,
+      1957,
+      81,
+      101
+    ],
+    "reason": "只剩靠裝訂邊的局部筆畫，不能可靠隸定為墨，改缺字。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r158",
+    "action": "replace",
+    "before": "□門",
+    "after": "種門",
+    "source_bbox": [
+      2347,
+      1317,
+      71,
+      96
+    ],
+    "reason": "首字禾旁重形，讀種。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r159",
+    "action": "replace",
+    "before": "荅剌",
+    "after": "荅刺",
+    "source_bbox": [
+      2322,
+      1322,
+      56,
+      81
+    ],
+    "reason": "末字與本頁其他刺寫法一致，按原寫刺。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r160",
+    "action": "replace",
+    "before": "爪哇",
+    "after": "瓜哇",
+    "source_bbox": [
+      2402,
+      1372,
+      131,
+      81
+    ],
+    "reason": "瓜的中間折筆及下部八形可見，非爪。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r190",
+    "action": "replace",
+    "before": "七十",
+    "after": "四十",
+    "source_bbox": [
+      1612,
+      1257,
+      81,
+      81
+    ],
+    "reason": "濃墨上部為四框而非七，依可見寫形讀四十。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r194",
+    "action": "replace",
+    "before": "一百",
+    "after": "百",
+    "source_bbox": [
+      1937,
+      1252,
+      86,
+      81
+    ],
+    "reason": "濃墨百字上橫為字的筆畫，未見可獨立確讀的一字，暫錄百並保留抹改疑問。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r195",
+    "action": "replace",
+    "before": "□十",
+    "after": "□",
+    "source_bbox": [
+      2007,
+      1252,
+      61,
+      81
+    ],
+    "reason": "局部抹改及多次書寫，讀法與字數未定，整段以未定長缺文記。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r207",
+    "action": "replace",
+    "before": "亞泥□國",
+    "after": "亞泥俺國",
+    "source_bbox": [
+      2887,
+      607,
+      113,
+      86
+    ],
+    "reason": "右至左亞泥俺國，俺亻與奄可見。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r209",
+    "action": "replace",
+    "before": "□□□",
+    "after": "□",
+    "source_bbox": [
+      2985,
+      700,
+      15,
+      135
+    ],
+    "reason": "位於影像裁斷邊，三字僅見部分筆畫，獨立稿多兒美列候選，不完整補入。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r210",
+    "action": "remove",
+    "before": "□",
+    "after": null,
+    "source_bbox": [
+      2980,
+      840,
+      20,
+      55
+    ],
+    "reason": "原框為海岸／海浪線，未見獨立字，移除誤作文字的框。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r214",
+    "action": "add",
+    "before": null,
+    "after": "加諾",
+    "source_bbox": [
+      1250,
+      1135,
+      110,
+      55
+    ],
+    "reason": "主代理看原生圖確認為獨立的加諾標籤；既有框未完整覆蓋。"
+  },
+  {
+    "canvas": "c025",
+    "id": "c025-r215",
+    "action": "add",
+    "before": null,
+    "after": "登",
+    "source_bbox": [
+      1140,
+      1215,
+      55,
+      60
+    ],
+    "reason": "主代理看原生圖確認為獨立的登標籤；既有框未完整覆蓋。"
+  }
+]

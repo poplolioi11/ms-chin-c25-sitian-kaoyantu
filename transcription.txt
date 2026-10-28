@@ -1,13 +1,13 @@
-司天考驗圖：影像初錄 v0.1.0（未獨立覆核）
+司天考驗圖：獨立 AI 二校研究稿 v0.2.0（保留疑字；未經人類專家審定）
 方括號導覽是新增標籤，非古籍正文。
 
 [c001 | Upper cover]
 [c001-r001 | title]
-司天考驗□
+司天考驗啚
 [c001-r002 | attribution]
 吳維鍔廉夫氏製
 [c001-r003 | library-note]
-544□
+544 d
 [c001-r004 | library-note]
 MS. Chin. C. 25
 
@@ -30,7 +30,7 @@ MS. Chin. C. 25
 [c005-r004 | seal]
 BODLEIAN LIBRARY
 [c005-r005 | seal]
-吳維鍔
+吳維鍔印
 [c005-r006 | seal]
 廉夫
 
@@ -44,7 +44,7 @@ BODLEIAN LIBRARY
 [c006-r004 | chart-label]
 玄枵次
 [c006-r005 | chart-label]
-吳越分揚
+吳越分楊
 [c006-r006 | chart-label]
 虛
 [c006-r007 | chart-label]
@@ -58,13 +58,13 @@ BODLEIAN LIBRARY
 [c006-r011 | chart-label]
 牛
 [c006-r012 | chart-label]
-十五度
+廿五度
 [c006-r013 | chart-label]
-壁
+危
 [c006-r014 | chart-label]
 衛分并
 [c006-r015 | chart-label]
-□
+敗臼
 [c006-r016 | chart-label]
 斗
 [c006-r017 | chart-label]
@@ -92,9 +92,9 @@ BODLEIAN LIBRARY
 [c006-r028 | chart-label]
 燕
 [c006-r029 | chart-label]
-□
+天海
 [c006-r030 | chart-label]
-十度
+十二度
 [c006-r031 | chart-label]
 趙
 [c006-r032 | chart-label]
@@ -114,7 +114,7 @@ BODLEIAN LIBRARY
 [c006-r039 | chart-label]
 魏
 [c006-r040 | chart-label]
-□
+八魁
 [c006-r041 | chart-label]
 箕
 [c006-r042 | chart-label]
@@ -122,15 +122,13 @@ BODLEIAN LIBRARY
 [c006-r043 | chart-label]
 楚
 [c006-r044 | chart-label]
-主道路關梁
+主道□□□
 [c006-r045 | chart-label]
 周
 [c006-r046 | chart-label]
 秦
 [c006-r047 | chart-label]
 哭
-[c006-r048 | chart-label]
-□
 [c006-r049 | chart-label]
 南越
 [c006-r050 | chart-label]
@@ -160,17 +158,15 @@ BODLEIAN LIBRARY
 [c006-r062 | chart-label]
 虛
 [c006-r063 | chart-label]
-司祿
+□
 [c006-r064 | chart-label]
 農丈人
 [c006-r065 | chart-label]
 墳墓
 [c006-r066 | chart-label]
-天籥
+天泉
 [c006-r067 | chart-label]
 虛梁
-[c006-r068 | chart-label]
-雲雨
 [c006-r069 | chart-label]
 司命
 [c006-r070 | chart-label]
@@ -182,7 +178,8 @@ BODLEIAN LIBRARY
 [c006-r073 | chart-label]
 斗
 [c006-r074 | chart-label]
-頓頑
+司危
+司祿
 [c006-r075 | chart-label]
 戌
 [c006-r076 | chart-label]
@@ -190,19 +187,17 @@ BODLEIAN LIBRARY
 [c006-r077 | chart-label]
 燕分幽
 [c006-r078 | chart-label]
-扶筐
+離珠
 [c006-r079 | chart-label]
 雷
 [c006-r080 | chart-label]
 霹靂
 [c006-r081 | chart-label]
 杵
-[c006-r082 | chart-label]
-天籥
 [c006-r083 | chart-label]
-雷
+電
 [c006-r084 | chart-label]
-漸臺
+左旗
 [c006-r085 | chart-label]
 魯分徐
 [c006-r086 | chart-label]
@@ -222,9 +217,9 @@ BODLEIAN LIBRARY
 [c006-r093 | chart-label]
 室
 [c006-r094 | chart-label]
-左旗
+右旗
 [c006-r095 | chart-label]
-織女
+敗瓜
 [c006-r096 | chart-label]
 瓠瓜
 [c006-r097 | chart-label]
@@ -234,7 +229,7 @@ BODLEIAN LIBRARY
 [c006-r099 | chart-label]
 糠皮
 [c006-r100 | chart-label]
-奎
+壁
 [c006-r101 | chart-label]
 杓
 [c006-r102 | chart-label]
@@ -250,7 +245,7 @@ BODLEIAN LIBRARY
 [c006-r107 | chart-label]
 外屏
 [c006-r108 | chart-label]
-騰蛇
+鈎陳
 [c006-r109 | chart-label]
 析木次
 [c006-r110 | chart-label]
@@ -262,11 +257,11 @@ BODLEIAN LIBRARY
 [c006-r113 | chart-label]
 車府
 [c006-r114 | chart-label]
-□
+天江
 [c006-r115 | chart-label]
 右更
 [c006-r116 | chart-label]
-十六度
+六度
 [c006-r117 | chart-label]
 龜
 [c006-r118 | chart-label]
@@ -276,65 +271,61 @@ BODLEIAN LIBRARY
 [c006-r120 | chart-label]
 造父
 [c006-r121 | chart-label]
-媵
+指
 [c006-r122 | chart-label]
-五車
+□
 [c006-r123 | chart-label]
-車肆
+市樓
 [c006-r124 | chart-label]
 神宮
 [c006-r125 | chart-label]
 候
 [c006-r126 | chart-label]
-河中
+中山
 [c006-r127 | chart-label]
 心
 [c006-r128 | chart-label]
-宗星
+宗
 [c006-r129 | chart-label]
 芻藁
 [c006-r130 | chart-label]
 □
 [c006-r131 | chart-label]
-河間
+九河
 [c006-r132 | chart-label]
-嬪
+頷
 [c006-r133 | chart-label]
 奚仲
 [c006-r134 | chart-label]
 □
 [c006-r135 | chart-label]
-□
-[c006-r136 | chart-label]
-帛度
+天人
 [c006-r137 | chart-label]
-奎
+婁
 [c006-r138 | chart-label]
 奎
 [c006-r139 | chart-label]
-□
+趙
 [c006-r140 | chart-label]
-天槍
-[c006-r141 | chart-label]
-魏
+織女
 [c006-r142 | chart-label]
 王良
 [c006-r143 | chart-label]
-晉
+魏
 [c006-r144 | chart-label]
 天廚
 [c006-r145 | chart-label]
-□
+漸臺
 [c006-r146 | chart-label]
 天囷
 [c006-r147 | chart-label]
 大梁次
 [c006-r148 | chart-label]
-貫索
+宦者
 [c006-r149 | chart-label]
 左更
 [c006-r150 | chart-label]
-屠肆
+車肆
 [c006-r151 | chart-label]
 十六度
 [c006-r152 | chart-label]
@@ -350,9 +341,7 @@ BODLEIAN LIBRARY
 [c006-r157 | chart-label]
 斛
 [c006-r158 | chart-label]
-太子
-[c006-r159 | chart-label]
-□
+天房
 [c006-r160 | chart-label]
 上衛
 [c006-r161 | chart-label]
@@ -370,17 +359,17 @@ BODLEIAN LIBRARY
 [c006-r167 | chart-label]
 罰
 [c006-r168 | chart-label]
-少輔
+輔
 [c006-r169 | chart-label]
 庶子
 [c006-r170 | chart-label]
 韓
 [c006-r171 | chart-label]
-上輔
+相
 [c006-r172 | chart-label]
 天苑
 [c006-r173 | chart-label]
-□
+上丞
 [c006-r174 | chart-label]
 河間
 [c006-r175 | chart-label]
@@ -416,19 +405,17 @@ BODLEIAN LIBRARY
 [c006-r190 | chart-label]
 酉
 [c006-r191 | chart-label]
-西咸
+天蔵
 [c006-r192 | chart-label]
 五尚書
 [c006-r193 | chart-label]
-御女
+四輔
 [c006-r194 | chart-label]
 七公
 [c006-r195 | chart-label]
 昴
 [c006-r196 | chart-label]
 宋分豫
-[c006-r197 | chart-label]
-天棓
 [c006-r198 | chart-label]
 六度
 [c006-r199 | chart-label]
@@ -442,7 +429,7 @@ BODLEIAN LIBRARY
 [c006-r203 | chart-label]
 上宰
 [c006-r204 | chart-label]
-天將軍
+積
 [c006-r205 | chart-label]
 從官
 [c006-r206 | chart-label]
@@ -450,11 +437,11 @@ BODLEIAN LIBRARY
 [c006-r207 | chart-label]
 天皇大帝
 [c006-r208 | chart-label]
-□
+卷舌
 [c006-r209 | chart-label]
-杠
+戈
 [c006-r210 | chart-label]
-□
+天讒
 [c006-r211 | chart-label]
 蜀
 [c006-r212 | chart-label]
@@ -472,11 +459,11 @@ BODLEIAN LIBRARY
 [c006-r218 | chart-label]
 巴
 [c006-r219 | chart-label]
-鉤陳
+大理
 [c006-r220 | chart-label]
-少丞
+三公
 [c006-r221 | chart-label]
-天樞
+太尊
 [c006-r222 | chart-label]
 秦
 [c006-r223 | chart-label]
@@ -486,11 +473,9 @@ BODLEIAN LIBRARY
 [c006-r225 | chart-label]
 房
 [c006-r226 | chart-label]
-天街
+天畢
 [c006-r227 | chart-label]
 大帝
-[c006-r228 | chart-label]
-三師
 [c006-r229 | chart-label]
 畢
 [c006-r230 | chart-label]
@@ -500,7 +485,7 @@ BODLEIAN LIBRARY
 [c006-r232 | chart-label]
 天輻
 [c006-r233 | chart-label]
-四輔
+□
 [c006-r234 | chart-label]
 陽德
 [c006-r235 | chart-label]
@@ -510,11 +495,11 @@ BODLEIAN LIBRARY
 [c006-r237 | chart-label]
 天乳
 [c006-r238 | chart-label]
-□
+礪石
 [c006-r239 | chart-label]
 附耳
 [c006-r240 | chart-label]
-□
+后宮
 [c006-r241 | chart-label]
 騎官二十七星
 [c006-r242 | chart-label]
@@ -526,7 +511,7 @@ BODLEIAN LIBRARY
 [c006-r245 | chart-label]
 陰德
 [c006-r246 | chart-label]
-上衛
+少尉
 [c006-r247 | chart-label]
 諸王
 [c006-r248 | chart-label]
@@ -546,7 +531,7 @@ BODLEIAN LIBRARY
 [c006-r255 | chart-label]
 權
 [c006-r256 | chart-label]
-氏
+氐
 [c006-r257 | chart-label]
 參旗
 [c006-r258 | chart-label]
@@ -554,27 +539,25 @@ BODLEIAN LIBRARY
 [c006-r259 | chart-label]
 上輔
 [c006-r260 | chart-label]
-天床
+□
 [c006-r261 | chart-label]
 五車
 [c006-r262 | chart-label]
-公尉
+尉
 [c006-r263 | chart-label]
 天園
 [c006-r264 | chart-label]
-十五度
+十六度
 [c006-r265 | chart-label]
-少宰
+□
 [c006-r266 | chart-label]
-大理
-[c006-r267 | chart-label]
-天理
+天牢
 [c006-r268 | chart-label]
 天乙
 [c006-r269 | chart-label]
 大角
 [c006-r270 | chart-label]
-右樞
+天乙
 [c006-r271 | chart-label]
 郎將
 [c006-r272 | chart-label]
@@ -587,16 +570,15 @@ BODLEIAN LIBRARY
 騎車將軍
 [c006-r276 | chart-label]
 司怪
-[c006-r277 | chart-label]
-輔
 [c006-r278 | chart-label]
 騎官
 [c006-r279 | chart-label]
 開陽
 [c006-r280 | chart-label]
-四勢
+天理
 [c006-r281 | chart-label]
-天門守相
+太陽守
+□相
 [c006-r282 | chart-label]
 咸池
 [c006-r283 | chart-label]
@@ -612,7 +594,7 @@ BODLEIAN LIBRARY
 [c006-r288 | chart-label]
 郎位
 [c006-r289 | chart-label]
-氏
+氐
 [c006-r290 | chart-label]
 搖光
 [c006-r291 | chart-label]
@@ -628,39 +610,31 @@ BODLEIAN LIBRARY
 [c006-r296 | chart-label]
 常陳
 [c006-r297 | chart-label]
-天關
-[c006-r298 | chart-label]
-□
+北河
 [c006-r299 | chart-label]
 參
 [c006-r300 | chart-label]
 鉞
 [c006-r301 | chart-label]
-十一度
+十六度
 [c006-r302 | chart-label]
 左攝提
 [c006-r303 | chart-label]
 實沈次
 [c006-r304 | chart-label]
-左上將
+上將
 [c006-r305 | chart-label]
-上宰
-[c006-r306 | chart-label]
-南河
-[c006-r307 | chart-label]
-下台
+上台
 [c006-r308 | chart-label]
 頓頑
 [c006-r309 | chart-label]
-上台
+宮
 [c006-r310 | chart-label]
 折威
 [c006-r311 | chart-label]
 中台
 [c006-r312 | chart-label]
 水府
-[c006-r313 | chart-label]
-積水
 [c006-r314 | chart-label]
 屏
 [c006-r315 | chart-label]
@@ -668,11 +642,11 @@ BODLEIAN LIBRARY
 [c006-r316 | chart-label]
 幸臣
 [c006-r317 | chart-label]
-左次將
+次將
 [c006-r318 | chart-label]
 太子
 [c006-r319 | chart-label]
-平道
+天田
 [c006-r320 | chart-label]
 鬼
 [c006-r321 | chart-label]
@@ -686,23 +660,21 @@ BODLEIAN LIBRARY
 [c006-r325 | chart-label]
 井
 [c006-r326 | chart-label]
-左次相
+次相
 [c006-r327 | chart-label]
 從官
 [c006-r328 | chart-label]
-水位
+天樽
 [c006-r329 | chart-label]
-大夫
+□
 [c006-r330 | chart-label]
 九度
 [c006-r331 | chart-label]
-廁
+厠
 [c006-r332 | chart-label]
-博士
-[c006-r333 | chart-label]
-議士
+□
 [c006-r334 | chart-label]
-長垣
+□
 [c006-r335 | chart-label]
 五帝座
 [c006-r336 | chart-label]
@@ -710,17 +682,15 @@ BODLEIAN LIBRARY
 [c006-r337 | chart-label]
 柱
 [c006-r338 | chart-label]
-參旗
+屎
 [c006-r339 | chart-label]
-左上相
+三公
 [c006-r340 | chart-label]
 少微
-[c006-r341 | chart-label]
-三公
 [c006-r342 | chart-label]
 角
 [c006-r343 | chart-label]
-西太陽門
+□
 [c006-r344 | chart-label]
 積尸氣
 [c006-r345 | chart-label]
@@ -736,9 +706,9 @@ BODLEIAN LIBRARY
 [c006-r350 | chart-label]
 柱
 [c006-r351 | chart-label]
-次將
+次相
 [c006-r352 | chart-label]
-平道
+天道
 [c006-r353 | chart-label]
 進賢
 [c006-r354 | chart-label]
@@ -748,7 +718,7 @@ BODLEIAN LIBRARY
 [c006-r356 | chart-label]
 天門
 [c006-r357 | chart-label]
-□
+闕丘
 [c006-r358 | chart-label]
 積薪
 [c006-r359 | chart-label]
@@ -762,19 +732,19 @@ BODLEIAN LIBRARY
 [c006-r363 | chart-label]
 端門
 [c006-r364 | chart-label]
-平道
+平星
 [c006-r365 | chart-label]
-□
+軒轅
 [c006-r366 | chart-label]
 鄭分兗
 [c006-r367 | chart-label]
-右掖門
+左執法
 [c006-r368 | chart-label]
 晉分益
 [c006-r369 | chart-label]
 靈臺
 [c006-r370 | chart-label]
-左掖門
+右執法
 [c006-r371 | chart-label]
 明堂
 [c006-r372 | chart-label]
@@ -786,13 +756,13 @@ BODLEIAN LIBRARY
 [c006-r375 | chart-label]
 柱
 [c006-r376 | chart-label]
-□
+少民
 [c006-r377 | chart-label]
-十二度
+十三度
 [c006-r378 | chart-label]
 丈人
 [c006-r379 | chart-label]
-太民
+大民
 [c006-r380 | chart-label]
 天狗
 [c006-r381 | chart-label]
@@ -801,8 +771,6 @@ BODLEIAN LIBRARY
 南門
 [c006-r383 | chart-label]
 子
-[c006-r384 | chart-label]
-戶
 [c006-r385 | chart-label]
 辰
 [c006-r386 | chart-label]
@@ -836,9 +804,9 @@ BODLEIAN LIBRARY
 [c006-r400 | chart-label]
 翼
 [c006-r401 | chart-label]
-鬼
+觜
 [c006-r402 | chart-label]
-六度
+十八度
 [c006-r403 | chart-label]
 天紀
 [c006-r404 | chart-label]
@@ -856,7 +824,7 @@ BODLEIAN LIBRARY
 [c006-r410 | chart-label]
 十一度
 [c006-r411 | chart-label]
-天柱
+天社
 [c006-r412 | chart-label]
 未
 [c006-r413 | chart-label]
@@ -874,7 +842,7 @@ BODLEIAN LIBRARY
 [c006-r419 | chart-label]
 井
 [c006-r420 | chart-label]
-三十四度
+卅四度
 [c006-r421 | chart-label]
 翼
 [c006-r422 | chart-label]
@@ -902,9 +870,35 @@ BODLEIAN LIBRARY
 [c006-r433 | chart-label]
 周分
 [c006-r434 | seal]
-形器先生
+□□□□
 [c006-r435 | library-note]
 □
+[c006-r436 | chart-label]
+天籥
+[c006-r437 | chart-label]
+河鼓
+[c006-r438 | chart-label]
+十一度
+[c006-r439 | chart-note]
+□
+[c006-r440 | chart-label]
+□
+[c006-r441 | chart-label]
+雲雨
+[c006-r442 | chart-note]
+□
+[c006-r443 | chart-label]
+宗人
+宗正
+[c006-r444 | chart-label]
+□
+[c006-r445 | chart-label]
+天床
+[c006-r446 | chart-label]
+內階
+內廚
+[c006-r447 | chart-label]
+天大將軍
 
 [c007 | fol. 2a]
 [c007-r001 | title]
@@ -922,7 +916,7 @@ BODLEIAN LIBRARY
 [c007-r007 | description]
 青黑微細天下多憂三公一星亡天下危二星亡天下亂
 [c007-r008 | description]
-三則易主太陽守動搖或不見兵起天□不明動搖或一
+三則易主太陽守動搖或不見兵起天棓不明動搖或一
 [c007-r009 | description]
 星不見兵起北斗俱暗國亡月暈動搖兵起元戈芒角
 [c007-r010 | description]
@@ -934,13 +928,13 @@ BODLEIAN LIBRARY
 [c007-r013 | chart-label]
 內階
 [c007-r014 | chart-label]
-內廚
+內厨
 [c007-r015 | chart-label]
-天廚
+天厨
 [c007-r016 | chart-label]
 上丞
 [c007-r017 | chart-label]
-華蓋
+華盖
 [c007-r018 | chart-label]
 少丞
 [c007-r019 | chart-label]
@@ -962,11 +956,11 @@ BODLEIAN LIBRARY
 [c007-r027 | chart-label]
 三師
 [c007-r028 | chart-label]
-天床
+天牢
 [c007-r029 | chart-label]
 天皇大帝
 [c007-r030 | chart-label]
-天戈
+女史
 [c007-r031 | chart-label]
 柱史
 [c007-r032 | chart-label]
@@ -978,19 +972,19 @@ BODLEIAN LIBRARY
 [c007-r035 | chart-label]
 天樞北極
 [c007-r036 | chart-label]
-鉤陳
+勾陳
 [c007-r037 | chart-label]
 少輔
 [c007-r038 | chart-label]
 樞
 [c007-r039 | chart-label]
-璇
+旋
 [c007-r040 | chart-label]
 天理
 [c007-r041 | chart-label]
 四勢
 [c007-r042 | chart-label]
-仙紐
+后宮
 [c007-r043 | chart-label]
 庶子
 [c007-r044 | chart-label]
@@ -1006,13 +1000,14 @@ BODLEIAN LIBRARY
 [c007-r049 | chart-label]
 衡
 [c007-r050 | chart-label]
-天門陰陽守相
+大陽守
+宰相
 [c007-r051 | chart-label]
 五尚書
 [c007-r052 | chart-label]
 上輔
 [c007-r053 | chart-label]
-太理
+大理
 [c007-r054 | chart-label]
 少宰
 [c007-r055 | chart-label]
@@ -1036,11 +1031,11 @@ BODLEIAN LIBRARY
 [c007-r064 | chart-label]
 輔
 [c007-r065 | chart-label]
-天矛
+三公
 [c007-r066 | chart-label]
 搖光
 [c007-r067 | chart-label]
-天□
+天棓
 [c007-r068 | chart-label]
 左樞
 [c007-r069 | chart-label]
@@ -1054,23 +1049,23 @@ BODLEIAN LIBRARY
 [c008-r002 | seal]
 形器先生
 [c008-r003 | description]
-上元天庭太微宮昭□列象左蒼穹端門只是門之中左右
+上元天庭太微宮昭〻列象左蒼穹端門只是門之中左右
 [c008-r004 | description]
 執法門西東門左皂衣一謁者以次即是烏三公三星九卿
 [c008-r005 | description]
 公背傍五黑諸侯卿后行四個門西主軒屏五帝內座居中
 [c008-r006 | description]
-正幸臣太子并從官烏列帝後注東宮即將居東傍左右常
+正幸臣太子并從官烏列帝後注東宮郎將居東傍左右常
 [c008-r007 | description]
-陳即位居其後常陳七星不相誤即位陳東一十五兩面宮
+陳郎位居其後常陳七星不相誤郎位陳東一十五兩面宮
 [c008-r008 | description]
-垣十星布左右執法星其數當分明當布正宮三人夷臺候
+垣十星布左右執法是其數宮外明堂布正宮三個靈臺候
 [c008-r009 | description]
-星兩少微四星西南隅長垣雙〃微西屏北門西外橫三台
+雲雨少微四星西南隅長垣雙〻微西居北門西外橫三台
 [c008-r010 | description]
-與垣相對無兵災五帝座動搖移徙則天子失位太子
+與垣相對無兵灾五帝座動搖移徙則天子失位太子
 [c008-r011 | description]
-星金火守犯必有篡逆卿將芒角將起不可當席黃變色
+星金火守犯必有篡逆郎將芒角將起不可當帛黃變色
 [c008-r012 | description]
 或動搖則兵車大動長垣動搖色變則邊臣不安
 [c008-r013 | chart-label]
@@ -1120,7 +1115,7 @@ BODLEIAN LIBRARY
 [c008-r035 | chart-label]
 五帝座
 [c008-r036 | chart-label]
-五諸侯
+五□侯
 [c008-r037 | chart-label]
 三公
 [c008-r038 | chart-label]
@@ -1153,6 +1148,8 @@ BODLEIAN LIBRARY
 明堂
 [c008-r052 | chart-label]
 靈臺
+[c008-r053 | chart-label]
+□
 
 [c009 | fol. 3a]
 [c009-r001 | title]
@@ -1161,26 +1158,24 @@ BODLEIAN LIBRARY
 3
 [c009-r003 | seal]
 形器先生
-[c009-r004 | seal]
-□
 [c009-r005 | description]
-下元一宮名天市兩扇垣墻二十二當門六個黑市樓門左
+下元一宮名天市兩扇垣牆二十二當門六个黑市樓門左
 [c009-r006 | description]
-兩星是車肆兩個宗正四宗人宗星一雙上依次帛度兩星
+兩星是車肆兩个宗正四宗人宗星一双上依次帛度兩星
 [c009-r007 | description]
-屠肆前候星還左帝座邊帝座一星常光明四個微茫宦者
+屠肆前侯星還左帝座邊帝座一星常光明四个微芒宦者
 [c009-r008 | description]
-星以次兩星名列肆斗斛帝前居其次斗是五星斛是四柩
+星以次兩星名列肆斗斛帝前居其次斗是五星斛是四□
 [c009-r009 | description]
-北九個貫索星索口橫與七公成天紀恰似七公形數著多
+北九个貫索星索口橫與七公成天紀恰似七公形數著分
 [c009-r010 | description]
-明多兩星犯北三星名女床此座遙依織女傍三光〃蒙昏
+明多兩星紀北三星名女床此座遙依織女傍三光了象互
 [c009-r011 | description]
 相侵二十八宿雁其明水火木金并及土以次別有每門分
 [c009-r012 | description]
-市中星稀則歲虛彗星出移市易都斗不明則五穀不
+市中星稀則歲虛客星出徙市易都斗不明則五穀不
 [c009-r013 | description]
-登仰則大饑七公連貫索則天下亂入河中則未必貴人相
+登仰則大飢七公連貫索則天下亂入河中則水災貴人相
 [c009-r014 | description]
 食
 [c009-r015 | chart-label]
@@ -1196,7 +1191,7 @@ BODLEIAN LIBRARY
 [c009-r020 | chart-label]
 九河
 [c009-r021 | chart-label]
-燕
+趙
 [c009-r022 | chart-label]
 魏
 [c009-r023 | chart-label]
@@ -1224,7 +1219,7 @@ BODLEIAN LIBRARY
 [c009-r034 | chart-label]
 帝座
 [c009-r035 | chart-label]
-候
+侯
 [c009-r036 | chart-label]
 斗
 [c009-r037 | chart-label]
@@ -1260,7 +1255,7 @@ BODLEIAN LIBRARY
 [c009-r052 | chart-label]
 南海
 [c009-r053 | chart-label]
-越
+燕
 
 [c010 | fol. 3b]
 [c010-r001 | title]
@@ -1270,29 +1265,29 @@ BODLEIAN LIBRARY
 [c010-r003 | seal]
 形器先生
 [c010-r004 | description]
-兩星南北正直看中有平道上天田沿上三星兩相連別有一烏名進賢平道右畔
+兩星南北正直看中有平道上天田隱之黑星兩相連別有一烏名進賢平道右畔
 [c010-r005 | description]
-□南柱高上三星周鼎形角下天門左右平星雙〃橫子庫樓上庫樓十星屈曲
+獨清□最上三星周鼎形角下天門左右星双〻橫于庫樓上庫樓十星屈曲
 [c010-r006 | description]
-明樓中五柱十五點二三相連如將形其中四星別名衡南門外有兩星橫角星
+明樓中五柱十五點二三相連如鼎形其中四星別名衡南門外有兩星橫　角星
 [c010-r007 | description]
-左足號華蓋星其宿只二星纏十二度金壽星〃次位居天秤兗州鄭國分次左
+左尺号華盖星其宿只二星纏十二度全壽星之次位居天秤兖州鄭國分野左
 [c010-r008 | description]
-地居水中北角犯又角宿彗芒則天下亂不見國易政天門不見則兵革起天田金守〃
+地居水中狀角犯之角宿垂芒則天下亂不見國易政天門不見則兵革起天田金守之
 [c010-r009 | description]
-主兵□守〃主旱水守〃主倍女穀木守〃豐登庫樓明大而芒有出兵起庫樓
+主兵火守之主旱水守之主傷禾穀木守之豐登庫樓明大而芒角出兵起庫樓
 [c010-r010 | description]
-空星則天下治及女柱生角多芒則兵合不見兵車起出南門暗則夷狄畔客星守〃
+□星則天下治反女柱生角多芒則兵合不見兵車悉出南門暗則夷狄畔客星守之
 [c010-r011 | description]
 兵凶
 [c010-r012 | description]
 四星恰似彎弓狀大角一星直上明折威七子亢下橫大角
 [c010-r013 | description]
-左右攝提星三〃相如鼎形折威下左頓頑星兩個斜安
+左右攝提星三〻相如鼎形折威下左頓頑星兩个斜曲
 [c010-r014 | description]
-若色精赤西二星芒陽門色若□淚直下看亢秋分不見
+若色精頑西二星号陽門色若頓頑直下存　亢秋分不見
 [c010-r015 | description]
-五穀俱傷月暈兵起陽門動搖移徙則邊地有警
+五穀俱傷月暈兵起　陽門動揺移徙則邊地有警
 [c010-r016 | chart-label]
 周鼎
 [c010-r017 | chart-label]
@@ -1340,7 +1335,7 @@ BODLEIAN LIBRARY
 
 [c011 | fol. 4a]
 [c011-r001 | title]
-氏宿圖
+氐宿圖
 [c011-r002 | title]
 房宿圖
 [c011-r003 | library-note]
@@ -1348,29 +1343,29 @@ BODLEIAN LIBRARY
 [c011-r004 | seal]
 形器先生
 [c011-r005 | seal]
-□
+□□□□
 [c011-r006 | description]
-四星似斗側量米天乳氏上黑一星
+四星似斗側量來天乳氐上黑一星
 [c011-r007 | description]
-世人不識稱無名一個招搖梗河上
+世人不識稱無名一个招搖梗河上
 [c011-r008 | description]
-梗河橫列三星狀帝席三星河之西亢池六星近橫柱氐下
+梗河橫列三星狀帝席三星河之西亢池六星近攝提氐下
 [c011-r009 | description]
-東星騎官出騎官〃串二十七〃〃相連十欠一陣車氐下
+衆星騎官出騎官〻□二十七〻〻相連十欠一陣車氐下
 [c011-r010 | description]
-騎官次騎官〃下三車騎天輻兩星立陣帝將軍陣裡振威
+騎官次騎官之下三車騎天輻兩星立陣旁將軍陣裡振威
 [c011-r011 | description]
-霜彗犯氏暴兵具招搖芒兵起芒角刺兵起梗河芒角動
+霜　彗犯氐暴兵具招搖亡兵起芒角胡兵起梗河芒角動
 [c011-r012 | description]
-搖邊兵起騎官芒角動搖兵大起
+搖迎兵起騎官芒角動揺兵大起
 [c011-r013 | description]
-四星直下主明堂鍵閉一橫斜向上鈎鈐兩個近其旁罰有
+四星直下主明堂鍵閉一橫斜向上鈎鈐兩个近其旁罰有
 [c011-r014 | description]
-三星直鍵上兩咸夾罰似房狀房西一星號從日從星兩個
+三星直鍵上兩咸夾罰似房狀房西一星号落日從星兩个
 [c011-r015 | description]
-房下出房星離析則人流亡則兵大起兩咸脫則凶火
+房下出　房星離折則人流亡則兵大起　兩咸脹則凶火
 [c011-r016 | description]
-守〃兵起日星金火守犯〃君有憂
+守之兵起　日星金火守犯之君有憂
 [c011-r017 | chart-label]
 招搖
 [c011-r018 | chart-label]
@@ -1380,7 +1375,7 @@ BODLEIAN LIBRARY
 [c011-r020 | chart-label]
 亢池
 [c011-r021 | chart-label]
-氏
+氐
 [c011-r022 | chart-label]
 天乳
 [c011-r023 | chart-label]
@@ -1406,7 +1401,7 @@ BODLEIAN LIBRARY
 [c011-r033 | chart-label]
 日
 [c011-r034 | chart-label]
-鉤鈐
+鈎鈐
 [c011-r035 | chart-label]
 房
 [c011-r036 | chart-label]
@@ -1420,19 +1415,20 @@ BODLEIAN LIBRARY
 [c012-r003 | seal]
 形器先生
 [c012-r004 | description]
-三星中央色最深東西太庶中帝星下有積卒共十二〃〃〃
+三星中央色最深東西太庶中帝星下有積卒共十二三〻
 [c012-r005 | description]
-相聚心下是心宿移徙不見國亡日月蝕兵喪尺起月暈
+相聚心下是　心宿移徙不見國亡日月蝕兵喪尺起月暈
 [c012-r006 | description]
-兵起孛犯兵荒積卒亡一二兵起尺亡兵俱出
+兵起孛犯兵荒　積卒亡一二兵起尺亡兵俱出
 [c012-r007 | description]
-九星如鉤蒼龍形下頭東頭龜星尾上天江四橫星尾東一個名傅說傅說東邊一魚子尾西一室是神
+九星如鈎蒼龍形下頭東号龜星尾上天江四□立尾東一个名傅說傅說東邊一魚子尾西一室是神
 [c012-r008 | description]
-宮此□列在後妃中尾動天下亂就聚則大水月暈及水星犯〃則后妃死日月蝕主饑色
+宮所以列在后妃中　尾動天下亂就聚則大水月暈及水星犯之則后妃死日月蝕主飢　龜
 [c012-r009 | description]
-昏六州赤地千里天江赤大則水災居中高則兵起人死魚子搖動大水
+星六則赤地千里　天江赤大則水災居中河則兵起人死　魚子搖動大水
 [c012-r010 | chart-label]
-心大辰
+心
+大辰
 [c012-r011 | chart-label]
 帝
 [c012-r012 | chart-label]
@@ -1444,9 +1440,9 @@ BODLEIAN LIBRARY
 [c012-r015 | chart-label]
 天江
 [c012-r016 | chart-label]
-妻
+妾
 [c012-r017 | chart-label]
-後妃
+后妃
 [c012-r018 | chart-label]
 神宮
 [c012-r019 | chart-label]
@@ -1478,27 +1474,27 @@ BODLEIAN LIBRARY
 [c013-r004 | seal]
 形器先生
 [c013-r005 | description]
-四星形狀如簸箕〃下三星名木杵箕前□星是糠皮箕疏暗
+四星形狀如簸箕之下三星名木杵箕前万星号糠皮箕疏暗
 [c013-r006 | description]
-則國亂前三星名舌動則大臣不忠三口中向口后人相食月宿
+則國亂前二星為舌動則大風不出三日中有白□人相食月宿
 [c013-r007 | description]
-箕野旱起月暈大旱火犯〃兵起杵藏則歲凶糠暗主饑
+箕野兵起月暈大風火犯之兵起杵藏則歲凶糠暗主飢
 [c013-r008 | description]
-六星形狀如北拈魁上建星三相對天弁連〃三復〃九下圓安十四
+六星形狀如北拈魁上建星三相對天弁連之三復三九下圓安十四
 [c013-r009 | description]
-星斛魁名鼈貫索形天雞建背雙黑星天籥柄前八黃精狗國四方雞
+星確狀名鱉貫索形天雞建背双黑星天禽柄前八黃精狗國四方□
 [c013-r010 | description]
-下生天淵十星鼈東邊更〃兩狗斗魁前農家丈人斗下眠天淵十黃
+下生天淵十星鱉東邊更之兩狗斗魁前農家丈人斗下眠天淵十黃
 [c013-r011 | description]
-狗色黃斗芒角動搖天下兵亂日月五星逆入斗天下流管女子死〃
+狗色黃　斗芒角動揺天下兵亂日月五星逆入斗天下流□孛犯之
 [c013-r012 | description]
-兵起建〃者天下亂動搖則民勞日蝕及五星犯守有大水天弁不明五穀
+兵起建星者天下亂動揺則民勞日御及五星犯守有大水天弁不明五穀
 [c013-r013 | description]
-不成月白星彗孛犯〃群貴兵起天狗不居常處為大災天雞動搖
+不成□星□孛犯之守之群貴兵起天狗不居常處為大災天雞動揺
 [c013-r014 | description]
-大水金火守〃兵起土犯〃民流亡狗國星明則天下多盜賊邊寇作農丈人暗
+大水金火守兵起土犯之民流亡狗國星明則天下多盗賊邊寇作農丈人暗
 [c013-r015 | description]
-似天淵火守〃大旱水守〃大水火入鼈天下大水去則旱天籥君星彗孛守犯
+飢天淵火守之大旱水守之大水火入鱉天下大水去則旱天禽君星□孛守犯
 [c013-r016 | description]
 則道路不通
 [c013-r017 | chart-label]
@@ -1518,11 +1514,11 @@ BODLEIAN LIBRARY
 [c013-r024 | chart-label]
 建
 [c013-r025 | chart-label]
-天籥
+天梁
 [c013-r026 | chart-label]
 天相
 [c013-r027 | chart-label]
-天籥
+天禽
 [c013-r028 | chart-label]
 天雞
 [c013-r029 | chart-label]
@@ -1530,7 +1526,7 @@ BODLEIAN LIBRARY
 [c013-r030 | chart-label]
 狗國
 [c013-r031 | chart-label]
-鼈
+鱉
 [c013-r032 | chart-label]
 農丈人
 [c013-r033 | chart-label]
@@ -1544,21 +1540,21 @@ BODLEIAN LIBRARY
 [c014-r003 | seal]
 形器先生
 [c014-r004 | description]
-六星近在河岸頭三□弦右六角腹下隱來欠一脚牛下九黑是天田之下三〃九坎連牛上直建三河鼓〃上三星號織女左旗右旗
+六星近在河岸頭〻上雖□右个角腹下從來欠一脚牛下九黑是天田〻下三〻九坎連牛上直建三河鼓〻上三星号織女左旗右旗
 [c014-r005 | description]
-各九星河鼓兩畔左右旁名天桴雍抱三烏牛東居漸臺四星十口形輦道東□連五星輦道漸臺在何畔河向見
+各九星河鼓兩畔□近河更有四黃名天桴羅堰三烏牛東居漸臺四星十口形輦道東似連五星輦道漸臺在河□欲向見
 [c014-r006 | description]
-時近織女斗不明五穀不成金□犯〃兵哭九坎明芒有水災彗孛侵近河鼓動移差度亂兵起方旗右旗動搖兵
+時近織女　牛不明五穀不成金火犯〻兵失九坎明芒有水災彗孛侵近河鼓動移差度亂兵起方旗右旗動搖兵
 [c014-r007 | description]
-起織女不見兵起天桴移近河鼓主軍鼓用天籥暗星明大主大水
+起織女不見兵起天桴移近河鼓主軍鼓用凶羅堰星明大主大水
 [c014-r008 | description]
-四星如箕主嫁娶十二諸國在下陳先從越國向東泊東西二周次三秦雍州南下安雁門代北又向西畢韓魏各一此皆
+四星如箕主嫁娶十二諸國在下陳先從越國向東行東西二周次三秦雍州南下安雁門代地又向西晉伸韓魏各一皆
 [c014-r009 | description]
-比輪挨了二國魏西四星□畢陽羨星〃垣西一鄭是齊隣看此兩邑平原居欲知鄭在越下存十六黃小星河匝分五個
+比輪替十二國魏西□畔獨□四□西一□旁陳者比兩邑平原居欲知却在越下存十六黑星□分五个
 [c014-r010 | description]
-離珠女上星敗瓜珠上瓠瓜星兩個各五敗瓠瓜天津九個彈弓形兩星入牛河中橫□六奚仲天津上七個仲側柱匡星
+離珠女上星敗瓜珠上瓠瓜星兩个各五敗瓠瓜天津九个彈弓形兩星入牛河中橫四个奚仲天津上七个仲側扶筐星
 [c014-r011 | description]
-水來守女萬物不成天津明動則兵紛起人多死金□犯奚仲兵起星氣入大水
+水來守女萬物不成天津明動則兵紛起人多死金火犯奚仲兵起星氣入大水
 [c014-r012 | chart-label]
 輦道
 [c014-r013 | chart-label]
@@ -1578,7 +1574,7 @@ BODLEIAN LIBRARY
 [c014-r020 | chart-label]
 牛
 [c014-r021 | chart-label]
-主道路關其
+主道路關果
 [c014-r022 | chart-label]
 南越
 [c014-r023 | chart-label]
@@ -1604,7 +1600,7 @@ BODLEIAN LIBRARY
 [c014-r033 | chart-label]
 主珠玉
 [c014-r034 | chart-label]
-主羅綾
+主羅紋
 [c014-r035 | chart-label]
 秦
 [c014-r036 | chart-label]
@@ -1640,19 +1636,19 @@ BODLEIAN LIBRARY
 [c015-r004 | seal]
 形器先生
 [c015-r005 | description]
-上下各一如聯珠命祿危非虛上呈虛危之下哭泣星哭泣雙〃下壘城天壘圓〃十三星敗臼四星
+上下各一如聯珠命祿危非虛上星虛危之下哭泣星哭泣双〻下壘城天壘團〻十三星敗臼四星
 [c015-r006 | description]
-城下橫臼西兩下離瑜明虛不明天下旱日月蝕兵起四司大明則〃下人災敗臼大動搖人悲苦
+城下橫臼西兩下離瑜明　虛不明天下旱日月蝕兵起四司大明則□下人災敗臼大動搖人悲苦
 [c015-r007 | description]
 多死喪
 [c015-r008 | description]
-三星不直舊先如危上五黑號人星人畔三四杵臼用人上七烏星車府〃上天鈎九黃精鉤下女
+三星不直旧先如危上五黑号人星人畔三四杵臼形人上七烏星車府〻上天鈎九黃精鈎下女
 [c015-r009 | description]
-醜字造父危下四星號墳墓〃下四星斜虛梁十八天錢梁下黃墓旁兩星斛蓋屋身著黑
+醜字造父危下四星号墳墓〻下四星斜虛果十个天錢果下黃墓旁兩星紙蓋屋身著黑
 [c015-r010 | description]
-衣危下宿□守危兵起地震金守〃饑饉墳墓明則天下多死喪虛梁金火守犯兵災大
+衣危下宿　大守危兵起地震金守之飢饉墳墓明則天下多死喪虛果金火守犯兵災大
 [c015-r011 | description]
-起杵臼傾覆則饑動人壽屋毀車府動兵車出造父移兵起
+起杵臼傾覆則飢動人壽屋顛車府動兵車出造父移兵起
 [c015-r012 | chart-label]
 司非
 [c015-r013 | chart-label]
@@ -1686,11 +1682,11 @@ BODLEIAN LIBRARY
 [c015-r027 | chart-label]
 危
 [c015-r028 | chart-label]
-墳墓
+攻墓
 [c015-r029 | chart-label]
 蓋屋
 [c015-r030 | chart-label]
-虛梁
+虛果
 [c015-r031 | chart-label]
 天錢
 
@@ -1698,27 +1694,27 @@ BODLEIAN LIBRARY
 [c016-r001 | title]
 室宿圖
 [c016-r002 | description]
-兩星上有離宮出度營三雙有六星下□六个雷電形壘壁陣次十二星十二兩頭大如井陣下分布羽林
+兩星上有離宮出遶宮三双有六星下頭六个雷電形壘壁陣次十二星十二兩頭大如井陣下分布羽林
 [c016-r003 | description]
-軍□十五卒三方躔軍西□星多難識子田□六音區分三粒黃金名鐵鉞一顆珍珠落北門東一魁九
+軍四十五卒三為群軍西四星多難論子細認之看區分三粒黃金名鉄鉞一顆珍珠落北門〻東八魁九
 [c016-r004 | description]
-个子門西一宿天綱星電穿兩星主□旱騰蛇空主二十二營宮不明國多疾□芒角有丘墳金火守之
+个子門西下宿天綱星電旁兩星土公吏螣蛇室上二十二　營室不明國多疾疫芒角有兵疫金火守〻
 [c016-r005 | description]
-丘起羽林軍不見兵大出杵落芒角動搖兵起壘壁軍不具兵卷出天下亂金火水星入天軍皆兵
+兵起羽林軍不見兵大出北落芒角動搖兵起壘壁軍不具兵革出天下亂金火水星入天軍皆兵
 [c016-r006 | description]
-起金火守犯八魁兵大起騰蛇從南兵起從北則大水
+起金火守犯八魁兵大起螣蛇徙南兵起徙北則大水
 [c016-r007 | title]
 壁宿圖
 [c016-r008 | description]
-兩星下頭是霹靂霹靂五星橫看門雲雨次下口四方涯上天廐十圓黃併橫五
+兩星下頭是霹靂霹靂五星橫看□雲雨次下口四方壁上天廐十圓黃鉄鑕五
 [c016-r009 | description]
-星羽林旁土公兩星屋下藏五星守犯東壁兵起雲雨星明則雨水少守之旱燥
+星羽林旁土公兩星壁下藏五星守犯東壁兵起雲雨星明則雨水少守之旱潦
 [c016-r010 | seal]
-□□□□
+□□□生
 [c016-r011 | chart-label]
 天廐
 [c016-r012 | chart-label]
-騰蛇
+螣蛇
 [c016-r013 | chart-label]
 壁
 [c016-r014 | chart-label]
@@ -1740,11 +1736,11 @@ BODLEIAN LIBRARY
 [c016-r022 | chart-label]
 羽林軍
 [c016-r023 | chart-label]
-土公吏
+主工吏
 [c016-r024 | chart-label]
 雲雨
 [c016-r025 | chart-label]
-鈇鑕
+鉄鑕
 [c016-r026 | chart-label]
 八魁
 [c016-r027 | chart-label]
@@ -1752,7 +1748,7 @@ BODLEIAN LIBRARY
 [c016-r028 | chart-label]
 天綱
 [c016-r029 | chart-label]
-鐵鉞
+鐵鉄
 
 [c017 | fol. 7a]
 [c017-r001 | library-note]
@@ -1760,27 +1756,27 @@ BODLEIAN LIBRARY
 [c017-r002 | title]
 奎宿圖
 [c017-r003 | description]
-腰細頭尖似破鞋十六星遶鞋生外屏七星奎下橫屏外七宿天溷明司空左畔土之
+腰細頭尖似破鞋一十六星遶鞋生外屏七星奎下橫屏外七宿天溷明司空左畔土之
 [c017-r004 | description]
 精奎上一星軍南門河中一个閣道形附路一星道旁明五个吐花王良星良星
 [c017-r005 | description]
-邊上一策存奎宿芒角動搖國又用兵中小星明則天下大水土司空微
+近上一策存　奎宿芒角動搖國又用兵中小星明則天下大水　土司空微
 [c017-r006 | description]
-將有旱災軍南門不見則天下兵亂附路亡則道路塞車騎滿路
+暗有星災　軍南門不見則天下兵亂附路亡則道路塞車騎滿路
 [c017-r007 | description]
 王良移則多兵
 [c017-r008 | title]
-婁宿圖
+娄宿圖
 [c017-r009 | description]
-三星不勾近一頭右更左更烏夾婁天倉六个婁下頭天庾
+三星不勾近一頭右更左更烏夾娄天倉六个娄下頭天庾
 [c017-r010 | description]
-三星倉東脚婁上十一將軍侯婁宿直□急兵就衆國大
+三星倉東脚娄上十一將軍候　娄宿見多急兵就聚國大
 [c017-r011 | description]
-亂后出走天倉連穀廛耗陪小動大將軍不明動搖則
+亂君出走　天倉遠穀□耗暗小動　大將軍不明動搖則
 [c017-r012 | description]
 天下兵起
 [c017-r013 | seal]
-□□□□
+□□□生
 [c017-r014 | chart-label]
 閣道
 [c017-r015 | chart-label]
@@ -1796,7 +1792,7 @@ BODLEIAN LIBRARY
 [c017-r020 | chart-label]
 王兵
 [c017-r021 | chart-label]
-婁
+娄
 [c017-r022 | chart-label]
 左更
 [c017-r023 | chart-label]
@@ -1818,29 +1814,29 @@ BODLEIAN LIBRARY
 [c018-r001 | title]
 胃宿圖
 [c018-r002 | description]
-三星鼎足河之次天廩胃東斜四星天囷十三如乙形河中
+三星鼎足河〻次天廩胃東斜四星天囷十三如乙形河中
 [c018-r003 | description]
-八星名大陵之北九个天船名陵中積尸一个星積水船中
+八星名大陵〻北九个天船名陵中積尸一个星積水船中
 [c018-r004 | description]
-一黑星胃星亡則兵起芒角兵起天廩變色則廩粟腐
+一黑星　胃星亡則兵起芒角兵起　天廩變色則廩粟腐
 [c018-r005 | description]
-五星入天囷天下兵起國儲□發大陵就聚死人如麻
+五星入天囷天下兵起國儲尺發　大陵就聚死人如麻
 [c018-r006 | description]
 積尸明人多死
 [c018-r007 | title]
 昴宿圖
 [c018-r008 | description]
-七星一聚實不少河西月東各一星月下五黃天陰精陰下六个蒭藳營之南十六
+七星一聚實不少河西月東各一星月下五黃天陰精陰下六个芻藁營〻南十六
 [c018-r009 | description]
-天苑形向內六星名卷舌中黑點名天讒砺石舌旁斜四丁昴宿昴旄頭胡星聚明而數動
+天苑形河內六星名卷舌□中里黑名天讒礪石舌旁斜四丁　昴宿即旄頭胡星聚明而數動
 [c018-r010 | description]
-則胡兵大起六星明與大星等天下大水七星皆明而黃則兵大起辰動若跳躍□胡
+則胡兵大起六星明与大星等天下大水七星皆明而黃則兵大起尺動若跳躍□胡
 [c018-r011 | description]
-兵大起也卷舌彗孛入赦兇良客星孛兵起砺石明則兵起金火客星守之兵動
+兵大起凶卷舌彗字入殺忠良客星孛兵起　砺石明則兵起金火客星守之兵動
 [c018-r012 | description]
-蒭藳不明及中星稀則歲不登庫藏耗
+芻藁不明及中星稀則岁不登庫藏耗
 [c018-r013 | seal]
-□□□□
+□□□生
 [c018-r014 | chart-label]
 積水
 [c018-r015 | chart-label]
@@ -1852,7 +1848,7 @@ BODLEIAN LIBRARY
 [c018-r018 | chart-label]
 砺石
 [c018-r019 | chart-label]
-天讒
+天衣
 [c018-r020 | chart-label]
 積尸
 [c018-r021 | chart-label]
@@ -1872,7 +1868,7 @@ BODLEIAN LIBRARY
 [c018-r028 | chart-label]
 天廩
 [c018-r029 | chart-label]
-蒭藳
+芻藁
 
 [c019 | fol. 8a]
 [c019-r001 | library-note]
@@ -1882,23 +1878,23 @@ BODLEIAN LIBRARY
 [c019-r003 | description]
 六畢如爪
 [c019-r004 | description]
-恰似爪八星生附耳畢傍一星光天街兩星畢背旁天節畢下□憧畢上橫列六諸王之下四个天高星節下團
+恰似爪八星生附耳畢股一星光天街兩星畢背旁天節耳下□憧畢上横列六諸王之下四个天高星節下圓
 [c019-r005 | description]
-圓九州城畢口斜對五車口車有三柱任縱橫車上五个天潢精潢畔咸池三黑星天關一星車脚邊參旗九
+圓九州城畢口斜對五車口車有三柱任縱横車上五个天潢精潢畔咸池三黑□天關一星車脚邊參旗九
 [c019-r006 | description]
-个參車前旗下直建九旒連旒下十二烏天園畢失色兵亂附耳動兵起天街暗兵起珠口三等不見天亂金入守之九州
+个參車前旗下直建九斿連斿下十二烏天園畢失色邊兵亂附耳動兵起天街暗兵起珠口三星不見大亂金火守之九州
 [c019-r007 | description]
-兵起柱星不明四方兵起天關亡兵起五車動搖變色國有兵火入守天下旱金入守兵起水入月星右赦參旗明曲烏
+兵起諸王不明四方兵起天關七兵起五車動搖變色國有兵火入守天下旱金入守兵起水入月暈右散參旗明曲如□
 [c019-r008 | description]
-弓天下兵大起九旒搖動兵起
+弓天下兵大起九斿搖動兵起
 [c019-r009 | title]
 觜宿圖
 [c019-r010 | description]
-三星相近作參蕊觜上坐旗直指天子畢之傍九相連司怪
+三星相近作參蕋觜上生旗直指天弓畢之後九相連司怪
 [c019-r011 | description]
-曲立坐旗邊四鴉大近井鉞前觜宿五星守犯主兵災
+曲立生旗邊四□大近井鉞前觜宿五星守犯主兵災
 [c019-r012 | seal]
-□□□□
+□
 [c019-r013 | chart-label]
 觜
 [c019-r014 | chart-label]
@@ -1958,31 +1954,31 @@ BODLEIAN LIBRARY
 [c020-r001 | title]
 參宿圖
 [c020-r002 | description]
-□有七星觜相侵兩肩雙足三為心伐有三星足裡深玉井四星右足陰
+捉有七星觜相侵兩肩雙足三為心伐有三星足裡深玉井四星右足陰
 [c020-r003 | description]
-屏星兩扇井南襟軍井四星之屏上吟左星下四天厠臨厠下一物天屎沉
+屏星兩厠井南襟軍井四星屏上吟左足下四天厠臨厠下一物天屎沉
 [c020-r004 | description]
-參金火入守兵起災生日月蝕田荒米貴土犯有災
+參金火入守兵起災生日月蝕田荒米貴土犯有災玉井明大動大水
 [c020-r005 | description]
-軍井動有大水月入吾芒屏不具天下疫客星入人多死天厠不明疫
+軍井動有大水月入兵起屏不見天下疫客星入人多死天厠不明疫
 [c020-r006 | description]
-五星守之大肌天屎不見人多病黃黑國肌人病多死常以春分日候之
+五星守之大肌天屎不見人多病若星國肌人病多死常以春分日候之
 [c020-r007 | title]
 井宿圖
 [c020-r008 | description]
-八星八列河中淨星名鉞井邊安兩河各三南北正天樽三星井上頭樽上橫列五諸侯之上北河西積水欲覔積薪東畔是鉞
+八星八列河中淨一星名鉞井邊安兩河各三南北正天樽三星井上頭樽上横列五諸侯之上北河西積水欲覔積薪東畔是鉞
 [c020-r009 | description]
-下四星名水府水位東邊四星序四瀆橫列南河裏南河下頭七軍市軍市團十三星中有一个野雞精子丈人布下列各立
+下四星名水府水位東邊四星序四瀆横列南河裏南河下頭是軍市軍市圍之十三星中有一个野雞精孫子丈人市下列各立
 [c020-r010 | description]
-兩星近東說闕丘兩个南河東丘下一根光蒙茸左畔五个弧弓一矢擬射狼胸有六老人南極中春秋出來夀無窮
+兩星從東說闕丘兩个南河東丘下一狼光芒芒左畔五个彎弧弓一矢擬射頑狼胷有六老人南極中春秋出來壽無窮
 [c020-r011 | description]
-井動搖失色移從□孔洪水為災日月蝕五星逆犯兵起大臣誅鉞大而明則斧鉞用兵起南北河不明黑氣交侵動則迭
+井動搖失色移徙國孔洪水為災日月蝕五星逆犯兵起大臣誅鉞大而明則斧鉞用兵起南北河不明夷交侵動則邊
 [c020-r012 | description]
-兵起五諸侯生角門禍其中起山星犯兵起南北河不見有大水積水不明五穀不登積薪不見天下旱四瀆明大動搖
+兵起五諸侯生角則禍其中起五星犯兵起南北河不見有大水積水不明五榖不登積薪不見天下旱四瀆明大動搖
 [c020-r013 | description]
-則水泛溢野雞移出市兵起狼芒動搖天下亂弧矢起弧矢五星守犯兵大起
+則水泛溢野雞移出市兵起狼芒動搖天下亂□□起弧矢五星守犯兵大起
 [c020-r014 | seal]
-□□□□
+□
 [c020-r015 | chart-label]
 積水
 [c020-r016 | chart-label]
@@ -2046,7 +2042,7 @@ BODLEIAN LIBRARY
 [c021-r003 | description]
 四星冊方似木櫃中央白者積尸氣鬼上四星是爟星天狗
 [c021-r004 | description]
-七星鬼下星外厨六柳星次天社六个弧東倚社東一宿
+七星鬼下星外厨六間柳星次天社六个弧東倚社東一宿
 [c021-r005 | description]
 星天紀積尸明兵起民流亡爟動搖則外兵大入大
 [c021-r006 | description]
@@ -2054,13 +2050,13 @@ BODLEIAN LIBRARY
 [c021-r007 | title]
 柳宿圖
 [c021-r008 | description]
-八星曲頭垂似柳近上三星號為酒柳失色天下不□就
+八星曲頭垂似柳近上三星號為酒柳失色天下不安就
 [c021-r009 | description]
 聚兵滿野月宿柳則霧多陰雨土舍柳不旱即水金犯守兵
 [c021-r010 | description]
 起水火犯旱飢
 [c021-r011 | seal]
-□□□□
+□
 [c021-r012 | chart-label]
 爟
 [c021-r013 | chart-label]
@@ -2084,23 +2080,23 @@ BODLEIAN LIBRARY
 [c022-r001 | title]
 星宿圖
 [c022-r002 | description]
-七星似鈎柳下生星上十七軒轅形左頭四名內屏星之右三个天相名相下稷星
+七星似鈎柳下生星上十七軒轅形東頭四名內屏星之左三个天相名相下稷星
 [c022-r003 | description]
-橫五靈星動則兵起移徙天下易政日蝕兵飢月暈壽犯則兵起軒
+横于灵星動則兵起移徙天下易政日蝕兵肌月暈壽犯則兵起軒
 [c022-r004 | description]
-轅移徙則人流五星守犯有逆賊有火災天稷不明五穀不成星不具歲
+轅移徙則人流五星守犯有逆賊有火灾天稷不明五榖不成星不具歲
 [c022-r005 | description]
-飢不見則大飢人相食
+肌不見則大肌人相食
 [c022-r006 | title]
 張宿圖
 [c022-r007 | description]
-六星似珍近星傍張下只星有天廟十四之星冊四方芒垣少微推
+六星似軫近星傍張下只是有天庙十四之星冊四方長垣少微推
 [c022-r008 | description]
-向上星數款在太微旁太尊一星直上黃□就聚則兵起金火守
+向上星數款在太微旁太尊一星直上黄張就聚則兵起金火守
 [c022-r009 | description]
-之兵起月蝕大滂魚行人道客犯兵起
+之兵起月仲大滂魚行人道守犯兵起
 [c022-r010 | seal]
-□□□□
+□
 [c022-r011 | chart-label]
 少微
 [c022-r012 | chart-label]
@@ -2126,7 +2122,7 @@ BODLEIAN LIBRARY
 [c022-r022 | chart-label]
 天相
 [c022-r023 | chart-label]
-天廟
+天庙
 [c022-r024 | chart-label]
 天稷
 
@@ -2140,25 +2136,25 @@ BODLEIAN LIBRARY
 [c023-r004 | description]
 二十二翼如飛勢上五下五中九氣
 [c023-r005 | description]
-二十二星大難識上五下五橫看着中心六个恰如張更有六星在何處三三
+二十二星大難識上五下五横着看中心六个恰如張更有六星在何處三三
 [c023-r006 | description]
-相連張畔附必若不能分處所更請向前看野取五个黑星翼下認欲知名
+相連張畔附又若不能分處所更請向前看野取五个黑星翼下□欲知名
 [c023-r007 | description]
-字是東甌翼宿月暈大風旱五星彗犯大凶芒動則王者用兵伐戎四方
+字是東甌翼宿月暈大風旱五星□犯大凶芒動則五者用兵□戎四方
 [c023-r008 | description]
-東甌角張則蠻夷叛金火守之兵起
+東甌角張則□夷叛金火守之兵起
 [c023-r009 | title]
 軫宿圖
 [c023-r010 | description]
-四星似張翼相近中央一个長沙子左轄右轄附兩星軍門兩黃近翼是河下四个土司空
+四星似張翼相近中央一个長沙子左轄右轄附兩星軍門兩黄近翼是門下四个土司空
 [c023-r011 | description]
-門東七烏青丘子青丘之下名器府器府之星三十二以上便是太微宮黃道向上看取是
+門東七烏青丘子青丘之下名器府器府之星三十二以便日之太微宮黄道向上看取是
 [c023-r012 | description]
-軫就聚兵大起月宿軫風起日暈戎夷滿野庫無多兵左轄右轄亡則天下傾
+軫就聚兵大起月宿軫風起日暈戎夷滿野庫無畜兵左轄右轄去則天下傾
 [c023-r013 | description]
-搖則兵車動土司空金火犯守多石隕耕女石隕□兵起
+搖則兵車動土司空金火犯守男不得耕女不得織兵起
 [c023-r014 | seal]
-□□□□
+□
 [c023-r015 | chart-label]
 左轄
 [c023-r016 | chart-label]
@@ -2177,6 +2173,8 @@ BODLEIAN LIBRARY
 青丘
 [c023-r023 | chart-label]
 器府
+[c023-r024 | seal-trace]
+□
 
 [c024 | fol. 10b]
 [c024-r001 | chart-label]
@@ -2190,9 +2188,9 @@ BODLEIAN LIBRARY
 [c024-r005 | chart-label]
 七十
 [c024-r006 | chart-label]
-北
+地
 [c024-r007 | chart-label]
-亦利多的爾地
+亦利多的蘭地
 [c024-r008 | chart-label]
 北極界線
 [c024-r009 | chart-label]
@@ -2218,7 +2216,7 @@ BODLEIAN LIBRARY
 [c024-r019 | chart-label]
 五十
 [c024-r020 | chart-label]
-沙瓦□國
+沙瓦丁國
 [c024-r021 | chart-label]
 摩可沙國
 [c024-r022 | chart-label]
@@ -2226,9 +2224,9 @@ BODLEIAN LIBRARY
 [c024-r023 | chart-label]
 多兒美
 [c024-r024 | chart-label]
-祖瓦□
+祖瓦蠟
 [c024-r025 | chart-label]
-諾龍伯代瓦
+諾龍伯尔瓦
 [c024-r026 | chart-label]
 農地
 [c024-r027 | chart-label]
@@ -2236,15 +2234,15 @@ BODLEIAN LIBRARY
 [c024-r028 | chart-label]
 亞泥俺峽
 [c024-r029 | chart-label]
-奇末刺
+寄未刺
 [c024-r030 | chart-label]
-多祿德亞國
+多萊德亞國
 [c024-r031 | chart-label]
 大東洋
 [c024-r032 | chart-label]
 花地
 [c024-r033 | chart-label]
-大入江國
+大入厄國
 [c024-r034 | chart-label]
 新以西巴尼亞
 [c024-r035 | chart-label]
@@ -2262,7 +2260,7 @@ BODLEIAN LIBRARY
 [c024-r041 | chart-label]
 東紅海
 [c024-r042 | chart-label]
-新英巴尼亞海
+新以西巴尼亞海
 [c024-r043 | chart-label]
 二十
 [c024-r044 | chart-label]
@@ -2272,9 +2270,9 @@ BODLEIAN LIBRARY
 [c024-r046 | chart-label]
 小東洋
 [c024-r047 | chart-label]
-厄的馬□
+瓦的馬草
 [c024-r048 | chart-label]
-黑□
+黑漠
 [c024-r049 | chart-label]
 一十
 [c024-r050 | chart-label]
@@ -2332,7 +2330,7 @@ BODLEIAN LIBRARY
 三百
 六十
 [c024-r069 | chart-label]
-□十
+八十
 [c024-r070 | chart-label]
 線
 [c024-r071 | chart-label]
@@ -2346,7 +2344,7 @@ BODLEIAN LIBRARY
 [c024-r075 | chart-label]
 阿勒利亞那河
 [c024-r076 | chart-label]
-伯西□
+伯西兒
 [c024-r077 | chart-label]
 新島
 [c024-r078 | chart-label]
@@ -2366,7 +2364,7 @@ BODLEIAN LIBRARY
 [c024-r085 | chart-label]
 南
 [c024-r086 | chart-label]
-亞古齊亞
+亞吉□□
 [c024-r087 | chart-label]
 東南海
 [c024-r088 | chart-label]
@@ -2392,7 +2390,7 @@ BODLEIAN LIBRARY
 [c024-r098 | chart-label]
 五十
 [c024-r099 | chart-label]
-壽角
+孛角
 [c024-r100 | chart-label]
 墨瓦蠟泥峽
 [c024-r101 | chart-label]
@@ -2422,7 +2420,7 @@ BODLEIAN LIBRARY
 [c025-r001 | chart-label]
 臥蘭的亞島
 [c025-r002 | chart-label]
-大茶谷谷
+大茶荅谷
 [c025-r003 | chart-label]
 冰海
 [c025-r004 | chart-label]
@@ -2434,7 +2432,7 @@ BODLEIAN LIBRARY
 [c025-r007 | chart-label]
 利島
 [c025-r008 | chart-label]
-青厄利亞
+青尼利亞
 [c025-r009 | chart-label]
 北極
 [c025-r010 | chart-label]
@@ -2448,7 +2446,7 @@ BODLEIAN LIBRARY
 [c025-r014 | chart-label]
 其尔目西國
 [c025-r015 | chart-label]
-鄂比河
+阿凡河
 [c025-r016 | chart-label]
 烏洛候
 [c025-r017 | chart-label]
@@ -2474,29 +2472,29 @@ BODLEIAN LIBRARY
 [c025-r027 | chart-label]
 非馬尔亞
 [c025-r028 | chart-label]
-坡帝亞
+□帝亞
 [c025-r029 | chart-label]
 諾尔物
 [c025-r030 | chart-label]
-□厄齊亞
+□尼科亞
 [c025-r031 | chart-label]
 孔勿尼
 [c025-r032 | chart-label]
-亞魯瑞
+魯西亞
 [c025-r033 | chart-label]
 里多西亞
 [c025-r034 | chart-label]
-□尼亞
+西尼亞
 [c025-r035 | chart-label]
 波羅尼亞
 [c025-r036 | chart-label]
 羅
 [c025-r037 | chart-label]
-博多□
+博多曼
 [c025-r038 | chart-label]
 大海
 [c025-r039 | chart-label]
-匈加里亞
+□加里亞
 [c025-r040 | chart-label]
 厄勒察亞
 [c025-r041 | chart-label]
@@ -2508,11 +2506,11 @@ BODLEIAN LIBRARY
 [c025-r044 | chart-label]
 拂郎察
 [c025-r045 | chart-label]
-以西巴尼亞
+以西巴尼要
 [c025-r046 | chart-label]
 波尔都瓦尔
 [c025-r047 | chart-label]
-地畢□
+地盡角
 [c025-r048 | chart-label]
 大西洋
 [c025-r049 | chart-label]
@@ -2530,7 +2528,7 @@ BODLEIAN LIBRARY
 [c025-r055 | chart-label]
 巴尔巴利亞
 [c025-r056 | chart-label]
-厄日多
+阨日多
 [c025-r057 | chart-label]
 巴尔加
 [c025-r058 | chart-label]
@@ -2538,7 +2536,7 @@ BODLEIAN LIBRARY
 [c025-r059 | chart-label]
 莫斯哥未亞
 [c025-r060 | chart-label]
-百尔弥亞
+百尔彌亞
 [c025-r061 | chart-label]
 天方
 [c025-r062 | chart-label]
@@ -2562,33 +2560,33 @@ BODLEIAN LIBRARY
 [c025-r071 | chart-label]
 小西洋
 [c025-r072 | chart-label]
-錫忌蘭
+則意蘭
 [c025-r073 | chart-label]
-榜葛剌海
+榜葛刺海
 [c025-r074 | chart-label]
-北□半
+北巴牛
 [c025-r075 | chart-label]
 星
 [c025-r076 | chart-label]
-暹羅
+羅
 [c025-r077 | chart-label]
-□□齊
+三佛齊
 [c025-r078 | chart-label]
-滿剌加
+滿刺加
 [c025-r079 | chart-label]
-占城甘波亞
+占城甘波子
 [c025-r080 | chart-label]
 安南
 [c025-r081 | chart-label]
 星宿海
 [c025-r082 | chart-label]
-西番
+緬甸
 [c025-r083 | chart-label]
 崑崙
 [c025-r084 | chart-label]
 流沙
 [c025-r085 | chart-label]
-韃而達
+韃而韃
 [c025-r086 | chart-label]
 沙漠
 [c025-r087 | chart-label]
@@ -2626,7 +2624,7 @@ BODLEIAN LIBRARY
 [c025-r103 | chart-label]
 湖廣
 [c025-r104 | chart-label]
-順
+貴州
 [c025-r105 | chart-label]
 雲南
 [c025-r106 | chart-label]
@@ -2642,9 +2640,9 @@ BODLEIAN LIBRARY
 [c025-r111 | chart-label]
 佛沙國
 [c025-r112 | chart-label]
-奴未□亞
+奴米□亞
 [c025-r113 | chart-label]
-厄□地馬羅回國
+厄索加馬羅可國
 [c025-r114 | chart-label]
 彼勒杜尔
 [c025-r115 | chart-label]
@@ -2654,39 +2652,37 @@ BODLEIAN LIBRARY
 [c025-r117 | chart-label]
 亞加得野
 [c025-r118 | chart-label]
-沙土野
+沙世野
 [c025-r119 | chart-label]
 東布多
 [c025-r120 | chart-label]
 加愕
 [c025-r121 | chart-label]
-加諾
+□八加
 [c025-r122 | chart-label]
-甘加位
+甘加池
 [c025-r123 | chart-label]
 墨理
 [c025-r124 | chart-label]
-儒島
-[c025-r125 | chart-label]
-□加
+福島
 [c025-r126 | chart-label]
-默勒登
+默勒
 [c025-r127 | chart-label]
-彼多傍
+彼多茂
 [c025-r128 | chart-label]
-為□亞
+為居亞
 [c025-r129 | chart-label]
 亞辛納加
 [c025-r130 | chart-label]
-白岬
+白峰
 [c025-r131 | chart-label]
-綠岬
+綠峰
 [c025-r132 | chart-label]
 博尔諾
 [c025-r133 | chart-label]
-奴蔑亞
+怒皮亞
 [c025-r134 | chart-label]
-泥祿河
+泥洛河
 [c025-r135 | chart-label]
 亞田比心域
 [c025-r136 | chart-label]
@@ -2694,13 +2690,13 @@ BODLEIAN LIBRARY
 [c025-r137 | chart-label]
 西
 [c025-r138 | chart-label]
-亞刺亞
+亞剌亞
 [c025-r139 | chart-label]
 馬泥土鄂
 [c025-r140 | chart-label]
-濟□河
+□肚河
 [c025-r141 | chart-label]
-門沙反革
+阿沙皮革
 [c025-r142 | chart-label]
 黑人國
 [c025-r143 | chart-label]
@@ -2708,13 +2704,13 @@ BODLEIAN LIBRARY
 [c025-r144 | chart-label]
 莫納木太彼亞
 [c025-r145 | chart-label]
-明山
+月山
 [c025-r146 | chart-label]
-黑□山
+黑峯
 [c025-r147 | chart-label]
 大浪山
 [c025-r148 | chart-label]
-東南海
+西南海
 [c025-r149 | chart-label]
 利未亞海
 [c025-r150 | chart-label]
@@ -2724,7 +2720,7 @@ BODLEIAN LIBRARY
 [c025-r152 | chart-label]
 泥
 [c025-r153 | chart-label]
-墨
+□
 [c025-r154 | chart-label]
 極
 [c025-r155 | chart-label]
@@ -2734,11 +2730,11 @@ BODLEIAN LIBRARY
 [c025-r157 | chart-label]
 勃泥
 [c025-r158 | chart-label]
-□門
+種門
 [c025-r159 | chart-label]
-荅剌
+荅刺
 [c025-r160 | chart-label]
-爪哇
+瓜哇
 [c025-r161 | chart-label]
 馬路
 [c025-r162 | chart-label]
@@ -2798,7 +2794,7 @@ BODLEIAN LIBRARY
 [c025-r189 | chart-label]
 三十
 [c025-r190 | chart-label]
-七十
+四十
 [c025-r191 | chart-label]
 五十
 [c025-r192 | chart-label]
@@ -2806,9 +2802,9 @@ BODLEIAN LIBRARY
 [c025-r193 | chart-label]
 九十
 [c025-r194 | chart-label]
-一百
+百
 [c025-r195 | chart-label]
-□十
+□
 [c025-r196 | chart-label]
 一百□
 [c025-r197 | chart-label]
@@ -2832,12 +2828,10 @@ BODLEIAN LIBRARY
 [c025-r206 | chart-label]
 加
 [c025-r207 | chart-label]
-亞泥□國
+亞泥俺國
 [c025-r208 | chart-label]
 新亞比安
 [c025-r209 | chart-label]
-□□□
-[c025-r210 | chart-label]
 □
 [c025-r211 | chart-label]
 長線
@@ -2845,6 +2839,10 @@ BODLEIAN LIBRARY
 沙□門島
 [c025-r213 | chart-label]
 □
+[c025-r214 | chart-label]
+加諾
+[c025-r215 | chart-label]
+登
 
 [c026 | fol. (10a)b]
 [c026-r001 | title]
