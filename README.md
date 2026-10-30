@@ -1,3 +1,32 @@
+# Sitian Kaoyantu · 司天考驗圖
+
+**A source-aligned AI transcription of a Chinese astronomical manuscript, with located uncertainties and versioned TXT / JSON / TEI files.**
+
+**附底本定位與疑讀紀錄的中國天文手稿 AI 轉錄，提供 TXT／JSON／TEI。** 適合名稱索引、來源查找與後續校勘。
+
+[English documentation](README.en.md) · [完整中文說明](#完整中文說明) · [**Read text｜閱讀文字**](transcription.txt) · [Official images｜館方原圖](https://digital.bodleian.ox.ac.uk/objects/d547c5a0-f642-4dbe-92f4-6766edac9943/) · [Version DOI](https://doi.org/10.5281/zenodo.23723751)
+
+## Choose your entry point｜選擇入口
+
+| Use｜用途 | File｜檔案 |
+| --- | --- |
+| Read or find a name｜閱讀、查找名稱 | [TXT](transcription.txt) |
+| Work with source locations and review status｜使用來源定位與覆核狀態 | [JSON](transcription.json) · [TEI P5 XML](transcription.tei.xml) |
+| Check an uncertain passage against its source｜回圖查核疑讀 | [Uncertainties｜疑讀紀錄](uncertainties.json) · [Source index｜來源索引](source-index.json) |
+| Cite or suggest a correction｜引用或提出訂正 | [Citation｜引用資料](CITATION.cff) · [Contribution guide｜訂正指南](CONTRIBUTING.md) |
+
+**Provisional AI transcription, not a human expert-verified edition.** All 30 IIIF canvases were reviewed within the declared scope; canvases are not leaves. Verify quotations against the original manuscript. The geometry of the diagrams has not been reconstructed.<br>
+**AI 輔助初錄與獨立校讀，尚非人類專家審定本。** 已覆核宣告範圍內的 30 個 IIIF 畫布，畫布數不等於葉數；正式引用請核對底本，圖形幾何尚未重建。
+
+**Bodleian MS.Chin.c.25 · Data v0.2.0.** Source rights and original documentation have separate license layers; see [LICENSE.md](LICENSE.md). Manuscript scans are not redistributed.<br>
+**底本為 Bodleian MS.Chin.c.25，資料版本 v0.2.0。** 來源與整理者自有說明採分層權利，請讀授權文件；本包不再散布底本影像。
+
+**Themes｜主題：** Digital humanities／數位人文 · Chinese manuscripts／中文手稿 · History of astronomy／天文史 · TEI / IIIF
+
+---
+
+<a id="完整中文說明"></a>
+
 # 《司天考驗圖》MS.Chin.c.25：獨立 AI 二校
 
 **v0.2.0，保留疑字；未經人類專家審定。** 整理者：曲宸宇（Chu, Chen-Yu；GitHub：poplolioi11；[ORCID](https://orcid.org/0009-0003-9738-6914)）。
