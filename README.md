@@ -1,5 +1,11 @@
 # Sitian Kaoyantu · 司天考驗圖
 
+## 摘要 / Abstract
+
+本資料以Bodleian Libraries藏MS.Chin.c.25、清吳維鍔《司天考驗圖》為底本，提供v0.2.0的獨立AI影像校讀文字與版面定位。全書30個IIIF畫布的指定文字層經另次讀字、兩稿比較與回圖裁決，整理1,410個文字區塊，保留星圖標籤、圖說韻文、占辭、地圖與日月食圖文字及疑讀，供天文史、圖文關係與數位人文研究檢索及後續校勘。館方抄本定年1800–1899不作創作或出版年；星點、連線與地圖幾何未重建，亦未完成人類雙校。
+
+This dataset provides the v0.2.0 independently AI-collated text and layout locators for 吳維鍔's 司天考驗圖, Bodleian Libraries MS.Chin.c.25. Separate reading, comparison and source-image adjudication across the declared text layers of all 30 IIIF canvases produced 1,410 text blocks, retaining star-chart labels, verse explanations, prognostications, map and eclipse-diagram text, and unresolved readings. It supports discovery and later collation in the history of astronomy, text–image research and digital humanities. The library's 1800–1899 manuscript dating is not treated as a composition or publication date. Star points, connections and map geometry are not reconstructed, and human double collation is incomplete.
+
 **A source-aligned AI transcription of a Chinese astronomical manuscript, with located uncertainties and versioned TXT / JSON / TEI files.**
 
 **附底本定位與疑讀紀錄的中國天文手稿 AI 轉錄，提供 TXT／JSON／TEI。** 適合名稱索引、來源查找與後續校勘。
