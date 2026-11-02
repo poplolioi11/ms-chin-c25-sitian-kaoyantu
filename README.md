@@ -1,10 +1,17 @@
-# Sitian Kaoyantu · 司天考驗圖
+# 司天考驗圖（清抄本；Bodleian MS.Chin.c.25）/ Si tian kao yan tu: Transcription dataset
 
 ## 摘要 / Abstract
 
-本資料以Bodleian Libraries藏MS.Chin.c.25、清吳維鍔《司天考驗圖》為底本，提供v0.2.0的獨立AI影像校讀文字與版面定位。全書30個IIIF畫布的指定文字層經另次讀字、兩稿比較與回圖裁決，整理1,410個文字區塊，保留星圖標籤、圖說韻文、占辭、地圖與日月食圖文字及疑讀，供天文史、圖文關係與數位人文研究檢索及後續校勘。館方抄本定年1800–1899不作創作或出版年；星點、連線與地圖幾何未重建，亦未完成人類雙校。
+《司天考驗圖》是清吳維鍔所撰天文圖說抄本，收星圖、星官標籤、圖說韻文與占辭，並有兩幅世界地圖和日月食圖，可供中國天文知識、星官名稱及圖文關係研究。本資料依Bodleian Libraries藏MS.Chin.c.25，提供全部30個IIIF畫布指定文字層的AI校讀版，以JSON、TXT及TEI P5 XML保留1,410個文字區塊、來源定位、疑讀與訂正；館方1800–1899定年指藏本年代，不作成書或出版年。本版仍未經人類雙校，星點、連線與地圖幾何未重建。
 
-This dataset provides the v0.2.0 independently AI-collated text and layout locators for 吳維鍔's 司天考驗圖, Bodleian Libraries MS.Chin.c.25. Separate reading, comparison and source-image adjudication across the declared text layers of all 30 IIIF canvases produced 1,410 text blocks, retaining star-chart labels, verse explanations, prognostications, map and eclipse-diagram text, and unresolved readings. It supports discovery and later collation in the history of astronomy, text–image research and digital humanities. The library's 1800–1899 manuscript dating is not treated as a composition or publication date. Star points, connections and map geometry are not reconstructed, and human double collation is incomplete.
+Si tian kao yan tu is a Qing astronomical diagram manuscript attributed to Wu Wei’e, containing star charts, labels, explanatory verse and prognostications alongside two world maps and eclipse diagrams. It supports research on Chinese astronomical knowledge, star nomenclature and text–image relations. This dataset provides AI-collated declared text layers across all 30 IIIF canvases of Bodleian Libraries MS.Chin.c.25 in JSON, TXT and TEI P5 XML, retaining 1,410 text blocks, source locators, uncertainties and corrections. The institutional dating of 1800–1899 concerns the manuscript, not a composition or publication date. Human double collation is incomplete, and star points, connections and map geometry have not been reconstructed.
+
+原件與書目入口 / Source witness and catalogue:
+
+- [館藏書目 / Catalogue](https://east-asian.bodleian.ox.ac.uk/catalog/volume_594)
+- [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/d547c5a0-f642-4dbe-92f4-6766edac9943/)
+- [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/d547c5a0-f642-4dbe-92f4-6766edac9943.json)
+- [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml)
 
 **A source-aligned AI transcription of a Chinese astronomical manuscript, with located uncertainties and versioned TXT / JSON / TEI files.**
 
