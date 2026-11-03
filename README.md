@@ -1,4 +1,4 @@
-# 司天考驗圖（清抄本；Bodleian MS.Chin.c.25）/ Si tian kao yan tu: Transcription dataset
+# 司天考驗圖(清抄本;Bodleian MS.Chin.c.25) / Si tian kao yan tu [Diagrams for studying the heavens]: Transcription dataset
 
 ## 摘要 / Abstract
 
@@ -12,6 +12,18 @@ Si tian kao yan tu is a Qing astronomical diagram manuscript attributed to Wu We
 - [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/d547c5a0-f642-4dbe-92f4-6766edac9943/)
 - [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/d547c5a0-f642-4dbe-92f4-6766edac9943.json)
 - [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml)
+
+### 題名與語言說明 / Title and language notes
+
+方括號英譯為編者意譯，非館目正式題名。Bracketed English titles are editorial discovery glosses, not official catalogue English titles.
+
+館目原羅馬字題名：「si tian kao yan tu」。展示：「Si tian kao yan tu」；僅首字母大小寫依展示規則調整，保留館目拼法及長音符號。
+
+題名來源 / Title source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml)
+
+語言層次 / Language layers: 原文依有限公開非操作性文字證據標 lzh，屬編者語體分類，未經全書專家審定。 eng 標記現行英文摘要，不表示固定封存附件全部為英文。 館目原語言代碼 chi 保留作來源資訊，不與本文語體分類混同。
+
+語言來源 / Language source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/MS.Chin.c.25.xml)
 
 **A source-aligned AI transcription of a Chinese astronomical manuscript, with located uncertainties and versioned TXT / JSON / TEI files.**
 
