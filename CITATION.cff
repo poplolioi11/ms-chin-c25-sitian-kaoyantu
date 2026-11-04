@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 type: dataset
 message: 請引用本固定二校版本，並另引歷史作者與Bodleian底本；獨立AI校讀保留疑字，未經人類專家審定。
-title: '《司天考驗圖》MS.Chin.c.25：獨立 AI 二校（保留疑字） / Si tian kao yan tu: independently collated
-  AI transcription'
+title: "司天考驗圖(清抄本;Bodleian MS.Chin.c.25) / Si tian kao yan tu [Diagrams for studying the heavens]: Transcription dataset"
 authors:
 - family-names: Chu
   given-names: Chen-Yu
